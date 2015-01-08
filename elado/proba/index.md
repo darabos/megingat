@@ -7,4 +7,8 @@ title: Próba Ház
 
 Ez a ház eladó.
 
+ - kacsák
+ - bárányok
+ - kenguruk
+
 ![Kívülről](http://i.imgur.com/jFoufpl.jpg)
