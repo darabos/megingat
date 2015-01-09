@@ -11,4 +11,4 @@ Ez a ház eladó.
  - bárányok
  - kenguruk
 
-![Kívülről](http://i.imgur.com/jFoufpl.jpg)
+![Kívülről](http://i.imgur.com/LgWAUIS.jpg)
