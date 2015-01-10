@@ -1,14 +1,14 @@
 ---
 layout: elado
-title: Próba Ház
+title: Eladó családi birtok tavakkal
 ---
 
 # Próba Ház
 
-Ez a ház eladó.
+Eladó a Dunántúl szívében,egy közel 16 ha-os, különleges természeti adottságokkal rendelkező birtok.
 
- - kacsák
- - bárányok
- - kenguruk
+A nagyjából négyzet alakú területen hat, összesen 10 ha-nyi tiszta vizű, 3-4 m mélységű, festői szépségű tó, s a telek mellett a Bakonyból érkező bő vizű patak hiteti el velünk a békét és nyugalmat.
+ 
 
-![Kívülről](http://i.imgur.com/jFoufpl.jpg)
+
+![Kívülről](http://imgur.com/iwsZG17)
