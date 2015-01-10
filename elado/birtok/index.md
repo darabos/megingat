@@ -38,6 +38,7 @@ Budapesttől és a schwechati reptértől 120 km-re bújik meg.
 Az irányára kilencszázötvenezer Euro, vagy ennek megfelelő HUF.
 További információkat kérni, vagy a megtekintéshez időpontot egyeztetni az oldalunkon ismertetett elérhetőségeken lehet.
 Várom megkeresését!
+
 Tisztelettel: 	Darabosné Zsóka :)
 
 # Tavasz a birtokon
