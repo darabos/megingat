@@ -3,7 +3,7 @@ layout: elado
 title: Eladó családi birtok tavakkal
 ---
 
-# Próba Ház
+# Eladó családi birtok tavakkal
 
 Eladó a Dunántúl szívében,egy közel 16 ha-os, különleges természeti adottságokkal rendelkező birtok.
 
@@ -11,4 +11,4 @@ A nagyjából négyzet alakú területen hat, összesen 10 ha-nyi tiszta vizű, 
  
 
 
-![Kívülről](http://imgur.com/iwsZG17)
+![Kívülről](http://i.imgur.com/iwsZG17.jpg)
