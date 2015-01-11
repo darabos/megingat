@@ -2,6 +2,7 @@
   padding: 0;
 }
 
+.content .navi,
 .content h1,
 .content h2,
 .content h3,
@@ -11,6 +12,30 @@
   font-family: 'Ubuntu', sans-serif;
   margin-left: 15%;
   margin-right: 15%;
+}
+
+.content .navi {
+  margin: 0;
+  padding: 10px;
+}
+
+.content .navi > a {
+  color: black;
+  display: block;
+  float: left;
+  margin-left: 10px;
+  margin-right: 100px;
+}
+
+.content .navi > a:hover {
+  text-decoration: none;
+}
+
+.content .logo {
+  padding: 20px;
+  margin: -20px;
+  border-radius: 100px;
+  background: rgb(140, 240, 80);
 }
 
 .content h1 {
