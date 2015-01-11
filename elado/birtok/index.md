@@ -1,11 +1,11 @@
 ---
 layout: elado
-title: Eladó családi birtok, hat tóval
+title: Eladó családi birtok tavakkal
 
 # Irányára: 950000 €
 ---
 
-# Eladó családi birtok, hat tóval
+#![Kívülről](http://i.imgur.com/iwsZG17.jpg) Eladó családi birtok tavakkal
 
 Eladó a Dunántúl szívében egy közel 16 ha-os, különleges természeti adottságokkal rendelkező birtok. 
 
@@ -14,7 +14,7 @@ A nagyjából négyzet alakú területen hat, összesen 10 ha-nyi tiszta vizű, 
 A birtok és a tavak erdősávval szegélyezettek. A tavak között a 6 ha-nyi területen racka juhok legelnek, a park fáin, s a fákra helyezett odúk mélyén énekes madarak, a nádasokban vízimadarak költenek. A szomszédságból gyakori vendégek az őzek. 
 A 2000-ben használatba vett kb. 300 m2-es masszív családi ház úgy fészkelte magát a tavak közé, hogy minden irányba nyíló ablakaiból a fényekkel játszó tavak valamelyikére néz.
 
-![Kívülről](http://i.imgur.com/iwsZG17.jpg)
+#![Kívülről](http://i.imgur.com/0YieXek.jpg)
 
 A mesés környezet elegendően rejtett ahhoz, hogy lakóit megvédje a civilizáció ártalmaitól, mégis biztosítva annak minden kényelmét.  
 
@@ -43,31 +43,31 @@ Tisztelettel: 	Darabosné Zsóka :)
 
 # Tavasz a birtokon
 
-![Kívülről](http://i.imgur.com/CAniLQi.jpg)
-![Kívülről](http://i.imgur.com/DIfS6Ma.jpg)
-![Kívülről](http://i.imgur.com/tFBaYDV.jpg)
+#![Kívülről](http://i.imgur.com/CAniLQi.jpg)
+#![Kívülről](http://i.imgur.com/DIfS6Ma.jpg)
+#![Kívülről](http://i.imgur.com/tFBaYDV.jpg)
 
 # Nyár
 
-![Kívülről](http://i.imgur.com/qlsJhDo.jpg)
-![Kívülről](http://i.imgur.com/abvYTQw.jpg)
-![Kívülről](http://i.imgur.com/Y74UV5D.jpg)
+#![Kívülről](http://i.imgur.com/qlsJhDo.jpg)
+#![Kívülről](http://i.imgur.com/abvYTQw.jpg)
+#![Kívülről](http://i.imgur.com/Y74UV5D.jpg)
 
 # Ősz
 
-![Kívülről](http://i.imgur.com/Tw5fRtU.jpg)
-![Kívülről](http://i.imgur.com/lQApcH0.jpg)
-![Kívülről](http://i.imgur.com/mCprXvQ.jpg)
-![Kívülről](http://i.imgur.com/0YieXek.jpg)
+#![Kívülről](http://i.imgur.com/Tw5fRtU.jpg)
+#![Kívülről](http://i.imgur.com/lQApcH0.jpg)
+#![Kívülről](http://i.imgur.com/mCprXvQ.jpg)
+#![Kívülről](http://i.imgur.com/0YieXek.jpg)
 # Személyzeti épület
-![Kívülről](http://i.imgur.com/slWbkaF.jpg)
+#![Kívülről](http://i.imgur.com/slWbkaF.jpg)
 
 # Tél
 
-![Kívülről](http://i.imgur.com/rXBlorY.jpg)
-![Kívülről](http://i.imgur.com/a8933Ir.jpg)
-![Kívülről](http://i.imgur.com/9sKWRit.jpg)
-![Kívülről](http://i.imgur.com/rTDtkVj.jpg)
-![Kívülről](http://i.imgur.com/NEaUyFO.jpg)
-![Kívülről](http://i.imgur.com/hzfLpmK.jpg)
-![Kívülről](http://i.imgur.com/UKl84dt.jpg)
+#![Kívülről](http://i.imgur.com/rXBlorY.jpg)
+#![Kívülről](http://i.imgur.com/a8933Ir.jpg)
+#![Kívülről](http://i.imgur.com/9sKWRit.jpg)
+#![Kívülről](http://i.imgur.com/rTDtkVj.jpg)
+#![Kívülről](http://i.imgur.com/hzfLpmK.jpg)
+#![Kívülről](http://i.imgur.com/UKl84dt.jpg)
+#![Kívülről](http://i.imgur.com/NEaUyFO.jpg)
