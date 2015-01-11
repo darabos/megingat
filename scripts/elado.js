@@ -27,7 +27,7 @@ $(function() {
       var z = Math.max(2, (r * ih - wh) / (r * ih - ih));
       var ph = Math.min(ih, ih * z / (z - 1) - wh / (z - 1));
       console.log(ih, wh, r, z, ph);
-      return {ih: ih, wh: wh, r: r, z: z, ph: ph};
+      return { ih: ih, wh: wh, r: r, z: z, ph: ph };
     }
 
     $(window).resize(function() {
