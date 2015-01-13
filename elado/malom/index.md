@@ -39,6 +39,8 @@ Jó döntést kívánunk!
 
 # Képek
 
+![Kívülről](http://i.imgur.com/YhI4eTS.jpg)
+
 ![Kívülről](http://i.imgur.com/NBloOsX.jpg)
 
 ![Kívülről](http://i.imgur.com/pwnwLmS.jpg)
@@ -49,7 +51,7 @@ Jó döntést kívánunk!
 
 ![Kívülről](http://i.imgur.com/8PldK8Q.jpg)
 
-![Kívülről](http://i.imgur.com/GBVGLUi.jpg)
+![Kívülről](http://i.imgur.com/PGn81UA.jpg)
 
 ![Kívülről](http://i.imgur.com/GBVGLUi.jpg)
 
