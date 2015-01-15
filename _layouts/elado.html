@@ -4,10 +4,22 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lora&subset=latin,latin-ext">
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Ubuntu:700&subset=latin,latin-ext">
+    <link rel="stylesheet" href="{{ site.baseurl }}/style/elado.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="{{ site.baseurl }}/scripts/imagesloaded.pkgd.min.js"></script>
+    <script src="{{ site.baseurl }}/scripts/elado.js"></script>
   </head>
   <body>
-    <div class="container">
+    <div class="container-fluid content">
+      <div class="navi">
+        <a class="logo" href="{{ site.baseurl }}/">Megingat</a>
+        <a href="{{ site.baseurl }}/elado"><span class="glyphicon glyphicon-home"></span> Eladó ingatlanok</a>
+        <div class="clearfix"></div>
+      </div>
+
       {{ content }}
     <div>
   </body>

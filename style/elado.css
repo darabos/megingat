@@ -1,0 +1,97 @@
+.content {
+  padding: 0;
+}
+
+.content .navi,
+.content h1,
+.content h2,
+.content h3,
+.content h4 {
+  color: black;
+  font-weight: 700;
+  font-family: 'Ubuntu', sans-serif;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.content .navi {
+  margin: 0;
+  padding: 10px;
+}
+
+.content .navi > a {
+  color: black;
+  display: block;
+  float: left;
+  margin-left: 10px;
+  margin-right: 100px;
+}
+
+.content .navi > a:hover {
+  text-decoration: none;
+}
+
+.content .logo {
+  padding: 20px;
+  margin: -20px;
+  border-radius: 100px;
+  background: rgb(140, 240, 80);
+}
+
+.content h1 {
+  font-size: 50px;
+  margin-top: 0;
+  text-align: center;
+  margin-left: 10%;
+  margin-right: 10%;
+  width: 80%;
+}
+
+.content img {
+  width: 100%;
+}
+
+.content p img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.content > * {
+  font-family: 'Lora', serif;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.6);
+  margin-top: 30px;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.content .parallax {
+  margin: 0;
+  overflow: hidden;
+  position: relative;
+}
+
+.content .parallax h1 {
+  position: absolute;
+  bottom: 30px;
+  color: white;
+  text-shadow: 0 0 10px black;
+}
+
+@media (max-width: 700px) {
+  .content h1 {
+    font-size: 24px;
+  }
+  .content > * {
+    font-size: 14px;
+  }
+}
+
+@media print {
+  .content h1 {
+    font-size: 24pt;
+  }
+  .content > * {
+    font-size: 14pt;
+  }
+}
