@@ -42,7 +42,10 @@ $(function() {
     parallax.each(function(i, el) {
       var e = $(el);
       var es = s - e.offset().top;
-      e.find('img').css({ transform: 'translate3d(0px, ' + es / calc(e).z + 'px, 0px)' });
+      var c = calc(e);
+      if (es < c.ph && -c.wh < es) {
+        e.find('img').css({ transform: 'translate3d(0px, ' + es / c.z + 'px, 0px)' });
+      }
     });
   });
 });
