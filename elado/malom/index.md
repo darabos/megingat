@@ -55,4 +55,4 @@ Jó döntést kívánunk!
 
 ![Kívülről](http://i.imgur.com/GBVGLUi.jpg)
 
-![Kívülről](http://i.imgur.com/lvGf4Vr.jpg)
+#![Kívülről](http://i.imgur.com/lvGf4Vr.jpg)
