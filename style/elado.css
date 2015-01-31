@@ -16,11 +16,17 @@
 
 .content .navi {
   margin: 0;
-  padding: 10px;
+  padding: 5px;
+  height: 30px;
+  overflow: hidden;
+  color: rgba(255, 255, 255, 0.8);
+  background: rgba(0, 0, 0, 0.7);
+  font-size: 15px;
+  font-weight: 400;
 }
 
 .content .navi > a {
-  color: black;
+  color: rgba(255, 255, 255, 0.8);
   display: block;
   float: left;
   margin-left: 10px;
@@ -32,10 +38,15 @@
 }
 
 .content .logo {
-  padding: 20px;
-  margin: -20px;
-  border-radius: 100px;
-  background: rgb(140, 240, 80);
+  padding: 10px;
+  margin: -10px;
+  border-radius: 50px;
+  background: rgba(255, 255, 255, 0.5);
+}
+
+.content .logo img {
+  width: 20px;
+  margin-right: 5px;
 }
 
 .content h1 {
