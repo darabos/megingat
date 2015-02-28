@@ -1,27 +1,24 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="hu">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title }}</title>
+    <link rel="icon" href="/images/favicon.png">
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lora&subset=latin,latin-ext">
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Ubuntu:400,700&subset=latin,latin-ext">
-    <link rel="stylesheet" href="/style/elado.css">
+    <link rel="stylesheet" href="/style/megingat.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <script src="/scripts/imagesloaded.pkgd.min.js"></script>
-    <script src="/scripts/elado.js"></script>
+    <script src="/scripts/megingat.js"></script>
   </head>
   <body>
-    <div class="container-fluid content">
-      <div class="navi">
-        <a class="logo" href="/"><img src="/images/logo.svg">Megingat</a>
-        <a href="/elado"><span class="glyphicon glyphicon-home"></span> Eladó ingatlanok</a>
-        <div class="clearfix"></div>
-      </div>
-
+    {% include navi.html %}
+    <div class="container-fluid content prose elado">
       {{ content }}
-    <div>
+    </div>
+    {% include footer.html %}
   </body>
 
   <script>

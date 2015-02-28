@@ -2,7 +2,7 @@
   padding: 0;
 }
 
-.content .navi,
+#navi,
 .content h1,
 .content h2,
 .content h3,
@@ -14,39 +14,66 @@
   margin-right: 15%;
 }
 
-.content .navi {
+.content .carousel h1 {
+  color: white;
+}
+.content .carousel {
+  margin-bottom: 60px;
+}
+.content .marketing h2 {
+  font-size: 25px;
+}
+.content .marketing .col-lg-4 {
+  text-align: center;
+  font-size: 15px;
+  margin-bottom: 50px;
+}
+
+#navi {
   margin: 0;
-  padding: 5px;
-  height: 30px;
-  overflow: hidden;
-  color: rgba(255, 255, 255, 0.8);
-  background: rgba(0, 0, 0, 0.7);
+  padding-left: 5px;
+  background: rgb(70, 0, 70);
   font-size: 15px;
   font-weight: 400;
 }
 
-.content .navi > a {
+#navi > a {
   color: rgba(255, 255, 255, 0.8);
   display: block;
   float: left;
   margin-left: 10px;
-  margin-right: 100px;
+  margin-right: 50px;
+  padding: 10px;
 }
 
-.content .navi > a:hover {
+#navi > a:hover {
   text-decoration: none;
 }
 
-.content .logo {
-  padding: 10px;
-  margin: -10px;
-  border-radius: 50px;
+#navi .logo {
   background: rgba(255, 255, 255, 0.5);
 }
 
-.content .logo img {
+#navi .logo img {
   width: 20px;
   margin-right: 5px;
+}
+
+#footer {
+  background: rgb(100, 0, 100);
+  background: linear-gradient(to bottom, #460046, #640064);
+  color: rgba(255, 255, 255, 0.8);
+  padding: 20px;
+  font-size: 15px;
+}
+
+#footer a {
+  color: rgba(255, 255, 255, 0.8);
+}
+#footer a:hover,
+#footer a:active,
+#footer a:focus {
+  color: white;
 }
 
 .content h1 {
@@ -71,6 +98,9 @@
   font-family: 'Lora', serif;
   font-size: 20px;
   color: rgba(0, 0, 0, 0.6);
+}
+
+.content.prose > * {
   margin-top: 30px;
   margin-bottom: 30px;
   margin-left: 15%;

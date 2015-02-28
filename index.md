@@ -1,8 +1,9 @@
 ---
-layout: elado
+layout: index
 title: Megingat Ingatlanközvetítés
 ---
 
-# Eladó házak
 
- - [Próba ház](elado/proba)
+#![Próba](http://i.imgur.com/iwsZG17.jpg) [Próba ház](elado/proba)
+
+bla bla bla
