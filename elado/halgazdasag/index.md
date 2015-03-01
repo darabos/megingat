@@ -5,6 +5,8 @@ title: Erdők ölén eladó halgazdaság a varázslatos Bakonyban
 
 #![Kívülről](http://i.imgur.com/CZ8Wz2E.jpg) Erdők ölén eladó halgazdaság a varázslatos Bakonyban
 
+{% include fold.html %}
+
 A kínálatban szereplő halgazdaságot az 1910-es években a természettisztelő Esterházy család nem véletlenül telepítette e varázslatos helyre :) A birtok egy része jelenleg is helyi védettségű természetvédelmi terület, amelyet csodálatos, védett bakonyi erdőség ölel körül. 
 
 ![Kívülről](http://i.imgur.com/0rQnSHP.jpg)

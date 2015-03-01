@@ -5,6 +5,8 @@ title: Eladó malom
 
 #![Kívülről](http://i.imgur.com/cHwgdIm.jpg) Eladó önfenntartó tanya a Bakonyban!
 
+{% include fold.html %}
+
 ## Irányára: 500000 €
 
 Izgalmas, különleges, összesen 5,8 ha-os ingatlant ölel a Bakonyban eredő bő vizű Séd patak két ága, Balatonfüredtől mindössze 30 km-re!

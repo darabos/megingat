@@ -5,6 +5,8 @@ title: Eladó fejlesztési terület magánerdővel
 
 #![Kívülről](http://i.imgur.com/gIYG2l7.jpg)
 
+{% include fold.html %}
+
 # Dunántúlon eladó egy fejlesztési terület 50 ha erdővel, tó partján
 
 ## A 7 ha-os építési terület irányára: 150 millió Ft,       
