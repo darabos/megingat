@@ -15,3 +15,9 @@ bla bla bla
 bla bla bla
 
 [Részletek](elado/proba)
+
+#![Próba](http://i.imgur.com/iwsZG17.jpg) Próba ház 3
+
+bla bla bla
+
+[Részletek](elado/proba)

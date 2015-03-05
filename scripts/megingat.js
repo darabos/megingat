@@ -1,15 +1,17 @@
 $(function() {
   // Carousel.
   $('.carousel-template').each(function(i, el) {
-    var tmpl = $(el);
+    var template = $(el);
     var id = 'carousel-' + Math.random().toString(36);
-    var carousel = $('<div id="' + id + '" class="carousel slide" data-ride="carousel"></div>');
+    var carousel = $('<div id="' + id + '" class="carousel slide"></div>');
     var indicators = $('<ol class="carousel-indicators"></ol>');
     var inner = $('<div class="carousel-inner" role="listbox"></div>');
     carousel.append(indicators);
     carousel.append(inner);
-    tmpl.after(carousel);
-    tmpl.find('h1').each(function(i, el) {
+    template.after(carousel);
+    var h1s = template.find('h1');
+    var pages = h1s.length;
+    h1s.each(function(i, el) {
       var h1 = $(el);
       var img = h1.find('img');
       var p = h1.nextUntil('h1');
@@ -26,17 +28,31 @@ $(function() {
       container.append(caption);
       caption.append(h1);
       caption.append(p);
-      p.find('a').addClass('btn btn-lg btn-primary');
+      p.find('a').addClass('btn btn-lg btn-megingat');
     });
-    carousel.append(
-      '<a class="left carousel-control" href="#' + id + '" role="button" data-slide="prev">' +
-        '<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>' +
-        '<span class="sr-only">Previous</span>' +
-      '</a>' +
-      '<a class="right carousel-control" href="#' + id + '" role="button" data-slide="next">' +
-        '<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>' +
-        '<span class="sr-only">Next</span>' +
+    template.remove();
+    var index = 0;
+    var left = $(
+      '<a class="left carousel-control" href>' +
+        '<span class="glyphicon glyphicon-chevron-left"></span>' +
       '</a>');
+    left.click(function(e) {
+      e.preventDefault();
+      index = (index + pages - 1) % pages;
+      carousel.carousel(index);
+    });
+    var right = $(
+      '<a class="right carousel-control" href>' +
+        '<span class="glyphicon glyphicon-chevron-right"></span>' +
+      '</a>');
+    right.click(function(e) {
+      e.preventDefault();
+      index = (index + 1) % pages;
+      carousel.carousel(index);
+    });
+    carousel.append(left);
+    carousel.append(right);
+    carousel.carousel();
   });
 
   // Fold.
