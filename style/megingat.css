@@ -14,6 +14,10 @@
   margin-right: 15%;
 }
 
+.content .carousel img {
+  max-height: 95vh;
+}
+
 .content .carousel h1 {
   color: white;
 }
