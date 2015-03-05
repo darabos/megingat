@@ -32,7 +32,7 @@
 #navi {
   margin: 0;
   padding-left: 5px;
-  background: rgb(70, 0, 70);
+  background: rgb(100, 0, 0);
   font-size: 15px;
   font-weight: 400;
 }
@@ -51,7 +51,7 @@
 }
 
 #navi .logo {
-  background: rgba(255, 255, 255, 0.5);
+  background: rgb(150, 0, 0);
 }
 
 #navi .logo img {
@@ -60,8 +60,8 @@
 }
 
 #footer {
-  background: rgb(100, 0, 100);
-  background: linear-gradient(to bottom, #460046, #640064);
+  background: rgb(100, 0, 0);
+  background: linear-gradient(to bottom, #460000, #640000);
   color: rgba(255, 255, 255, 0.8);
   padding: 20px;
   font-size: 15px;
