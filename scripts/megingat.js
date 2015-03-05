@@ -1,4 +1,44 @@
 $(function() {
+  // Carousel.
+  $('.carousel-template').each(function(i, el) {
+    var tmpl = $(el);
+    var id = 'carousel-' + Math.random().toString(36);
+    var carousel = $('<div id="' + id + '" class="carousel slide" data-ride="carousel"></div>');
+    var indicators = $('<ol class="carousel-indicators"></ol>');
+    var inner = $('<div class="carousel-inner" role="listbox"></div>');
+    carousel.append(indicators);
+    carousel.append(inner);
+    tmpl.after(carousel);
+    tmpl.find('h1').each(function(i, el) {
+      var h1 = $(el);
+      var img = h1.find('img');
+      var p = h1.nextUntil('h1');
+      var indicator = $('<li data-target="#' + id + '" data-slide-to="' + i + '"></li>');
+      if (i === 0) { indicator.addClass('active'); }
+      indicators.append(indicator);
+      var item = $('<div class="item"></div>');
+      if (i === 0) { item.addClass('active'); }
+      inner.append(item);
+      item.append(img);
+      var container = $('<div class="container"></div>');
+      item.append(container);
+      var caption = $('<div class="carousel-caption"></div>');
+      container.append(caption);
+      caption.append(h1);
+      caption.append(p);
+      p.find('a').addClass('btn btn-lg btn-primary');
+    });
+    carousel.append(
+      '<a class="left carousel-control" href="#' + id + '" role="button" data-slide="prev">' +
+        '<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>' +
+        '<span class="sr-only">Previous</span>' +
+      '</a>' +
+      '<a class="right carousel-control" href="#' + id + '" role="button" data-slide="next">' +
+        '<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>' +
+        '<span class="sr-only">Next</span>' +
+      '</a>');
+  });
+
   // Fold.
   $('#fold').each(function(i, el) {
     var visible = true;
