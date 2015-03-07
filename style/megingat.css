@@ -21,16 +21,14 @@
 .content .carousel h1 {
   color: white;
 }
-.content .marketing {
+.content .marketing .col {
   margin-top: 60px;
-}
-.content .marketing h2 {
-  font-size: 25px;
-}
-.content .marketing .col-lg-4 {
+  margin-bottom: 60px;
   text-align: center;
   font-size: 15px;
-  margin-bottom: 50px;
+}
+.content .marketing h1 {
+  font-size: 25px;
 }
 
 #navi {
@@ -46,7 +44,7 @@
   display: block;
   float: left;
   margin-left: 10px;
-  margin-right: 50px;
+  margin-right: 20px;
   padding: 10px;
 }
 
@@ -88,7 +86,6 @@
 
 .content h1 {
   font-size: 50px;
-  margin-top: 0;
   text-align: center;
   margin-left: 10%;
   margin-right: 10%;
@@ -117,7 +114,7 @@
 }
 
 .content .parallax {
-  margin: 0;
+  margin: 0 !important;
   overflow: hidden;
   position: relative;
 }
@@ -128,24 +125,6 @@
   width: 80%;
   color: white;
   text-shadow: 0 0 10px black;
-}
-
-@media (max-width: 700px) {
-  .content h1 {
-    font-size: 24px;
-  }
-  .content > * {
-    font-size: 14px;
-  }
-}
-
-@media print {
-  .content h1 {
-    font-size: 24pt;
-  }
-  .content > * {
-    font-size: 14pt;
-  }
 }
 
 #fold-marker {
@@ -181,6 +160,10 @@
   padding: 20px;
 }
 
+.bemutatkozas .szemely > * {
+  margin-left: 220px;
+}
+
 .bemutatkozas .szemely img {
   height: 200px;
   width: 200px;
@@ -192,9 +175,57 @@
 .bemutatkozas .szemely h1 {
   text-align: left;
   font-size: 30px;
-  margin-left: 220px;
 }
 
-.bemutatkozas .szemely p {
-  margin-left: 220px;
+@media (max-width: 800px) {
+  .content h1 {
+    font-size: 24px;
+  }
+  .content > * {
+    font-size: 14px;
+  }
+  .bemutatkozas .szemely img {
+    height: 100px;
+    width: 100px;
+    margin-left: -120px;
+  }
+  .bemutatkozas .szemely > * {
+    margin-left: 120px;
+  }
+  .bemutatkozas .szemely h1 {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 400px) {
+  .content h1 {
+    font-size: 18px;
+  }
+  .content.prose > * {
+    margin: 10px;
+  }
+  .carousel-caption p {
+    display: none;
+  }
+  .carousel-caption p:last-child {
+    display: block;
+  }
+}
+
+@media print {
+  .content h1 {
+    font-size: 24pt;
+  }
+  .content > * {
+    font-size: 14pt;
+  }
+  #navi,
+  #fold-marker,
+  .carousel {
+    display: none;
+  }
+  #footer a[href]:after,
+  a.btn[href]:after {
+    content: '';
+  }
 }
