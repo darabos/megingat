@@ -175,3 +175,26 @@
   background-color: rgb(100, 0, 0);
   border-color: rgb(70, 0, 0);
 }
+
+.bemutatkozas .szemely {
+  background-color: rgba(100, 0, 0, 0.1);
+  padding: 20px;
+}
+
+.bemutatkozas .szemely img {
+  height: 200px;
+  width: 200px;
+  margin-left: -220px;
+  border-radius: 50%;
+  position: absolute;
+}
+
+.bemutatkozas .szemely h1 {
+  text-align: left;
+  font-size: 30px;
+  margin-left: 220px;
+}
+
+.bemutatkozas .szemely p {
+  margin-left: 220px;
+}
