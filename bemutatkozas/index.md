@@ -1,9 +1,9 @@
 ---
-layout: bemutatkozas
+layout: felsorolas
 title: Megingat Ingatlanközvetítés
 ---
 
-<div class="szemely" markdown="block">
+<div class="egyik" markdown="block">
 
 ![Ildikó](ildiko.jpg)
 
@@ -12,7 +12,7 @@ title: Megingat Ingatlanközvetítés
 Kommunikáció szakon folytattam a tanulmányaimat. Mindig érdekelt az emberekkel való kapcsolattartás, a pszichológia. 2005-ben egy vezető ingatlanforgalmazó cégnél helyezkedtem el, majd ezt követően egyénileg folytattam a tevékenységemet. Az évek során magyar és külföldi partnerekkel együttműködve gyűjtöttem kapcsolatokat, tapasztalatokat, melyek a mai napig segítik munkámat. Vallom (Confucius után szabadon) : Válassz olyan foglalkozást, amit szeretsz, és soha többé nem kell igazán dolgoznod!
 
 </div>
-<div class="szemely" markdown="block">
+<div class="egyik" markdown="block">
 
 ![Zsóka](zsoka.jpg)
 
