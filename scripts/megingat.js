@@ -31,15 +31,13 @@ $(function() {
       p.find('a').addClass('btn btn-lg btn-megingat');
     });
     template.remove();
-    var index = 0;
     var left = $(
       '<a class="left carousel-control" href>' +
         '<span class="glyphicon glyphicon-chevron-left"></span>' +
       '</a>');
     left.click(function(e) {
       e.preventDefault();
-      index = (index + pages - 1) % pages;
-      carousel.carousel(index);
+      carousel.carousel('prev');
     });
     var right = $(
       '<a class="right carousel-control" href>' +
@@ -47,8 +45,7 @@ $(function() {
       '</a>');
     right.click(function(e) {
       e.preventDefault();
-      index = (index + 1) % pages;
-      carousel.carousel(index);
+      carousel.carousel('next');
     });
     carousel.append(left);
     carousel.append(right);
