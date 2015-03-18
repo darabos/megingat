@@ -34,7 +34,7 @@ A kb. 80 m2-es személyzeti lakás különálló kis épületben biztosít bará
 
 Sétálni, futni, biciklizni, akár lovagolni, csónakázni, vitorlázni, szörfözni, horgászni, kertészkedni, kedvenc állatot tartani testi-lelki egészségünk érdekében, mindez birtokon belül lehetséges! Minden évszakban és minden korosztálynak megnyugtató és egyben felkavaró, izgalmas és békés helyszín ez a családi birtok, de talán a gyermekneveléshez adja a legtöbb és legfontosabb segítséget. 
 
-Az ingatlant adottságai alkalmassá teszik akár üzleti célú felhasználásra is. A természet megóvása mellett még további lakóházak is építhetők a tavak prtjára. Változatos helyszíne filmforgatásra is alkalmassá teszi, sőt, ihletet is nyújtó, de pl. közösségépítő-, testi-lelki rehabilitációs-, speciális idős- vagy gyermekotthon munkáját is jelentősen támogató tényező, hogy e varázslatos birtokon a természet részeként élhetünk.
+Az ingatlant adottságai alkalmassá teszik akár üzleti célú felhasználásra is. A természet megóvása mellett még további lakóházak is építhetők a tavak partjára. Változatos helyszíne filmforgatásra is alkalmassá teszi, sőt, ihletet is nyújtó, de pl. közösségépítő-, testi-lelki rehabilitációs-, speciális idős- vagy gyermekotthon munkáját is jelentősen támogató tényező, hogy e varázslatos birtokon a természet részeként élhetünk.
 
 #![Kívülről](http://i.imgur.com/5Zerf82.jpg)
 
