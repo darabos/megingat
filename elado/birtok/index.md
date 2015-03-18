@@ -34,8 +34,6 @@ A kb. 80 m2-es személyzeti lakás különálló kis épületben biztosít bará
 
 Sétálni, futni, biciklizni, akár lovagolni, csónakázni, vitorlázni, szörfözni, horgászni, kertészkedni, kedvenc állatot tartani testi-lelki egészségünk érdekében, mindez birtokon belül lehetséges! Minden évszakban és minden korosztálynak megnyugtató és egyben felkavaró, izgalmas és békés helyszín ez a családi birtok, de talán a gyermekneveléshez adja a legtöbb és legfontosabb segítséget. 
 
-#![Kívülről](http://i.imgur.com/bJNZQYs.jpg)
-
 Az ingatlant adottságai alkalmassá teszik akár üzleti célú felhasználásra is. A természet megóvása mellett még további lakóházak is építhetők a tavak prtjára. Változatos helyszíne filmforgatásra is alkalmassá teszi, sőt, ihletet is nyújtó, de pl. közösségépítő-, testi-lelki rehabilitációs-, speciális idős- vagy gyermekotthon munkáját is jelentősen támogató tényező, hogy e varázslatos birtokon a természet részeként élhetünk.
 
 #![Kívülről](http://i.imgur.com/5Zerf82.jpg)
@@ -47,9 +45,7 @@ Várom megkeresését!
 
 Tisztelettel: 	Darabosné Zsóka :)
 
-# Tavasz a birtokon
-
-![Kívülről](http://i.imgur.com/6rcmvuQ.jpg)
+# További képek
 
 ![Kívülről](http://i.imgur.com/CAniLQi.jpg)
 
@@ -57,15 +53,11 @@ Tisztelettel: 	Darabosné Zsóka :)
 
 ![Kívülről](http://i.imgur.com/tFBaYDV.jpg)
 
-# Nyár
-
 ![Kívülről](http://i.imgur.com/qlsJhDo.jpg)
 
 ![Kívülről](http://i.imgur.com/abvYTQw.jpg)
 
 ![Kívülről](http://i.imgur.com/Y74UV5D.jpg)
-
-# Ősz
 
 ![Kívülről](http://i.imgur.com/mEJXZUn.jpg)
 
@@ -76,12 +68,6 @@ Tisztelettel: 	Darabosné Zsóka :)
 ![Kívülről](http://i.imgur.com/mCprXvQ.jpg)
 
 ![Kívülről](http://i.imgur.com/0YieXek.jpg)
-
-# Személyzeti épület
-
-![Kívülről](http://i.imgur.com/slWbkaF.jpg)
-
-# Tél
 
 ![Kívülről](http://i.imgur.com/rXBlorY.jpg)
 
@@ -96,3 +82,5 @@ Tisztelettel: 	Darabosné Zsóka :)
 ![Kívülről](http://i.imgur.com/UKl84dt.jpg)
 
 ![Kívülről](http://i.imgur.com/NEaUyFO.jpg)
+
+#![Kívülről](http://i.imgur.com/slWbkaF.jpg) Személyzeti épület
