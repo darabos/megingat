@@ -9,7 +9,7 @@ title: Megingat Ingatlanközvetítés
 
 # Kovács Ildikó vagyok.
 
-Kommunikáció szakon folytattam a tanulmányaimat. Mindig érdekelt az emberekkel való kapcsolattartás, a pszichológia. 2005-ben egy vezető ingatlanforgalmazó cégnél helyezkedtem el, majd ezt követően egyénileg folytattam a tevékenységemet. Az évek során magyar és külföldi partnerekkel együttműködve gyűjtöttem kapcsolatokat, tapasztalatokat, melyek a mai napig segítik munkámat. Vallom (Confucius után szabadon) : Válassz olyan foglalkozást, amit szeretsz, és soha többé nem kell igazán dolgoznod!
+Kommunikáció szakon folytattam a tanulmányaimat. Mindig érdekelt az emberekkel való kapcsolattartás, a pszichológia. 2005-ben egy vezető ingatlanforgalmazó cégnél helyezkedtem el, majd ezt követően egyénileg folytattam a tevékenységemet. Az évek során magyar és külföldi partnerekkel együttműködve gyűjtöttem kapcsolatokat, tapasztalatokat, melyek a mai napig segítik munkámat. Vallom (Confucius után) : Válassz olyan foglalkozást, amit szeretsz, és soha többé nem kell igazán dolgoznod!
 
 </div>
 <div class="egyik" markdown="block">
@@ -18,18 +18,27 @@ Kommunikáció szakon folytattam a tanulmányaimat. Mindig érdekelt az emberekk
 
 # Darabosné Zsóka vagyok.
 
-Pedagógiai, egészségügyi, szociálpedagógusi és coach végzettségeimmel feljogosítva testek, lelkek segítőjeként -s mindig mint Zsóka- gyűjtöttem tapasztalatokat és kapcsolatokat, amiket hosszú évek óta kamatoztatok mint ingatlanközvetítő is. Ez a munka az egyik legizgalmasabb segítő tevékenység! :)
+Pedagógiai, egészségügyi, szociálpedagógusi és coach végzettségeimmel feljogosítva testek, lelkek segítőjeként gyűjtöttem tapasztalatokat és kapcsolatokat, amiket hosszú évek óta kamatoztatok mint ingatlanközvetítő is. Ez a munka az egyik legizgalmasabb segítő tevékenység! :)
 
 </div>
 
 Két ember, két út, két élet... és egy varázslatos eladó ingatlannak köszönhetően ma munkatársak és barátok vagyunk... 
 A Megingat Ingatlanközvetítő működésének ötletét a külön utakon szerzett, mégis hasonló tapasztalataink hívták életre.
 
-Nem akarunk, nem is tudunk, hiszen nem is lehet versenyre kelni az ingatlanpiac óriásaival. 
-Miként egy csipetnyi illatos fűszerrel megbolondított csokoládé a bolti tábláshoz képest, vagy egy meghitt olvasósarok a kicsi könyvesboltban a hipermarket könyvtengerével szemben, valahogy így szeretnénk az Ön különleges igényeinek megfelelni egy színes és színvonalas szolgáltatással. Önt akarjuk ahhoz segíteni, amit megálmodott, vagy amiről eddig talán álmodni sem mert. 
+Miként egy csipetnyi illatos fűszerrel megbolondított csokoládé, vagy egy meghitt olvasósarok a kicsi könyvesboltban, valahogy így szeretnénk az Ön különleges igényeinek megfelelni egy színes és színvonalas szolgáltatással. Önt akarjuk ahhoz segíteni, amit megálmodott, vagy amiről eddig talán álmodni sem mert. 
 
-Ha Önnek azt mondták, hogy nem létezik, amit keres, kérjük, ne adja fel! Álma nem múlhat egy nem fellelt ingatlanon! Beszéljünk arról, mi lenne Önnek az igazi, s mi megkeressük Önnek azt! :)
+Ha Önnek azt mondták, hogy nem létezik, amit **keres**, kérjük, ne adja fel! Beszéljünk arról, mi lenne Önnek az igazi, s mi megkeressük Önnek! :)
+
+Amennyiben különleges, **eladó** ingatlanja értékesítéséhez Ön is igénybe kívánja venni szolgáltatásunkat, kérjük vegye fel velünk a kapcsolatot. Megbízási díj kizárólag a közvetítésünkkel eladott ingatlan után illet minket. Annak mértékét -az ingatlan tulajdonságait, az Ön elképzeléseit is figyelembe véve- kölcsönös megegyezés alapján foglaljuk a szerződésbe. Személyes találkozás során pontosan és részletesen tájékoztatjuk Önt minden fontos információról. 
+
 
 Köszönjük bizalmát és várjuk a hívását!
 
 Ildikó és Zsóka
+
+**Kedves Kolléga!**
+
+Ha a kínálatodban szereplő, különleges lehetőségekkel rendelkező ingatlan eladásának akarsz nagyobb esélyt adni, vagy megtalálni szeretnéd a rég keresett, egyedi tulajdonságokkal bíró birtokot igényes ügyfelednek, keress minket! 
+
+Ildikó és Zsóka
+
