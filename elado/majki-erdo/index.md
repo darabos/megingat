@@ -15,7 +15,7 @@ A közel 5 ha-os erdő hivatalos határa a parton túl, a vízbe nyúlik.
 Az akkori legfiatalabb tatai Esterházy gróf által több, mint száz éve telepített mocsári ciprusok és más fakülönlegességek is emelik a terület értékét, amely jelenleg Natura 2000 védelem alatt áll. 
 Szemben a Kamalduli remeteség, a majki szerzetesrend templomának tornya emelkedik, ahonnan a tó felett áthallatszik az óratorony kellemesen csengő harangjátéka. 
 
-http://nemzetimuemlek.hu/index.php/epulet/majk/)
+<http://nemzetimuemlek.hu/index.php/epulet/majk/>
 
 #![](http://i.imgur.com/4fz8u0j.jpg)
 
@@ -35,7 +35,7 @@ Faóriások őrzik nekünk a béke és tisztaság birodalmát.
 Az erdő szomszédsága lakott, ezért vezetékes víz és áram elérhető a telek határán. A tó partján a felújított malomban, a terület egyetlen lakosaként egy fotóművész él.
 A “Vendéglő a négy remetéhez” teraszáról az eladó erdőre mesés kilátás nyílik.
 
-http://www.negyremete.hu/
+<http://www.negyremete.hu/>
 
 Majk erdői, a csillogó víztükör, a hely szellemisége minden évszakban elvarázsolja az idelátogatókat.
 Önnek is érdemes eljönnie! :)
