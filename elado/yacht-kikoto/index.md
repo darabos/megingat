@@ -17,9 +17,6 @@ A **2007-ben 5747 m2-en** épített létesítményhez tartozik az igényes, **14
 #![](http://i.imgur.com/6zbfmva.jpg)
 
 Kedvelt szolgáltatás a squash pálya, a drink bár, a wellness részleg medencével, jakuzzival, szaunával és a medence bárral. 
-
-#![](http://i.imgur.com/aOyzwiY.jpg)
-
 A klubházban kap helyet a **100 fő befogadóképességű**, egyedülálló Balatoni panorámával rendelkező konferenciaterem szakmai találkozókhoz, tréningekhez, amelyet tárgyaló termek is kiegészítenek.
 A **150 fő befogadó képességű** rendezvényterem szintén a Balatonra néz.
 
@@ -43,18 +40,20 @@ Darabosné Zsóka
 
 ## További képek:
 
-#![](http://i.imgur.com/4232j52.jpg)
+![](http://i.imgur.com/aOyzwiY.jpg)
 
-#![](http://i.imgur.com/dg29HXP.jpg)
+![](http://i.imgur.com/4232j52.jpg)
 
-#![](http://i.imgur.com/jObuTs7.jpg)
+![](http://i.imgur.com/dg29HXP.jpg)
 
-#![](http://i.imgur.com/zNbA6K1.jpg)
+![](http://i.imgur.com/jObuTs7.jpg)
 
-#![](http://i.imgur.com/63sfD3H.jpg)
+![](http://i.imgur.com/zNbA6K1.jpg)
 
-#![](http://i.imgur.com/nBX3un7.jpg)
+![](http://i.imgur.com/63sfD3H.jpg)
 
-#![](http://i.imgur.com/0VaClLt.jpg)
+![](http://i.imgur.com/nBX3un7.jpg)
+
+![](http://i.imgur.com/0VaClLt.jpg)
 
 #![](http://i.imgur.com/3vtUCSi.jpg)
