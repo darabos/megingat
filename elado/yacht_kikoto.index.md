@@ -1,6 +1,6 @@
 ---
 layout: elado
-title: Új tulajdonosra vár a színvonalas, népszerű, balatoni yacht kikötő!
+title: Balatoni yacht kikötő!
 ---
 
 #![Kívülről](http://i.imgur.com/4232j52.jpg) Új tulajdonosra vár a színvonalas, népszerű, balatoni yacht kikötő!
