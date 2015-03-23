@@ -47,3 +47,25 @@ Izgalmas, különleges, összesen 5,8 ha-os ingatlant ölel a Bakonyban eredő b
 [Részletek](/elado/malom){:.btn.btn-megingat.pull-right}
 
 </div>
+<div class="egyik clearfix" markdown="block">
+
+![](http://i.imgur.com/EBvtfTD.jpg)
+
+# Különleges hangulatú, tóparti erdő eladó
+
+Eladó Majk tópartjának egy jelentős és egyben legszebb szakasza, a keleti parti erdőség. A közel 5 ha-os erdő hivatalos határa a parton túl, a vízbe nyúlik.
+
+[Részletek](/elado/majki-erdo){:.btn.btn-megingat.pull-right}
+
+</div>
+<div class="egyik clearfix" markdown="block">
+
+![](http://i.imgur.com/4232j52.jpg)
+
+# Új tulajdonosra vár a színvonalas, népszerű, balatoni yacht kikötő!
+
+Az eladó európai színvonalú kikötő 160 kikötőhelye 16 m-es hajók és katamaránok fogadására alkalmas.
+
+[Részletek](/elado/yacht-kikoto){:.btn.btn-megingat.pull-right}
+
+</div>
