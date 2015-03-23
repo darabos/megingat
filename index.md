@@ -30,3 +30,17 @@ A kínálatban szereplő halgazdaságot az 1910-es években a természettisztel�
 Izgalmas, különleges, összesen 5,8 ha-os ingatlant ölel a Bakonyban eredő bő vizű Séd patak két ága, Balatonfüredtől mindössze 30 km-re!
 
 [Részletek](elado/malom)
+
+
+#![](http://i.imgur.com/EBvtfTD.jpg) Különleges hangulatú, tóparti erdő eladó
+
+Eladó Majk tópartjának egy jelentős és egyben legszebb szakasza, a keleti parti erdőség. A közel 5 ha-os erdő hivatalos határa a parton túl, a vízbe nyúlik.
+
+[Részletek](elado/majki-erdo)
+
+
+#![](http://i.imgur.com/4232j52.jpg) Új tulajdonosra vár a színvonalas, népszerű, balatoni yacht kikötő!
+
+Az eladó európai színvonalú kikötő 160 kikötőhelye 16 m-es hajók és katamaránok fogadására alkalmas.
+
+[Részletek](elado/yacht-kikoto)
