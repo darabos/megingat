@@ -60,10 +60,10 @@ Kérem keressen a részletekért! :)
 
 ![Kívülről](http://i.imgur.com/RA4Beiz.jpg)
 
-![Kívülről](http://i.imgur.com/xlGyO9N.jpg)
+![Kívülről](http://i.imgur.com/R7Zi8Nr.jpg)
 
 ![Kívülről](http://i.imgur.com/gw4cy18.jpg)
 
 ![Kívülről](http://i.imgur.com/1IfQJv3.jpg)
 
-![Kívülről](http://i.imgur.com/R7Zi8Nr.jpg)
+#![Kívülről](http://i.imgur.com/xlGyO9N.jpg)
