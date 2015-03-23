@@ -24,7 +24,7 @@ Szemben a Kamalduli remeteség, a majki szerzetesrend templomának tornya emelke
 ![](http://i.imgur.com/554tECv.jpg)
 
 A fenyőillatot megfűszerezi a környéken termesztett és vadon is bőséggel hosszan virágzó levendula…
-Faóriások őrzik nekünk a béke és tisztaság birodalmát.
+Faóriások őrzik a béke és tisztaság birodalmát.
 
 ![](http://i.imgur.com/ZyDVeNX.jpg)
 
@@ -38,7 +38,8 @@ A “Vendéglő a négy remetéhez” teraszáról az eladó erdőre mesés kil�
 <http://www.negyremete.hu/>
 
 Majk erdői, a csillogó víztükör, a hely szellemisége minden évszakban elvarázsolja az idelátogatókat.
-Önnek is érdemes eljönnie! :)
+Nézze meg Ön is! 
+Várjuk a hívását! :)
 
 ![](http://i.imgur.com/Wk32RbG.jpg)
 
