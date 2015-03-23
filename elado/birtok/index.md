@@ -16,7 +16,7 @@ A nagyjából négyzet alakú területen hat, összesen 10 ha-nyi tiszta vizű, 
 A birtok és a tavak erdősávval szegélyezettek. A tavak között a 6 ha-nyi területen racka juhok legelnek, a park fáin, s a fákra helyezett odúk mélyén énekes madarak, a nádasokban vízimadarak költenek. A szomszédságból gyakori vendégek az őzek. 
 A 2000-ben használatba vett kb. 300 m2-es masszív családi ház úgy fészkelte magát a tavak közé, hogy minden irányba nyíló ablakaiból a fényekkel játszó tavak valamelyikére néz.
 
-#![Kívülről](http://i.imgur.com/0YieXek.jpg)
+![Kívülről](http://i.imgur.com/0YieXek.jpg)
 
 A mesés környezet elegendően rejtett ahhoz, hogy lakóit megvédje a civilizáció ártalmaitól, mégis biztosítva annak minden kényelmét.  
 
@@ -36,7 +36,7 @@ Sétálni, futni, biciklizni, akár lovagolni, csónakázni, vitorlázni, szörf
 
 Az ingatlant adottságai alkalmassá teszik akár üzleti célú felhasználásra is. A természet megóvása mellett még további lakóházak is építhetők a tavak partjára. Változatos helyszíne filmforgatásra is alkalmassá teszi, sőt, ihletet is nyújtó, de pl. közösségépítő-, testi-lelki rehabilitációs-, speciális idős- vagy gyermekotthon munkáját is jelentősen támogató tényező, hogy e varázslatos birtokon a természet részeként élhetünk.
 
-#![Kívülről](http://i.imgur.com/5Zerf82.jpg)
+![Kívülről](http://i.imgur.com/5Zerf82.jpg)
 
 Budapesttől és a schwechati reptértől 120 km-re bújik meg. 
 Az irányára kilencszázötvenezer Euro, vagy ennek megfelelő HUF.
