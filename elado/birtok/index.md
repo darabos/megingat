@@ -39,11 +39,12 @@ Az ingatlant adottságai alkalmassá teszik akár üzleti célú felhasználásr
 ![Kívülről](http://i.imgur.com/5Zerf82.jpg)
 
 Budapesttől és a schwechati reptértől 120 km-re bújik meg. 
-Az irányára kilencszázötvenezer Euro, vagy ennek megfelelő HUF.
-További információkat kérni, vagy a megtekintéshez időpontot egyeztetni az oldalunkon ismertetett elérhetőségeken lehet.
-Várom megkeresését!
 
-Tisztelettel: 	Darabosné Zsóka :)
+**Az irányára kilencszázötvenezer €, vagy ennek megfelelő HUF.**
+
+További információkat kérni, vagy a megtekintéshez időpontot egyeztetni az oldalunkon ismertetett elérhetőségeken lehet.
+
+Várjuk megkeresését! :)
 
 # További képek
 
