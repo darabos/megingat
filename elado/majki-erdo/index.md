@@ -51,7 +51,7 @@ Várjuk a hívását! :)
 
 **Az erdő irányára 30 millió HUF.**
 
-## Tövábbi képek:
+# További képek:
 
 ![](http://i.imgur.com/EZKk87o.jpg)
 
