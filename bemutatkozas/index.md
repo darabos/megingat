@@ -27,7 +27,7 @@ A Megingat Ingatlanközvetítő működésének ötletét a külön utakon szerz
 
 Miként egy csipetnyi illatos fűszerrel megbolondított csokoládé, vagy egy meghitt olvasósarok a kicsi könyvesboltban, valahogy így szeretnénk az Ön különleges igényeinek megfelelni egy színes és színvonalas szolgáltatással. Önt akarjuk ahhoz segíteni, amit megálmodott, vagy amiről eddig talán álmodni sem mert. 
 
-Ha Önnek azt mondták, hogy nem létezik, amit **keres**, kérjük, ne adja fel! Beszéljünk arról, mi lenne Önnek az igazi, s mi megkeressük Önnek! :)
+Ha Önnek azt mondták, hogy nem létezik, amit **keres**, kérjük, ne adja fel! Beszéljünk arról, mi lenne Önnek az igazi, s mi megkeressük Önnek azt! :)
 
 Amennyiben különleges, **eladó** ingatlanja értékesítéséhez Ön is igénybe kívánja venni szolgáltatásunkat, kérjük vegye fel velünk a kapcsolatot. Megbízási díj kizárólag a közvetítésünkkel eladott ingatlan után illet minket. Annak mértékét -az ingatlan tulajdonságait, az Ön elképzeléseit is figyelembe véve- kölcsönös megegyezés alapján foglaljuk a szerződésbe. Személyes találkozás során pontosan és részletesen tájékoztatjuk Önt minden fontos információról. 
 
