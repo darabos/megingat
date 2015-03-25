@@ -159,6 +159,17 @@
   opacity: 1;
 }
 
+#scroll-up {
+  font-size: 30px;
+  color: white;
+  opacity: 0.8;
+  text-shadow: 0 0 3px black;
+  cursor: pointer;
+}
+#scroll-up:hover {
+  opacity: 1;
+}
+
 .btn-megingat {
   color: rgba(255, 255, 255, 0.8);
   background-color: rgb(150, 0, 0);

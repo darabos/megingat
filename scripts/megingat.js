@@ -71,6 +71,9 @@ $(function() {
     var foldPos = $('#fold').offset().top;
     $('html, body').animate({ scrollTop: foldPos }, 500);
   });
+  $('#scroll-up').click(function() {
+    $('html, body').animate({ scrollTop: 0 }, 500);
+  });
 
   // Parallax images.
   $('.prose h1 img').wrap('<div class="parallax"></div>');
