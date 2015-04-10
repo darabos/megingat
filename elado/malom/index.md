@@ -3,7 +3,7 @@ layout: elado
 title: Eladó malom
 ---
 
-#![Kívülről](http://i.imgur.com/cHwgdIm.jpg) Eladó önfenntartó tanya a Bakonyban!
+#![Kívülről](http://i.imgur.com/HSakLid.jpg) Eladó önfenntartó tanya a Bakonyban!
 
 {% include fold.html %}
 
@@ -40,6 +40,8 @@ A sokféle lehetőséget nyújtó 5,8 ha-os terület ára 135 000 000 HUF.
 Jó döntést kívánunk!
 
 # További képek
+
+![Kívülről](http://i.imgur.com/cHwgdIm.jpg)
 
 ![Kívülről](http://i.imgur.com/YhI4eTS.jpg)
 
