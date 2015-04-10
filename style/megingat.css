@@ -68,7 +68,7 @@
 }
 
 #footer {
-  background: rgb(100, 0, 0);
+  background: #640000;
   background: linear-gradient(to bottom, #460000, #640000);
   color: rgba(255, 255, 255, 0.8);
   padding: 20px;
@@ -82,6 +82,23 @@
 #footer a:active,
 #footer a:focus {
   color: white;
+}
+
+#footer .mini {
+  font-size: 10px;
+  opacity: 0.5;
+}
+
+#footer .contacts {
+  display: inline-block;
+  margin: 2px;
+}
+#footer .contacts p {
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+#footer .contacts p:first-child {
+  font-size: 15px;
 }
 
 .content h1 {
