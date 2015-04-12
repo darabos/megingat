@@ -7,7 +7,7 @@ title: Megingat Ingatlanközvetítés
 
 <div class="egyik" markdown="block">
 
-![Ildikó](ildiko.jpg)
+![Ildikó](http://i.imgur.com/5XYTxhD.jpg)
 
 ## Kovács Ildikó vagyok.
 
