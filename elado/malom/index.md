@@ -33,7 +33,7 @@ Az eladó terület közvetlen szomszédságában további termőföld területek
 
 [Herend](http://hu.wikipedia.org/wiki/Herend) Veszprémtől 15 km, Balatonfüredtől 30 km, Budapesttől 120 km távolságra van.
 
-A sokféle lehetőséget nyújtó 5,8 ha-os terület ára 135 000 000 HUF.
+A sokféle lehetőséget nyújtó 5,8 ha-os ingatlan **irányára 500 000 €.**
 
 Érdeklődjön a részletekről! Érdemes :)
 
