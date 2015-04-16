@@ -87,7 +87,7 @@ A tetőtér igény esetén könnyedén átalakítható galériává, fényesség
 ![](http://i.imgur.com/p3teDkl.jpg)
 
 A **pince szinten** található egy borospincének ideális, állandóan hűvös tároló, a szauna, amihez természetesen fürdő is kapcsolódik, a fitness helyiség, valamint a medencegépészet és a kazánház, amely a mérete alapján akár fatárolásra is alkalmas.
-A gazdasági épület a főépület északi oldalához kapcsolódik. Itt kapott helyett a kétállásos, fűthető garázs. Szintén itt található egy-két fő személyzet részére a kisebb  személyzeti lakás, amely előtér-konyhából, fürdőszobából, nappali és hálószobából, valamint egy raktárhelyiségből áll.
+A gazdasági épület a főépület északi oldalához kapcsolódik. Itt kapott helyet a kétállásos, fűthető garázs. Szintén itt található egy-két fő személyzet részére a kisebb  személyzeti lakás, amely előtér-konyhából, fürdőszobából, nappali és hálószobából, valamint egy raktárhelyiségből áll.
 Amennyiben személyes megtekintése után is érdekli Önt az ingatlan, a helyiséglista és a műszaki rajzok természetesen a rendelkezésére állnak.
 
 **Az ingatlan irányára 970000 €.**
