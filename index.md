@@ -44,3 +44,10 @@ Eladó Majk tópartjának egy jelentős és egyben legszebb szakasza, a keleti p
 Az eladó európai színvonalú kikötő 160 kikötőhelye 16 m-es hajók és katamaránok fogadására alkalmas.
 
 [Részletek](elado/yacht-kikoto)
+
+
+#![](http://i.imgur.com/8MmaJiO.jpg) Exkluzív villa eladó Leányfalun
+
+Az ingatlan elegáns, luxusigényeket is kielégítő több generációs családi ház. Új tulajdonosa igényei szerint fejleszthető exkluzív vendégházzá, alkotóházzá vagy felsőkategóriás vendéglátóhellyé. 
+
+[Részletek](elado/leanyfalu)
