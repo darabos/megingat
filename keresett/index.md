@@ -11,8 +11,6 @@ title: Megingat Ingatlanközvetítés
 
 Eladó a Dunántúl szívében egy közel 16 ha-os, különleges természeti adottságokkal rendelkező birtok.
 
-[Részletek](/elado/birtok){:.btn.btn-megingat.pull-right}
-
 </div>
 <div class="egyik clearfix" markdown="block">
 
@@ -20,62 +18,4 @@ Eladó a Dunántúl szívében egy közel 16 ha-os, különleges természeti ado
 
 A Balaton-felvidéken, közlekedés szempontjából is szerencsés helyen, a Balatonhoz, neves termálfürdőkhöz közel, Ausztriától 70 km-re terül el egy mesés, 57 ha-os ingatlan együttes, amelyből 50 ha erdő, 7 ha pedig “szabadidőpark és üdülőfalu” kialakítására friss engedéllyel rendelkező terület.
 
-[Részletek](/elado/fejlesztesi-terulet){:.btn.btn-megingat.pull-right}
-
 </div>
-<div class="egyik clearfix" markdown="block">
-
-![](http://i.imgur.com/CZ8Wz2E.jpg)
-
-# Halgazdaság a varázslatos Bakonyban
-
-A kínálatban szereplő halgazdaságot az 1910-es években a természettisztelő Esterházy család nem véletlenül telepítette e varázslatos helyre :) A birtok egy része jelenleg is helyi védettségű természetvédelmi terület, amelyet csodálatos, védett bakonyi erdőség ölel körül.
-
-[Részletek](/elado/halgazdasag){:.btn.btn-megingat.pull-right}
-
-</div>
-<div class="egyik clearfix" markdown="block">
-
-![](http://i.imgur.com/cHwgdIm.jpg)
-
-# Önfenntartó tanya a Bakonyban
-
-Izgalmas, különleges, összesen 5,8 ha-os ingatlant ölel a Bakonyban eredő bő vizű Séd patak két ága, Balatonfüredtől mindössze 30 km-re!
-
-[Részletek](/elado/malom){:.btn.btn-megingat.pull-right}
-
-</div>
-<div class="egyik clearfix" markdown="block">
-
-![](http://i.imgur.com/EBvtfTD.jpg)
-
-# Különleges hangulatú, tóparti erdő eladó
-
-Eladó Majk tópartjának egy jelentős és egyben legszebb szakasza, a keleti parti erdőség. A közel 5 ha-os erdő hivatalos határa a parton túl, a vízbe nyúlik.
-
-[Részletek](/elado/majki-erdo){:.btn.btn-megingat.pull-right}
-
-</div>
-<div class="egyik clearfix" markdown="block">
-
-![](http://i.imgur.com/4232j52.jpg)
-
-# Új tulajdonosra vár a színvonalas, népszerű, balatoni yacht kikötő!
-
-Az eladó európai színvonalú kikötő 160 kikötőhelye 16 m-es hajók és katamaránok fogadására alkalmas.
-
-[Részletek](/elado/yacht-kikoto){:.btn.btn-megingat.pull-right}
-
-</div>
-<div class="egyik clearfix" markdown="block">
-
-![](http://i.imgur.com/8MmaJiO.jpg)
-
-# Exkluzív villa eladó Leányfalun
-
-Az ingatlan elegáns, luxusigényeket is kielégítő több generációs családi ház. Új tulajdonosa igényei szerint fejleszthető exkluzív vendégházzá, alkotóházzá vagy felsőkategóriás vendéglátóhellyé.
-
-[Részletek](/elado/leanyfalu){:.btn.btn-megingat.pull-right}
-
-</div>
-
