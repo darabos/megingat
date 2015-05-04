@@ -13,9 +13,13 @@ Eladó a Dunántúl szívében egy közel 16 ha-os, különleges természeti ado
 
 A nagyjából négyzet alakú területen hat, összesen 10 ha-nyi tiszta vizű, 3-4 m mélységű, festői szépségű tó, s a telek mellett a Bakonyból érkező bő vizű patak hiteti el velünk a békét és nyugalmat. 
 
-![Kívülről](http://i.imgur.com/wM0SiRQ.jpg)
+![Kívülről](http://i.imgur.com/TeM31Dy.jpg)
 
-A birtok és a tavak erdősávval szegélyezettek. A tavak között a 6 ha-nyi területen racka juhok legelnek, a park fáin, s a fákra helyezett odúk mélyén énekes madarak, a nádasokban vízimadarak költenek. A szomszédságból gyakori vendégek az őzek. 
+![Kívülről](http://i.imgur.com/sryDGCp.jpg)
+
+A birtok és a tavak erdősávval szegélyezettek. A tavak között a 6 ha-nyi területen racka juhok legelnek, a park fáin, s a fákra helyezett odúk mélyén énekes madarak, a nádasokban vízimadarak költenek. A szomszédságból gyakori vendégek az őzek.
+
+![Kívülről](http://i.imgur.com/wM0SiRQ.jpg)
 
 ![Kívülről](http://i.imgur.com/3nLPwBi.jpg)
 
@@ -28,6 +32,8 @@ A mesés környezet elegendően rejtett ahhoz, hogy lakóit megvédje a civiliz�
 A fűnyírástól kíméli tulajdonosait a kb. húsz magyar racka juh. A téli élelmezésüket a 180 m2-es csűr padlásán tárolt, a kaszálón nyáron gyűjtött széna biztosítja. A szaporulat eladható, hiszen a területen ennél több állat már nem élne ilyen boldogan.
 
 ![Kívülről](http://i.imgur.com/tFBaYDV.jpg)
+
+![Kívülről](http://i.imgur.com/TU3h4gX.jpg)
 
 A gyümölcsös és a veteményeskert bőséges terméssel hálálja meg a gondozását! A tavak sokféle halvacsorához kínálják a friss zsákmányt.
 
@@ -61,7 +67,11 @@ Sétálni, futni, biciklizni, akár lovagolni, csónakázni, vitorlázni, szörf
 
 ![Kívülről](http://i.imgur.com/5Zerf82.jpg)
 
+![Kívülről](http://i.imgur.com/RhooCdw.jpg)
+
 Az ingatlant adottságai alkalmassá teszik akár üzleti célú felhasználásra is. A természet megóvása mellett még további lakóházak is építhetők a tavak partjára. Változatos helyszíne filmforgatásra is alkalmassá teszi, sőt, ihletet is nyújtó, de pl. közösségépítő-, testi-lelki rehabilitációs-, speciális idős- vagy gyermekotthon munkáját is jelentősen támogató tényező, hogy e varázslatos birtokon a természet részeként élhetünk.
+
+![](http://i.imgur.com/gY5SZ1w.jpg)
 
 ![Kívülről](http://i.imgur.com/zeFnO79.jpg)
 
