@@ -71,7 +71,7 @@ Sétálni, futni, biciklizni, akár lovagolni, csónakázni, vitorlázni, szörf
 
 Az ingatlant adottságai alkalmassá teszik akár üzleti célú felhasználásra is. A természet megóvása mellett még további lakóházak is építhetők a tavak partjára. Változatos helyszíne filmforgatásra is alkalmassá teszi, sőt, ihletet is nyújtó, de pl. közösségépítő-, testi-lelki rehabilitációs-, speciális idős- vagy gyermekotthon munkáját is jelentősen támogató tényező, hogy e varázslatos birtokon a természet részeként élhetünk.
 
-http://i.imgur.com/gY5SZ1w.jpg
+![](http://i.imgur.com/gY5SZ1w.jpg)
 
 ![Kívülről](http://i.imgur.com/zeFnO79.jpg)
 
