@@ -61,7 +61,7 @@ A **Forgách-lakosztály** egy nagyméretű világos szobából, gardróbból, t
 
 ![](http://i.imgur.com/xttllkC.jpg)
 
-Az emelten található még további két, egymással megegyező elrendezésű erkélyes lakosztály, melyek egy-egy nagy szobából és fürdőszobából állnak.
+Az emeleten található még további két, egymással megegyező elrendezésű erkélyes lakosztály, melyek egy-egy nagy szobából és fürdőszobából állnak.
 
 ![](http://i.imgur.com/jRYbVQJ.jpg)
 
