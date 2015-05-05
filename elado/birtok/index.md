@@ -5,7 +5,7 @@ title: Eladó családi birtok tavakkal
 # Irányára: 950000 €
 ---
 
-#![Kívülről](http://i.imgur.com/5NeiKwa.jpg?1) Eladó családi birtok tavakkal
+#![Kívülről](http://i.imgur.com/OFNAOMq.jpg) Eladó családi birtok tavakkal
 
 {% include fold.html %}
 
@@ -135,4 +135,4 @@ Várjuk megkeresését! :)
 
 ![Kívülről](http://i.imgur.com/kB2UOAX.jpg)
 
-#![Kívülről](http://i.imgur.com/mXXvgto.jpg)
+#![Kívülről](http://i.imgur.com/WP6P12U.jpg)
