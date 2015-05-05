@@ -37,9 +37,9 @@ A fűnyírástól kíméli tulajdonosait a kb. húsz magyar racka juh. A téli �
 
 A gyümölcsös és a veteményeskert bőséges terméssel hálálja meg a gondozását! A tavak sokféle halvacsorához kínálják a friss zsákmányt.
 
-![Kívülről](http://i.imgur.com/pPZiXeG.jpg)
+![Kívülről](http://i.imgur.com/yYqBdol.jpg)
 
-![Kívülről](http://i.imgur.com/IIl0wpy.jpg)
+![Kívülről](http://i.imgur.com/96XqvQu.jpg)
 
 A vasalt beton alapon álló ház 60 cm vastag külső falai kétrétegűek, kívül terméskőből, belül téglából épültek. Tömör tölgyfa nyílászárói, az erőteljes fa tetőszerkezete és a nádtető a környezethez méltó harmóniával illeszkedik a tájba.
 
