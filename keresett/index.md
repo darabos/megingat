@@ -5,17 +5,16 @@ title: Megingat Ingatlanközvetítés
 
 <div class="egyik clearfix" markdown="block">
 
-![](http://i.imgur.com/iwsZG17.jpg)
 
-# Családi birtok tavakkal
+# Kis kastélyt, kúriát keresünk ügyfelünknek
 
-Eladó a Dunántúl szívében egy közel 16 ha-os, különleges természeti adottságokkal rendelkező birtok.
-
+Több ha-os erdős, patakos területen álló, felújítható kis kastélyt, vadászházat vagy kúriát keresünk, amely megőrizte stílusjegyeit. 
+Max. 100 000 000 HUF
 </div>
 <div class="egyik clearfix" markdown="block">
 
-# Fejlesztési terület 50 ha erdővel, tó partján 
+# Saját tóval rendelkező 3-10 ha-os területet keresünk több ügyfelünknek is 
 
-A Balaton-felvidéken, közlekedés szempontjából is szerencsés helyen, a Balatonhoz, neves termálfürdőkhöz közel, Ausztriától 70 km-re terül el egy mesés, 57 ha-os ingatlan együttes, amelyből 50 ha erdő, 7 ha pedig “szabadidőpark és üdülőfalu” kialakítására friss engedéllyel rendelkező terület.
-
+Szép természeti környezetben, tiszta vizű tó partján beépíthető területeket keresünk. 
+Max. 100 000 000 HUF
 </div>
