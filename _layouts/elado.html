@@ -14,6 +14,13 @@
     <script src="/scripts/megingat.js"></script>
   </head>
   <body>
+
+    <div id="google_translate_element"></div><script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({pageLanguage: 'hu', includedLanguages: 'ar,az,cs,da,de,el,en,fa,fi,fr,ga,hr,hy,is,it,iw,ja,ko,mt,nl,pl,ro,ru,sv,tr,uk,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-63176090-1'}, 'google_translate_element');
+    }
+    </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
     {% include navi.html %}
     <div class="container-fluid content prose elado">
       {{ content }}

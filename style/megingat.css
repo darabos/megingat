@@ -275,3 +275,7 @@
     content: '';
   }
 }
+
+.goog-te-gadget {
+  float: right;
+}
