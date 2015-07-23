@@ -2,7 +2,7 @@
 layout: elado
 title: Exkluzív villa eladó Leányfalun
 
-# Irányára: 970000 €
+# Irányára: 1100000 €
 ---
 
 #![Kívülről](http://i.imgur.com/8MmaJiO.jpg) Exkluzív villa eladó Leányfalun
@@ -19,7 +19,7 @@ A házat a magyar szecessziós építészet egyik kiemelkedő építésze, Pogá
 
 ![](http://i.imgur.com/vuBA1tI.jpg)
 
-Az ingatlanra a főútról távirányítással nyitható kapun keresztül lehet bejutni. A két külön helyrajzi számon nyilvántartott terület összesen közel 0,55 hektár. A rendezett, ősfás, parkosított kert esővízgyűjtő ciszternáról és talajvízkútról is üzemelő automata öntözőrendszerrel gondozható. A kert békéjét a ház melletti két hatalmas platánfa és óriási fenyők őrzik. A telken szabályos méretű a bekerített, automata locsolású, megvilágított, salakos teniszpálya, amely szinte elvész a hatalmas kertben.
+Az ingatlanra a főútról távirányítással nyitható kapun keresztül lehet bejutni. A két külön helyrajzi számon nyilvántartott terület összesen közel 0,55 hektár. A rendezett, ősfás, parkosított kert esővízgyűjtő ciszternáról és talajvízkútról is üzemelő automata öntözőrendszerrel gondozható. A kert békéjét a ház melletti két hatalmas platánfa és óriási fenyők őrzik. A hatalmas kertben kényelmesen elfér a szabályos méretű, bekerített, automata locsolású, megvilágított, salakos teniszpálya.
 A telek felső részén elhelyezkedő főépületből és melléképületből álló épületegyütteshez, amelynek összes alapterülete 775 m2, térkővel burkolt úton lehet eljutni. 
 
 ![](http://i.imgur.com/O9TRoi2.jpg)
@@ -90,7 +90,7 @@ A **pince szinten** található egy borospincének ideális, állandóan hűvös
 A gazdasági épület a főépület északi oldalához kapcsolódik. Itt kapott helyet a kétállásos, fűthető garázs. Szintén itt található egy-két fő személyzet részére a kisebb  személyzeti lakás, amely előtér-konyhából, fürdőszobából, nappali és hálószobából, valamint egy raktárhelyiségből áll.
 Amennyiben személyes megtekintése után is érdekli Önt az ingatlan, a helyiséglista és a műszaki rajzok természetesen a rendelkezésére állnak.
 
-**Az ingatlan irányára 970000 €.**
+**Az ingatlan irányára 1100000 €.**
 
 Kérem, egyeztessen időpontot a megtekintéshez! Érdemes :)
 
