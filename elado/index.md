@@ -80,4 +80,15 @@ Az ingatlan elegáns, luxusigényeket is kielégítő több generációs család
 [Részletek](/elado/leanyfalu){:.btn.btn-megingat.pull-right}
 
 </div>
+<div class="egyik clearfix" markdown="block">
+
+![](http://i.imgur.com/J4m9gPe.jpg)
+
+# Vadregényes vízi-világ eladó Pannonhalmán
+
+Az eladó birtokot a Világörökség részét képező Pannonhalmi Bencés Apátság impozáns épület-együttese őrzi.
+
+[Részletek](/elado/pannonhalma){:.btn.btn-megingat.pull-right}
+
+</div>
 
