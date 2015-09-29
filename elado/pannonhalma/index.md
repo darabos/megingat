@@ -1,9 +1,8 @@
 ---
 layout: elado
-title:  Vadregényes vízi-világ eladó Pannonhalmán 
+title: Vadregényes vízi-világ eladó Pannonhalmán 
 
-
-**Irányára: 3500000 €**
+# Irányára: 3500000 €
 ---
 
 #![Kívülről](http://i.imgur.com/J4m9gPe.jpg) Vadregényes vízi-világ eladó Pannonhalmán
