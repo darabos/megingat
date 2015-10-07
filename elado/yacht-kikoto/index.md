@@ -47,10 +47,6 @@ Kérem érdeklődjön a részletekről! **Érdemes :)**
 
 ![](http://i.imgur.com/jObuTs7.jpg)
 
-![](http://i.imgur.com/zNbA6K1.jpg)
-
-![](http://i.imgur.com/63sfD3H.jpg)
-
 ![](http://i.imgur.com/nBX3un7.jpg)
 
 ![](http://i.imgur.com/0VaClLt.jpg)
