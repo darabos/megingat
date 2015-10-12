@@ -41,22 +41,22 @@ full utility coverage, including waste water drainage. There are ten wells, thre
 ![](http://i.imgur.com/u8pO4z1.jpg)
 
 The shore of one of the bigger lakes, nearly 10 hectares of land, is a buildable recreation area. The
-plans  and  permits  for  an  inn,  a  restaurant,  nine­store  business  center,  a  campsite  with  direct  road 
-access, and a 50­unit apartment complex are all available to the new owner.
+plans and permits for an inn, a restaurant, nine-store business center, a campsite with direct road
+access, and a 50-unit apartment complex are all available to the new owner.
 
 ![](http://i.imgur.com/Z9Mvnzz.jpg)
 
 ![](http://i.imgur.com/z9XAbPi.jpg)
 
-The  property sold  with full  ownership rights  and  not subject  to  the  usual  Hungarian  property­law
-restrictions. It can be expanded further with available adjacent properties. The clear deep water lakes 
+The property sold with full ownership rights and not subject to the usual Hungarian property-law
+restrictions. It can be expanded further with available adjacent properties. The clear deep water lakes
 are suitable for water sports as well as attracting bird life.
 
 ![](http://i.imgur.com/82xwMWm.jpg)
 
 ![](http://i.imgur.com/L59MRbw.jpg)
 
-All the inventory of high­quality machinery and many vehicles are also included in the price of the property.
+All the inventory of high-quality machinery and many vehicles are also included in the price of the property.
 
 ![](http://i.imgur.com/Yo8OmHX.jpg)
 

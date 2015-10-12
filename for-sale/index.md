@@ -30,11 +30,11 @@ The famous Esterházy family established this estate in 1910.
 
 ![](http://i.imgur.com/cHwgdIm.jpg)
 
-# Self­sustaining homestead for sale near the Bakony mountains
+# Self-sustaining homestead for sale near the Bakony mountains
 
 Exciting, unique, 5.8 ha (approximately 15 acres) property located between two branches of the permanent
 Sed patak (Shaid stream). The property is only 30 km from the famous tourist and health center of 
-Balatonfured­­consequently from the "Hungarian sea" of Lake Balaton.
+Balatonfured—consequently from the "Hungarian sea" of Lake Balaton.
 
 [Details](/for-sale/mill){:.btn.btn-megingat.pull-right}
 
@@ -57,8 +57,8 @@ The nearly 5 hectares of forest on the beach includes a narrow track in the wate
 
 # Luxurious villa for sale in Leányfalu
 
-The property is an elegant, luxurious, inter­generational family house.
-According to the new owner's needs, it could be developed into an exclusive guest house, an artist's retreat, or a high­end restaurant.
+The property is an elegant, luxurious, inter-generational family house.
+According to the new owner's needs, it could be developed into an exclusive guest house, an artist's retreat, or a high-end restaurant.
 
 [Details](/for-sale/leanyfalu){:.btn.btn-megingat.pull-right}
 
