@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }}</title>
+    <link rel="icon" href="/images/favicon.png">
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lora:400,700&subset=latin,latin-ext">
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Ubuntu:400,700&subset=latin,latin-ext">
+    <link rel="stylesheet" href="/style/megingat.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+    <script src="/scripts/megingat.js"></script>
+  </head>
+  <body>
+    {% include english-navi.html %}
+    <div class="container-fluid content index">
+
+      <div class="carousel-template">
+        {{ content }}
+      </div>
+
+      {% include fold.html %}
+
+      <div class="container marketing">
+
+        <div class="row">
+          <div class="col col-md-4">
+            <img class="img-circle" src="http://i.imgur.com/iwsZG17.jpg" style="width: 140px; height: 140px;">
+            <h1>For sale</h1>
+            <p>While we continuously expand our product range, increasing our inventory is not our primary goal.
+            Our offerings on these pages­­whether hidden or conspicuous­­offer exciting opportunities for 
+            your creativity to turn them into your unique possessions.</p>
+            <p><a class="btn btn-megingat" href="/for-sale" role="button">Listings&nbsp;&raquo;</a></p>
+          </div>
+
+          <div class="col col-md-4">
+            <img class="img-circle" src="http://i.imgur.com/gIYG2l7.jpg" style="width: 140px; height: 140px;">
+            <h1>Property-search service</h1>
+            <p>If you want to realize your dream, or you want to invest in unique or special properties, please
+            contact us! Our site and our continuous "real­estate detective" activity can help you find your
+            dream property.</p>
+          </div>
+
+          <div class="col col-md-4">
+            <img class="img-circle" src="http://i.imgur.com/cHwgdIm.jpg" style="width: 140px; height: 140px;">
+            <h1>Contact us!</h1>
+            <p>Welcome to our demo site of property selection!</p>
+            <p>However unlikely, if you cannot reach either of us on the phone, please leave a message and we
+            will call you back as soon as possible.</p>
+            <p><a class="btn btn-megingat" href="/about" role="button">About&nbsp;us&nbsp;&raquo;</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    {% include english-footer.html %}
+  </body>
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-32704033-3', 'auto');
+    ga('send', 'pageview');
+  </script>
+
+</html>
