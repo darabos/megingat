@@ -47,8 +47,6 @@ Thank you for your trust and we look forward to your call!
 
 Ildikó & Zsóka
 
-**Kedves Kolléga!**
-
 **A note to colleagues**
 
 Whether you are trying to sell a property that is truly unique, or helping to
