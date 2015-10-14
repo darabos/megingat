@@ -28,7 +28,7 @@ Nagyobb rendezvényekhez a konferencia terem és a rendezvényterem kapacitása 
 
 A jelenleg is jól működő létesítmény sikerét jelentős mértékben segíti elő a hozzáértő és gondos személyzet, a méltán híres Bavaria hajószerviz, a daruzási lehetőség.
 
-**Az ingatlan irányára: 918 750 000 HUF + ÁFA, ill. 2 900 000 € + VAT (Tájékoztató értékű!)**
+**Az ingatlan irányára: 941 718 750 HUF + ÁFA, ill. 2 950 000 € + VAT (Tájékoztató értékű!)**
 
 ![](http://i.imgur.com/YuteIF0.jpg)
 
