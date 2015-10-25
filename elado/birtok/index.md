@@ -2,16 +2,17 @@
 layout: elado
 title: Eladó családi birtok tavakkal
 
-# Irányára: 950000 €
+# Irányára: 650000 €
 ---
 
 #![Kívülről](http://i.imgur.com/OFNAOMq.jpg) Eladó családi birtok tavakkal
 
 {% include fold.html %}
 
-Eladó a Dunántúl szívében egy közel 16 ha-os, különleges természeti adottságokkal rendelkező birtok. 
+**Eladó, akár 650 000 €-ért a Dunántúl szívében egy különleges természeti adottságokkal rendelkező birtok!** 
 
-A nagyjából négyzet alakú területen hat, összesen 10 ha-nyi tiszta vizű, 3-4 m mélységű, festői szépségű tó, s a telek mellett a Bakonyból érkező bő vizű patak hiteti el velünk a békét és nyugalmat. 
+A nagyjából négyzet alakú területen hat, összesen 10 ha-nyi tiszta vizű, 3-4 m mélységű, festői szépségű tó, s a telek mellett a Bakonyból érkező bő vizű patak hiteti el velünk a békét és nyugalmat.
+**Most a terület egyben, vagy természetes egységeire bontva is megvásárolható!**
 
 ![Kívülről](http://i.imgur.com/TeM31Dy.jpg)
 
@@ -56,6 +57,8 @@ Az épület fenntartása gazdaságos módon történik. A 70 m mély fúrt kút 
 ![Kívülről](http://i.imgur.com/ipImzmf.jpg)
 
 A kereszt alakú lakóház alagsorában található a kazánház a két kazánnal, pince, nyári konyha és csónaktároló. A földszinten amerikai konyha, 50 m2-es nappali szoba, 3 hálószoba, 1 dolgozó szoba, 1 vendégszoba, személyzeti szoba, 3 fürdőszoba, télikert, közlekedő, kétállásos fűtött garázs és hatalmas teraszok vannak. A lakóház része egy külön bejáratú, önálló, teraszos, egyszobás apartman is. 
+**A főépület a legnagyobb és egy kisebb tóval, valamint 330 m-nyi patakparttal 650000 €-ért megvásárolható.** Ezzel az új tulajdonos előjogot szerez a maradék, így már szomszédos terület megvásárlására, amelyhez annak egy éven belüli megvétele esetén megegyezés szerinti, szerződésben rögzített, kedvező áron juthat hozzá.
+
 
 ![Kívülről](http://i.imgur.com/UvqNx4O.jpg)
 
@@ -77,7 +80,7 @@ Az ingatlant adottságai alkalmassá teszik akár üzleti célú felhasználásr
 
 Budapesttől és a schwechati reptértől 120 km-re bújik meg. 
 
-**Az irányára kilencszázötvenezer €, vagy ennek megfelelő HUF.**
+**A teljes terület is megvásárolható, az irányára kilencszázötvenezer €, vagy ennek megfelelő HUF.**
 
 További információkat kérni, vagy a megtekintéshez időpontot egyeztetni az oldalunkon ismertetett elérhetőségeken lehet.
 
