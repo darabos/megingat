@@ -80,7 +80,7 @@ Az ingatlant adottságai alkalmassá teszik akár üzleti célú felhasználásr
 
 Budapesttől és a schwechati reptértől 120 km-re bújik meg. 
 
-**A teljes terület is megvásárolható, az irányára kilencszázötvenezer €, vagy ennek megfelelő HUF.**
+**A főépület a legnagyobb és egy kisebb tóval, valamint 330 m-nyi patakparttal hatszázötvenezer (650000) €-ért megvásárolható, a teljes terület irányára pedig kilencszázötvenezer (950000) €, vagy ennek megfelelő HUF.**
 
 További információkat kérni, vagy a megtekintéshez időpontot egyeztetni az oldalunkon ismertetett elérhetőségeken lehet.
 
