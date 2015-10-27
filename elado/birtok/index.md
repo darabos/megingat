@@ -5,11 +5,11 @@ title: Eladó családi birtok tavakkal
 # Irányára: 650000 €
 ---
 
-#![Kívülről](http://i.imgur.com/OFNAOMq.jpg) Eladó családi birtok tavakkal
+#![Kívülről](http://i.imgur.com/OFNAOMq.jpg) Eladó családi birtok tavakkal - jelentős kedvezménnyel!!!
 
 {% include fold.html %}
 
-**Eladó, akár 650 000 €-ért a Dunántúl szívében egy különleges természeti adottságokkal rendelkező birtok!** 
+**Eladó 650 000 €-ért a Dunántúl szívében egy különleges természeti adottságokkal rendelkező birtok!** 
 
 A nagyjából négyzet alakú területen hat, összesen 10 ha-nyi tiszta vizű, 3-4 m mélységű, festői szépségű tó, s a telek mellett a Bakonyból érkező bő vizű patak hiteti el velünk a békét és nyugalmat.
 **Most a terület egyben, vagy természetes egységeire bontva is megvásárolható!**
@@ -57,8 +57,7 @@ Az épület fenntartása gazdaságos módon történik. A 70 m mély fúrt kút 
 ![Kívülről](http://i.imgur.com/ipImzmf.jpg)
 
 A kereszt alakú lakóház alagsorában található a kazánház a két kazánnal, pince, nyári konyha és csónaktároló. A földszinten amerikai konyha, 50 m2-es nappali szoba, 3 hálószoba, 1 dolgozó szoba, 1 vendégszoba, személyzeti szoba, 3 fürdőszoba, télikert, közlekedő, kétállásos fűtött garázs és hatalmas teraszok vannak. A lakóház része egy külön bejáratú, önálló, teraszos, egyszobás apartman is. 
-**A főépület a legnagyobb és egy kisebb tóval, valamint 330 m-nyi patakparttal 650000 €-ért megvásárolható.** Ezzel az új tulajdonos előjogot szerez a maradék, így már szomszédos terület megvásárlására, amelyhez annak egy éven belüli megvétele esetén megegyezés szerinti, szerződésben rögzített, kedvező áron juthat hozzá.
-
+**A főépület a legnagyobb és egy kisebb tóval, valamint hosszú patakparttal 650000 €-ért megvásárolható.** Ezzel az új tulajdonos előjogot szerez a maradék, így már szomszédos terület megvásárlására, amelyhez annak egy éven belüli megvétele esetén 1,6 €/m2-es, igen kedvező áron juthat hozzá!
 
 ![Kívülről](http://i.imgur.com/UvqNx4O.jpg)
 
@@ -80,7 +79,7 @@ Az ingatlant adottságai alkalmassá teszik akár üzleti célú felhasználásr
 
 Budapesttől és a schwechati reptértől 120 km-re bújik meg. 
 
-**A főépület a legnagyobb és egy kisebb tóval, valamint 330 m-nyi patakparttal hatszázötvenezer (650000) €-ért megvásárolható, a teljes terület irányára pedig kilencszázötvenezer (950000) €, vagy ennek megfelelő HUF.**
+**A főépület a legnagyobb és egy kisebb tóval, valamint hosszú patakparttal hatszázötvenezer (650000) €-ért megvásárolható, a teljes terület irányára pedig nyolcszázezer (800000) €, vagy ennek megfelelő HUF.**
 
 További információkat kérni, vagy a megtekintéshez időpontot egyeztetni az oldalunkon ismertetett elérhetőségeken lehet.
 
