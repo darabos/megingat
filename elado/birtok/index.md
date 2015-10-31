@@ -9,10 +9,11 @@ title: Eladó családi birtok tavakkal
 
 {% include fold.html %}
 
-**Eladó 650 000 €-ért a Dunántúl szívében egy különleges természeti adottságokkal rendelkező birtok!** 
+**Eladó 650 000 €-ért a Dunántúl szívében egy különleges természeti adottságokkal rendelkező 6,5 ha-os birtok!** 
+**A teljes eladó terület közel 16 ha-on terül el, ennek ára 800 000 €.** 
+**Most a terület egyben, vagy természetes egységeire bontva is megvásárolható!**
 
 A nagyjából négyzet alakú területen hat, összesen 10 ha-nyi tiszta vizű, 3-4 m mélységű, festői szépségű tó, s a telek mellett a Bakonyból érkező bő vizű patak hiteti el velünk a békét és nyugalmat.
-**Most a terület egyben, vagy természetes egységeire bontva is megvásárolható!**
 
 ![Kívülről](http://i.imgur.com/TeM31Dy.jpg)
 
