@@ -39,7 +39,7 @@ Eladó Majk tópartjának egy jelentős és egyben legszebb szakasza, a keleti p
 [Részletek](elado/majki-erdo)
 
 
-#![](http://i.imgur.com/4232j52.jpg) Új tulajdonosra vár a színvonalas, népszerű, balatoni yacht kikötő!
+#![](http://i.imgur.com/4232j52.jpg) **ELKELT!** Új tulajdonosra vár a színvonalas, népszerű, balatoni yacht kikötő!
 
 Az eladó európai színvonalú kikötő 160 kikötőhelye 16 m-es hajók és katamaránok fogadására alkalmas.
 
