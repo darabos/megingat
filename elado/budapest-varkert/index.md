@@ -9,7 +9,7 @@ title: Budapesten a Világörökség része, a Várkert Palota eladó!
 
 {% include fold.html %}
 
-Magyarország talán legkülönlegesebb épülete Ybl Miklós tervei alapján 1874 és 1879 között a Királyi Palota vízellátási rendszerének gépházaként épült. A Duna vizét a hermetikusan zárt, precízen kiépített alagúttal kapcsolatban lévő ciszternákban elhelyezett kavicsréteg segítségével tisztították meg, majd -a most eladó épületből- vezetéken nyomták fel a királyi palotához, így biztosítva a vár ivóvíz-szükségletét.
+Magyarország talán legkülönlegesebb épülete Ybl Miklós tervei alapján 1874 és 1879 között a Királyi Palota vízellátási rendszerének gépházaként épült. A Duna vizét a hermetikusan zárt, precízen kiépített alagúttal kapcsolatban lévő ciszternákban elhelyezett kavicsréteg segítségével tisztították meg, majd — a most eladó épületből — vezetéken nyomták fel a királyi palotához, így biztosítva a vár ivóvíz-szükségletét.
 
 http://epiteszforum.hu/files/VK_muszaki_leiras.pdf/
 
@@ -35,7 +35,7 @@ https://hu.wikipedia.org/wiki/Várkert-kioszk/
 
 ![](http://i.imgur.com/vTnei1e.jpg)
 
-A telek területe bár csak 800 m2, parkjával és szökőkútjával, valamint háttérben a Dunával és a kitárulkozó panorámával elegendő kerete a nettó 1262 m2 föld feletti területtel rendelkező palotának. Korszerű, gáz alapú fan-coil (http://fan-coil.mtt.hu/) rendszerrel a tágas terek hűtése és fűtése is gazdaságos.
+A telek területe bár csak 800 m2, parkjával és szökőkútjával, valamint háttérben a Dunával és a kitárulkozó panorámával elegendő kerete a nettó 1262 m2 föld feletti területtel rendelkező palotának. Korszerű, gáz alapú [fan-coil](http://fan-coil.mtt.hu/) rendszerrel a tágas terek hűtése és fűtése is gazdaságos.
 
 ![](http://i.imgur.com/uWjq1PT.jpg)
 
