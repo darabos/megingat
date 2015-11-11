@@ -9,11 +9,12 @@ title: Family estate with lakes for sale
 
 {% include fold.html %}
 
-**A family estate on 16 hectare (40 acre) of land is for sale from € 650,000 in a unique natural environment in the Bakony-alja region.**
+**A family estate on 16 hectare (40 acre) of land is for sale € 800,000 in a unique natural environment in the Bakony-alja region.**
 
 The roughly square-shaped plot of land holds six lakes with abundant fish. The lakes have a total area of 10 hectares (25 acres) are 3-4 meter deep. A fast flowing stream from the Bakony runs by the plot and brings serenity with it.
 
 **The estate can now be bought as a whole or split into its natural units.**
+The price of the part is 6.5 hectare is only € 650,000.
 
 ![](http://i.imgur.com/TeM31Dy.jpg)
 
@@ -58,7 +59,7 @@ Running the building is economical. A 70 meter (200 foot) deep well provides cer
 ![](http://i.imgur.com/ipImzmf.jpg)
 
 The building is cross shaped. The basement holds the room for the central heating (with two burners), the cellar, a summer kitchen and the boat storage room. The ground floor holds the open kitchen, the 50 square meter (500 square foot) lounge, 3 bedrooms, a study, a guest room, staff room, 3 bathrooms, winter garden, hall, heated double garage and vast terraces. A separate one bedroom apartment with its own front door is also a part of the building.
-**The main building plus the largest lake plus a smaller lake plus 330 m of riverside land are on sale for € 650,000.** The buyer also gets right of first refusal to the remaining (neighboring) land at an especially low price set in the contract for one year after the purchase.
+**The main building plus the largest lake plus a smaller lake plus long of riverside land are on sale for € 650,000.** The buyer also gets right of first refusal to the remaining (neighboring) land at an especially low price set in the contract for one year after the purchase.
 
 ![](http://i.imgur.com/UvqNx4O.jpg)
 
@@ -82,9 +83,10 @@ Az ingatlant adottságai alkalmassá teszik akár üzleti célú felhasználásr
 
 The land is 120 km (75 miles) from Budapest and the Schwechat (Vienna) airport.
 
-**The whole estate is also for sale at an asking price of € 950,000 or equivalent HUF.**
+**The whole estate is also for sale at an asking price of € 800,000 or equivalent HUF.**
+**The 6.5 hectares part of the estate are only € 650,000!**
 
-For more information or to arrange a viewing please contact darabos.zsoka@gmail.com.
+For more information or to arrange a viewing please contact **darabos.zsoka@gmail.com**.
 
 # More photos
 
