@@ -3,6 +3,12 @@ layout: english-index
 title: Megingat Real Estate
 ---
 
+#![](http://i.imgur.com/OFNAOMq.jpg) Family estate with lakes for sale
+
+A family estate on 16 hectare (40 acre) of land is for sale from € 650,000 in a unique natural environment in the Bakony-alja region.
+
+[Details](/for-sale/family-estate)
+
 
 #![](http://i.imgur.com/gIYG2l7.jpg) Private forest and development site for sale
 
