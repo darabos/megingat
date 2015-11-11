@@ -91,4 +91,15 @@ Az eladó birtokot a Világörökség részét képező Pannonhalmi Bencés Apá
 [Részletek](/elado/pannonhalma){:.btn.btn-megingat.pull-right}
 
 </div>
+<div class="egyik clearfix" markdown="block">
 
+![](http://i.imgur.com/ejPMmsq.jpg)
+
+# Budapesten a Világörökség része, a Várkert Palota eladó
+
+Magyarország talán legkülönlegesebb épülete Ybl Miklós tervei alapján 1874 és 1879 között a Királyi Palota
+vízellátási rendszerének gépházaként épült.
+
+[Részletek](/elado/budapest-varkert){:.btn.btn-megingat.pull-right}
+
+</div>
