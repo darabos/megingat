@@ -37,8 +37,6 @@ https://hu.wikipedia.org/wiki/Várkert-kioszk/
 
 A telek területe bár csak 800 m2, parkjával és szökőkútjával, valamint háttérben a Dunával és a kitárulkozó panorámával elegendő kerete a nettó 1262 m2 föld feletti területtel rendelkező palotának. Korszerű, gáz alapú [fan-coil](http://fan-coil.mtt.hu/) rendszerrel a tágas terek hűtése és fűtése is gazdaságos.
 
-![](http://i.imgur.com/uWjq1PT.jpg)
-
 ![](http://i.imgur.com/d6x6ZPN.jpg)
 
 ![](http://i.imgur.com/3QIV180.jpg)
