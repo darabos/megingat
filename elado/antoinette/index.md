@@ -38,7 +38,7 @@ A külön bejáraton is megközelíthető tetőtér beépítése, egy 100 m2-es 
 ![](http://i.imgur.com/VzcJJ8J.jpg)
 
 A házban 8 szoba, 3 fürdőszoba, 4 WC van. A hasznos alapterület 535 m2. 
-A ház alagsorában a fitnesz helyiség, biliárd szalon kandallóval, iroda, háztartási helyiségek (pl. mosókonyha ideérkező szennyesledobóval) 187 m2-t foglalnak. Innen nyílik a 79 m2-es,  jó állapotban lévő, állandó hőmérsékletű, 120 éves borospince és a 100 m2 új garázs is.
+A ház alagsorában a fitnesz helyiség, biliárd szalon kandallóval, iroda, háztartási helyiségek (pl. mosókonyha ideérkező szennyesledobóval) 187 m2-t foglalnak. Innen nyílik a 79 m2-es,  jó állapotban lévő, állandó hőmérsékletű, 120 éves borospince és a 100 m2-es új garázs is.
 Az eredeti lakószint 207 m2, a beépített tetőtér 141 m2. 
 A vezetékes gázzal működő automata kazán radiátorokkal ill. padlófűtéssel biztosítja a kívánt hőmérsékletet a házban. A mesteri Zsolnay cserépkályha és a kandalló is üzemképes. Légkondicionálást a falvastagság miatt nem igényel az épület. A központi porszívó és a riasztó rendszer kényelmet ill. a fokozott biztonságot jelenti.
 
@@ -54,8 +54,12 @@ A vezetékes gázzal működő automata kazán radiátorokkal ill. padlófűtés
 
 ![](http://i.imgur.com/T1BVOyv.jpg)
 
+![](http://i.imgur.com/QECO7pD.jpg)
+
 A Gellérthegy tengerszint feletti magasságával azonos szinten álló villa két generációs lakóépületnek, cégközpontnak, akár követségi rezidenciának is kiválóan alkalmas. Az épület néhány hete a kerület helyi védettségét is élvezi, amely sok esetben számottevő anyagi előnyt is jelent a tulajdonosának.
-A villa rendkívül igényes berendezésével együtt eladó, azonnal beköltözhető, per-, teher- és igénymentes.
+Elhelyezkedése is szerencsés, hiszen orvosi rendelő, az új uszoda, teniszpályák és a templom 5-10 percen belül gyalog elérhetők.
+
+A villa rendkívül **igényes berendezésével együtt eladó**, azonnal beköltözhető, per-, teher- és igénymentes.
 
 ![](http://i.imgur.com/d2q7043.jpg)
 
@@ -109,5 +113,5 @@ A település 1950-től Budapesthez tartozik, elérhetők fővárosunk előnyei,
 
 ![](http://i.imgur.com/87Lz1Z9.jpg)
 
-![](http://i.imgur.com/q2eHWdk.jpg)
+#![](http://i.imgur.com/q2eHWdk.jpg)
 
