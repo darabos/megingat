@@ -1,6 +1,6 @@
 ---
 layout: elado
-title: Eladó fejlesztési terület magánerdővel
+title: Eladó fejlesztési terület
 ---
 
 #![Kívülről](http://i.imgur.com/gIYG2l7.jpg) Dunántúlon eladó tó parti fejlesztési terület
@@ -9,29 +9,23 @@ title: Eladó fejlesztési terület magánerdővel
 
 ## A 7 ha-os építési terület irányára: 105 millió Ft,     
 
-## az 50 ha-os erdő irányára 110 millió Ft, amelyből 2400 m3 azonnal kitermelhető 50 millió Ft értékben...
-
-
 ![Kívülről](http://i.imgur.com/4Kk3IvM.jpg)
 
-A Balaton-felvidéken, közlekedés szempontjából is szerencsés helyen, a Balatonhoz, neves termálfürdőkhöz közel, Ausztriától 70 km-re terül el egy mesés, 57 ha-os ingatlan együttes, amelyből 50 ha erdő, 7 ha pedig “szabadidőpark és üdülőfalu” kialakítására friss engedéllyel rendelkező terület. 
+A Balaton-felvidéken, közlekedés szempontjából is szerencsés helyen, a Balatonhoz, neves termálfürdőkhöz közel, Ausztriától 70 km-re terül el a 7 ha-os “szabadidőpark és üdülőfalu” kialakítására friss engedéllyel rendelkező terület. 
 
-Az építési terület közvetlenül határos az üdítő, kb. 7 ha-os, minősített horgásztóval, amely jelenleg a közeli település önkormányzatának tulajdona, valamint a saját erdővel. 
+Az építési terület közvetlenül határos az üdítő, kb. 7 ha-os, minősített horgásztóval, amely jelenleg a közeli település önkormányzatának tulajdona, valamint egy frissítő, árnyat nyújtó erdővel. 
 
 ![Kívülről](http://i.imgur.com/rRavE48.jpg)
 
 Itt igazán békés környezetben lehet akár azonnal megkezdeni a fejlesztő lépéseket... 
-Az erdőn átfolyik a tavat is tápláló, a szomszédos természetvédelmi területeket összekötő patak, ami az erdő frissességét is fenntartja, s az erdő vadjait itatja.
+Az erdőn át érkezik a tavat is tápláló, a szomszédos természetvédelmi területeket összekötő patak, ami a kb. 70 éves erdő frissességét fenntartja, s a nagyvadas vadászterület vadjait is itatja.
 
 ![Kívülről](http://i.imgur.com/8RHLcAN.jpg)
-
-Az erdő  kb. 70 éves, nagyvadas vadászterület. Lehetőség nyílik itt a saját erdőbirtokon történő vadászatra is. 
-Kb. 12 000 m3 faállománnyal rendelkezik, amely nagyrészt cser, kisebb részt tölgy, valamint erdei fenyő. Különlegessége, hogy -eltérően a hazai erdők legtöbbjétől- nem tartozik erdőbirtokosságba. Ebben a nagyon ritka helyzetben a tulajdonos rendelkezik minden döntési joggal! A jelenleg kitermelhető 2400 m3 fa az erdő frissítését szolgálhatja.
 
 ![Kívülről](http://i.imgur.com/1bYttsG.jpg)
 
 Áram, vezetékes víz és vezetékes gáz a telekhatáron, a szennyvíz elvezetés pedig kb. 1000 m-re található, amelyre a község csatlakozást biztosít. A terület szolgáltatótól független vízellátása megoldható kitűnő vízminőségű fúrt kutakkal is. Az önkormányzat a fejlesztést maximálisan támogatja, elsősorban turizmusra, egészség turizmusra, horgászatra, vadászatra, sportra, lovas sportra épülő beruházást látnának szívesen.
-(Természetesen ez nem kötelező. Lehetséges magán, vagy kettős célú felhasználás is, minderről a tulajdonos dönt.) Az elképzelés megalapozott, hiszen rendkívül jó a terület elhelyezkedése: neves borvidékek, termálfürdők, kiránduló helyek, Balaton, Győr, Ausztria és Budapest is egyszerűen elérhető. A fejlesztéseket jelentős mértékben segítik az aktuális támogató pályázatok is!
+(Természetesen lehetséges magán, vagy kettős célú felhasználás is, minderről a tulajdonos dönt.) Az elképzelés megalapozott, hiszen rendkívül jó a terület elhelyezkedése: neves borvidékek, termálfürdők, kiránduló helyek, Balaton, Győr, Ausztria és Budapest is egyszerűen elérhető. A fejlesztéseket jelentős mértékben segítik az aktuális támogató pályázatok is!
 
 ![Kívülről](http://i.imgur.com/M16yHXg.jpg)
 
@@ -39,23 +33,9 @@ Kb. 12 000 m3 faállománnyal rendelkezik, amely nagyrészt cser, kisebb részt 
 
 ![Kívülről](http://i.imgur.com/tXcJuhj.jpg)
 
-**Az 50 ha-os erdő irányára 110 millió Ft.**
-
-![Kívülről](http://i.imgur.com/EppmBYR.jpg)
-
 Kérjük érdeklődjön a részletekről!
 
 Jó döntést kívánunk! :)
-
-# További képek
-
-![Kívülről](http://i.imgur.com/tS2IWvH.jpg)
-
-![Kívülről](http://i.imgur.com/1bYttsG.jpg)
-
-![Kívülről](http://i.imgur.com/DBuUaVP.jpg)
-
-![Kívülről](http://i.imgur.com/dUwsTHH.jpg)
 
 ![Kívülről](http://i.imgur.com/1OA3sSw.jpg)
      		            
