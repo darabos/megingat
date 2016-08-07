@@ -31,15 +31,13 @@ A tavak körbe járhatóak, rendszeresen tisztítottak, leüríthetők. (A képe
 
 A jelenleg tenyésztett halfajták: pontyok, amurok, keszegek, busák, csukák, süllők és harcsák. A tavak természetesen rendelkeznek az üzemeltetéshez szükséges vízjogi engedéllyel.
 
-A terület közművesített. A legnagyobb tó partján álló felújítandó épületek, az összkomfortos, 53 m2-es halász-lakóház, a 300 m2–es kőből épült, részben alápincézett csarnoképület, a garázs és a 4 állásos istálló, része az árajánlatnak. A területen a HÉSZ maximum 200 m2-es lakóházak építését engedélyezi hektáronként. Területrendezéshez -pl.: meder átalakítás, szárazföld nyerés- a tulajdonos megbeszélés szerint munkagépeivel segítséget nyújt. 
+A terület közművesített. A legnagyobb tó partján álló felújítandó épületek, az összkomfortos, 53 m2-es halász-lakóház, a 300 m2–es kőből épült, részben alápincézett csarnoképület, a garázs és a 4 állásos istálló, része az árajánlatnak. A területen a HÉSZ maximum 200 m2-es lakóházak építését engedélyezi hektáronként. Területrendezéssel, meder átalakítással jó minőségű szárazföld nyerhető. 
 
 A birtok három vadásztársaság területének találkozásánál, Budapesttől 110 km-re fekszik. Az odavezető út ¾ része autópálya, a fennmaradó pedig jó minőségű, télen is takarított közút, amelyen gyorsan elérhető a kitűnő nagyvadas terület. A birtok adottságaiból következik, hogy a hasznosíthatósága is széleskörű. A halászat, vadászat és a lovas sport komoly turisztikai vonzerővel bír, így a területen a hazai és külföldi vendégek igényes kiszolgálása is jövedelmező lehet.
 
 A teljes ingatlan igény, per és tehermentes. 
 
-## Irányára: 425 000 €, vagy ennek megfelelő HUF.
-
-### A terület ésszerű tagolásban, két-három részben is eladó lehet.
+## Irányára: 135 000 000 HUF.
 
 Köszönjük, hogy megtekintette ajánlatunkat. Bízunk abban, hogy a táj hangulata és lehetőségei felébresztették kíváncsiságát!
 Várjuk megtisztelő érdeklődését az elérhetőségeink valamelyikén.
