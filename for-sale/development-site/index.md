@@ -3,7 +3,7 @@ layout: english-elado
 title: Private forest and development site for sale
 ---
 
-#![](http://i.imgur.com/gIYG2l7.jpg) Private forest and development site for sale
+# ![](http://i.imgur.com/gIYG2l7.jpg) Private forest and development site for sale
 
 {% include fold.html %}
 
@@ -79,4 +79,4 @@ Have a good decision! :)
 
 ![](http://i.imgur.com/1OA3sSw.jpg)
 
-#![](http://i.imgur.com/2PhqEK3.jpg)
+# ![](http://i.imgur.com/2PhqEK3.jpg)

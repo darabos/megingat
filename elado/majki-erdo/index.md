@@ -3,7 +3,7 @@ layout: elado
 title: Tóparti erdő eladó
 ---
 
-#![](http://i.imgur.com/EBvtfTD.jpg) Különleges hangulatú, tóparti erdő eladó
+# ![](http://i.imgur.com/EBvtfTD.jpg) Különleges hangulatú, tóparti erdő eladó
 
 {% include fold.html %}
 
@@ -75,4 +75,4 @@ Várjuk a hívását! :)
 
 ![](http://i.imgur.com/KuVabvE.jpg)
 
-#![](http://i.imgur.com/V11JY3c.jpg)
+# ![](http://i.imgur.com/V11JY3c.jpg)

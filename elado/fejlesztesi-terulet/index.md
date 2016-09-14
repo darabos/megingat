@@ -3,7 +3,7 @@ layout: elado
 title: Eladó fejlesztési terület
 ---
 
-#![Kívülről](http://i.imgur.com/gIYG2l7.jpg) Dunántúlon eladó tó parti fejlesztési terület
+# ![Kívülről](http://i.imgur.com/gIYG2l7.jpg) Dunántúlon eladó tó parti fejlesztési terület
 
 {% include fold.html %}
 
@@ -39,4 +39,4 @@ Jó döntést kívánunk! :)
 
 ![Kívülről](http://i.imgur.com/1OA3sSw.jpg)
      		            
-#![Kívülről](http://i.imgur.com/2PhqEK3.jpg)
+# ![Kívülről](http://i.imgur.com/2PhqEK3.jpg)

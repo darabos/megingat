@@ -3,7 +3,7 @@ layout: english-elado
 title: Lakeside forest for sale
 ---
 
-#![](http://i.imgur.com/EBvtfTD.jpg) Special atmosphere lakeside forest
+# ![](http://i.imgur.com/EBvtfTD.jpg) Special atmosphere lakeside forest
 
 {% include fold.html %}
 
@@ -79,4 +79,4 @@ call! :)
 
 ![](http://i.imgur.com/KuVabvE.jpg)
 
-#![](http://i.imgur.com/V11JY3c.jpg)
+# ![](http://i.imgur.com/V11JY3c.jpg)

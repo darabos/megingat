@@ -5,7 +5,7 @@ title: Family estate with lakes for sale
 # Irányára: 650000 €
 ---
 
-#![](http://i.imgur.com/OFNAOMq.jpg) Family estate with lakes for sale
+# ![](http://i.imgur.com/OFNAOMq.jpg) Family estate with lakes for sale
 
 {% include fold.html %}
 
@@ -138,4 +138,4 @@ For more information or to arrange a viewing please contact darabos.zsoka@gmail.
 
 ![](http://i.imgur.com/kB2UOAX.jpg)
 
-#![](http://i.imgur.com/WP6P12U.jpg)
+# ![](http://i.imgur.com/WP6P12U.jpg)

@@ -5,7 +5,7 @@ title: Budapesten a Világörökség része, a Várkert Palota eladó!
 # Irányára: 13000000 €
 ---
 
-#![](http://i.imgur.com/zhzPvJV.jpg) Budapesten a Világörökség része, a Várkert Palota eladó! 
+# ![](http://i.imgur.com/zhzPvJV.jpg) Budapesten a Világörökség része, a Várkert Palota eladó!
 
 {% include fold.html %}
 
@@ -69,4 +69,4 @@ A különleges ingatlant birtokló cégnek sem  hitele, sem egyéb tartozása ni
 
 ![](http://i.imgur.com/cqmjfY6.jpg)
 
-#![](http://i.imgur.com/tjIXf71.jpg)
+# ![](http://i.imgur.com/tjIXf71.jpg)

@@ -5,7 +5,7 @@ title: Eladó Budapesten egy, a Zichy grófok megrendelésére épült, felújí
 # Irányára: 450.000.000 HUF
 ---
 
-#![Kívülről](http://i.imgur.com/OwSlanu.jpg) Eladó Budapesten egy, a Zichy grófok megrendelésére épült, felújított, berendezett, szecessziós villa
+# ![Kívülről](http://i.imgur.com/OwSlanu.jpg) Eladó Budapesten egy, a Zichy grófok megrendelésére épült, felújított, berendezett, szecessziós villa
 
 {% include fold.html %}
 
@@ -113,5 +113,5 @@ A település 1950-től Budapesthez tartozik, elérhetők fővárosunk előnyei,
 
 ![](http://i.imgur.com/87Lz1Z9.jpg)
 
-#![](http://i.imgur.com/q2eHWdk.jpg)
+# ![](http://i.imgur.com/q2eHWdk.jpg)
 

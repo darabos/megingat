@@ -3,7 +3,7 @@ layout: elado
 title: Balatoni yacht kikötő eladó
 ---
 
-#![](http://i.imgur.com/4232j52.jpg) **ELKELT!!!**
+# ![](http://i.imgur.com/4232j52.jpg) **ELKELT!!!**
 Új tulajdonosra vár a színvonalas, népszerű, balatoni yacht kikötő!
 
 {% include fold.html %}
@@ -36,7 +36,7 @@ A jelenleg is jól működő létesítmény sikerét jelentős mértékben segí
 Kérem érdeklődjön a részletekről! **Érdemes :)**  
 
 
-#![](http://i.imgur.com/rzg6t1q.jpg) 
+# ![](http://i.imgur.com/rzg6t1q.jpg)
 
 # További képek:
 
@@ -52,4 +52,4 @@ Kérem érdeklődjön a részletekről! **Érdemes :)**
 
 ![](http://i.imgur.com/0VaClLt.jpg)
 
-#![](http://i.imgur.com/3vtUCSi.jpg)
+# ![](http://i.imgur.com/3vtUCSi.jpg)

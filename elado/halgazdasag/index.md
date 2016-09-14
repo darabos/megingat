@@ -3,7 +3,7 @@ layout: elado
 title: Erdők ölén eladó halgazdaság a varázslatos Bakonyban
 ---
 
-#![Kívülről](http://i.imgur.com/CZ8Wz2E.jpg) Erdők ölén eladó halgazdaság a varázslatos Bakonyban
+# ![Kívülről](http://i.imgur.com/CZ8Wz2E.jpg) Erdők ölén eladó halgazdaság a varázslatos Bakonyban
 
 {% include fold.html %}
 
@@ -64,4 +64,4 @@ Kérem keressen a részletekért! :)
 
 ![Kívülről](http://i.imgur.com/1IfQJv3.jpg)
 
-#![Kívülről](http://i.imgur.com/xlGyO9N.jpg)
+# ![Kívülről](http://i.imgur.com/xlGyO9N.jpg)

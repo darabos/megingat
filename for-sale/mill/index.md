@@ -3,7 +3,7 @@ layout: english-elado
 title: Mill for sale
 ---
 
-#![](http://i.imgur.com/HSakLid.jpg) Self-sustaining homestead for sale near the Bakony mountains!
+# ![](http://i.imgur.com/HSakLid.jpg) Self-sustaining homestead for sale near the Bakony mountains!
 
 {% include fold.html %}
 
@@ -76,4 +76,4 @@ Balatonfüred and 120 km from Budapest.
 
 ![](http://i.imgur.com/GBVGLUi.jpg)
 
-#![](http://i.imgur.com/lvGf4Vr.jpg)
+# ![](http://i.imgur.com/lvGf4Vr.jpg)

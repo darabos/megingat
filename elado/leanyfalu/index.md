@@ -5,7 +5,7 @@ title: Exkluzív villa eladó Leányfalun
 # Irányára: 350.000.000 HUF, vagy ennek megfelelő € (1113444)
 ---
 
-#![Kívülről](http://i.imgur.com/8MmaJiO.jpg) Exkluzív villa eladó Leányfalun
+# ![Kívülről](http://i.imgur.com/8MmaJiO.jpg) Exkluzív villa eladó Leányfalun
 
 {% include fold.html %}
 
@@ -106,4 +106,4 @@ Kérem, egyeztessen időpontot a megtekintéshez! Érdemes :)
 
 ![](http://i.imgur.com/bXvlyhP.jpg)
 
-#![Kívülről](http://i.imgur.com/ckFFnxG.jpg)
+# ![Kívülről](http://i.imgur.com/ckFFnxG.jpg)

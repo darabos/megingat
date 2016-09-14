@@ -3,7 +3,7 @@ layout: elado
 title: Eladó malom
 ---
 
-#![Kívülről](http://i.imgur.com/HSakLid.jpg) Eladó önfenntartó tanya a Bakonyban!
+# ![Kívülről](http://i.imgur.com/HSakLid.jpg) Eladó önfenntartó tanya a Bakonyban!
 
 {% include fold.html %}
 
@@ -59,4 +59,4 @@ Jó döntést kívánunk!
 
 ![Kívülről](http://i.imgur.com/GBVGLUi.jpg)
 
-#![Kívülről](http://i.imgur.com/lvGf4Vr.jpg)
+# ![Kívülről](http://i.imgur.com/lvGf4Vr.jpg)

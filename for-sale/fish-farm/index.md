@@ -3,7 +3,7 @@ layout: english-elado
 title: Fish farm for sale in the magical Bakony mountains
 ---
 
-#![](http://i.imgur.com/CZ8Wz2E.jpg) Fish farm for sale in the magical Bakony mountains
+# ![](http://i.imgur.com/CZ8Wz2E.jpg) Fish farm for sale in the magical Bakony mountains
 
 {% include fold.html %}
 
@@ -63,4 +63,4 @@ and equestrian sports are major tourist attractions of the area.
 
 ![](http://i.imgur.com/1IfQJv3.jpg)
 
-#![http://i.imgur.com/xlGyO9N.jpg)
+# ![http://i.imgur.com/xlGyO9N.jpg)
