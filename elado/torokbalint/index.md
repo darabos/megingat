@@ -11,6 +11,7 @@ title: Különleges földrajzi elhelyezkedésű eladó terület
 
 Izgalmas építészeti megoldásokra inspirál, ám hagyományos épület megépítéséhez is lehetőséget biztosít az eladó nagy telek Törökbálinton. Bekerített domboldal felett koros tölgyerdő őrzi a völgy csendjét, amit fácánok és libák hangja színesít.
 A völgyben legelő lovakra, a Budai hegyekre kb. 270 fokban nyílik panoráma.
+
 ![Kívülről](http://i.imgur.com/CsEGInw.jpg)
 
 A telek területe 12599 m2, aminek 30 %-a beépíthető. (A HÉSZ módosítása óta ez a lehetőség a város falusias környezetében kuriózumnak számít!)
@@ -24,13 +25,13 @@ A látható környezet dombvidéki tanyavilág, a hajdani majorságot idézi. A 
 
 ![Kívülről](http://i.imgur.com/R9k1XY5.jpg)
 
-http://www.kecskevilag.hu/
+<http://www.kecskevilag.hu/>
 
-http://torokbalintinyitnikekovoda.hu/kezdolap.html
+<http://torokbalintinyitnikekovoda.hu/kezdolap.html>
 
-https://www.youtube.com/watch?v=7L0hfRe8A0c
+<https://www.youtube.com/watch?v=7L0hfRe8A0c>
 
-http://www.tbsk.hu/
+<http://www.tbsk.hu/>
 
 ![Kívülről](http://i.imgur.com/qW7LRSg.jpg)
 
