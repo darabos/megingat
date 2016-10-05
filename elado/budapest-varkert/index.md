@@ -27,7 +27,7 @@ https://hu.wikipedia.org/wiki/Várkert-kioszk/
 
 ![](http://i.imgur.com/7CMIsJR.jpg)
 
-Éveken át az Állami Táncegyüttesnek adott otthont, majd az ország legnívósabb kaszinójának. A kaszinó-koncesszió lejártával jelenleg exkluzív rendezvények kedvelt helyszíne, ami teljesen érthető,  hiszen a rendezett környezetben mára nem csak a rendkívüli épületet, de a történelmi szomszédságát is felújították,  a kilátás pedig lenyűgöző a Parlamentre, a Vigadóra, a Dunára és hídjaira.
+Éveken át az Állami Budapest Táncegyüttesnek adott otthont, majd az ország legnívósabb kaszinójának. A kaszinó-koncesszió lejártával jelenleg exkluzív rendezvények kedvelt helyszíne, ami teljesen érthető,  hiszen a rendezett környezetben mára nem csak a rendkívüli épületet, de a történelmi szomszédságát is felújították,  a kilátás pedig lenyűgöző a Parlamentre, a Vigadóra, a Dunára és hídjaira.
 
 ![](http://i.imgur.com/4qouSJH.jpg)
 
