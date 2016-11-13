@@ -62,7 +62,7 @@ Eladó Majk tópartjának egy jelentős és egyben legszebb szakasza, a keleti p
 
 ![](http://i.imgur.com/4232j52.jpg)
 
-# Új tulajdonosra vár a színvonalas, népszerű, balatoni yacht kikötő!
+# Új tulajdonosra vár a színvonalas, népszerű, balatoni yacht kikötő! - ELKELT!
 
 Az eladó európai színvonalú kikötő 160 kikötőhelye 16 m-es hajók és katamaránok fogadására alkalmas.
 
@@ -93,9 +93,20 @@ Az eladó birtokot a Világörökség részét képező Pannonhalmi Bencés Apá
 </div>
 <div class="egyik clearfix" markdown="block">
 
+![](http://i.imgur.com/xKx5OxB.jpg)
+
+# Törökbálinton eladó különleges földrajzi elhelyezkedésű terület
+
+Izgalmas építészeti megoldásokra inspirál, ám hagyományos épület megépítéséhez is lehetőséget biztosít az eladó nagy telek Törökbálinton.
+
+[Részletek](/elado/torokbalint){:.btn.btn-megingat.pull-right}
+
+</div>
+<div class="egyik clearfix" markdown="block">
+
 ![](http://i.imgur.com/ejPMmsq.jpg)
 
-# Budapesten a Világörökség része, a Várkert Palota eladó
+# Budapesten a Világörökség része, a Várkert Palota eladó - ELKELT!
 
 Magyarország talán legkülönlegesebb épülete Ybl Miklós tervei alapján 1874 és 1879 között a Királyi Palota
 vízellátási rendszerének gépházaként épült.
