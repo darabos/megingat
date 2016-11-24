@@ -2,7 +2,7 @@
 layout: elado
 title: Exkluzív villa eladó Leányfalun
 
-# Irányára: 350.000.000 HUF, vagy ennek megfelelő € (1113444)
+# Irányára: 310.000.000 HUF, vagy ennek megfelelő € (990000)
 ---
 
 # ![Kívülről](http://i.imgur.com/8MmaJiO.jpg) Exkluzív villa eladó Leányfalun
@@ -90,7 +90,7 @@ A **pince szinten** található egy borospincének ideális, állandóan hűvös
 A gazdasági épület a főépület északi oldalához kapcsolódik. Itt kapott helyet a kétállásos, fűthető garázs. Szintén itt található egy-két fő személyzet részére a kisebb  személyzeti lakás, amely előtér-konyhából, fürdőszobából, nappali és hálószobából, valamint egy raktárhelyiségből áll.
 Amennyiben személyes megtekintése után is érdekli Önt az ingatlan, a helyiséglista és a műszaki rajzok természetesen a rendelkezésére állnak.
 
-**Az ingatlan irányára 1113444 €.**
+**Az ingatlan irányára 990000 €.**
 
 Kérem, egyeztessen időpontot a megtekintéshez! Érdemes :)
 
