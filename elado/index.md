@@ -131,7 +131,7 @@ Az eladó ingatlan tulajdonosa szereti a szépet. Háza Balatonbogláron közvet
 
 # Rezidenciának alkalmas neobarokk villa eladó Budapesten
 
-Az Istenhegyen épült neobarokk villát 2016-ban teljesen felújították. Az 1900-as években épült rezidenciális jellegű épület felújításának mértéke és minősége magas szintű. Az építészeti értékek és a kor stílusjegyeinek megőrzése, a mai kor igényeinek megfelelő átalakítása az ingatlan presztízsértékét jelentősen növeli. 
+Az Istenhegyen épült neobarokk villát 2016-ban teljesen felújították. Az 1900-as években épült rezidenciális jellegű épület felújításának mértéke és minősége magas szintű. Az építészeti értékek és a kor stílusjegyeinek megőrzése, valamint a mai kor igényeinek megfelelő átalakítása az ingatlan presztízsértékét jelentősen növeli. 
 
 [Részletek](/elado/birtok){:.btn.btn-megingat.pull-right}
 
