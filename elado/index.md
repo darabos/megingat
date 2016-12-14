@@ -122,7 +122,7 @@ vízellátási rendszerének gépházaként épült.
 
 Az eladó ingatlan tulajdonosa szereti a szépet. Háza Balatonbogláron közvetlenül a parton áll, így innen biztosan az egyik legszebb panorámát láthatjuk. Gyönyörű a Balaton, amikor békés és akkor is, ha vad. Amikor simogatón ringat, vagy épp tarajos hullámok kevernek új színeket a tónak...
 
-[Részletek](/elado/birtok){:.btn.btn-megingat.pull-right}
+[Részletek](/elado/boglar){:.btn.btn-megingat.pull-right}
 
 </div>
 <div class="egyik clearfix" markdown="block">
@@ -133,6 +133,6 @@ Az eladó ingatlan tulajdonosa szereti a szépet. Háza Balatonbogláron közvet
 
 Az Istenhegyen épült neobarokk villát 2016-ban teljesen felújították. Az 1900-as években épült rezidenciális jellegű épület felújításának mértéke és minősége magas szintű. Az építészeti értékek és a kor stílusjegyeinek megőrzése, valamint a mai kor igényeinek megfelelő átalakítása az ingatlan presztízsértékét jelentősen növeli. 
 
-[Részletek](/elado/birtok){:.btn.btn-megingat.pull-right}
+[Részletek](/elado/istenhegyi){:.btn.btn-megingat.pull-right}
 
 </div>
