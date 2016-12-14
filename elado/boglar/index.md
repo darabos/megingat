@@ -5,7 +5,7 @@ title: Eladó vízparti ingatlan a Balaton egyik legszebb panorámájával
 # Ára megállapodás szerint.
 ---
 
-#![](http://i.imgur.com/Hl4MK3T.jpg) Eladó vízparti ingatlan a Balaton egyik legszebb panorámájával
+# ![](http://i.imgur.com/Hl4MK3T.jpg) Eladó vízparti ingatlan a Balaton egyik legszebb panorámájával
 
 {% include fold.html %}
 
@@ -15,28 +15,28 @@ Gyönyörű, amikor békés és akkor is, ha vad. Amikor simogatón ringat, vagy
 
 Az eladó ingatlan tulajdonosa szereti a Balatont, szereti a szépet. Jó érzékkel választott az építkezéséhez helyszínt. Háza Balatonbogláron közvetlenül a parton áll, így innen biztosan az egyik legszebb panorámát láthatjuk.
 
-#![](http://i.imgur.com/rEoa4aD.jpg)
+![](http://i.imgur.com/rEoa4aD.jpg)
 
 A könnyen gondozható, 901 m2-es telek két oldalát 60 m hosszan a Balaton határolja. A saját strand és kikötő extra kényelmet kínál a ház tulajdonosának.
 
-#![](http://i.imgur.com/Gow5mKR.jpg)
+![](http://i.imgur.com/Gow5mKR.jpg)
 
 Az épület tervezésénél, kivitelezésénél elsődleges szempont a kiváló minőségű, és hosszú élettartamú anyagok használata volt. A házat pl. természetes (német) pala fedi. Nagy értékű, kevés gondozást igénylő, jól élhető lakóház épült. Lakhatási engedéllyel már rendelkezik, de az építés még befejezés előtt áll. A jelen állapot nagyon sok lehetőséget biztosít az új tulajdonosnak, vagy tulajdonosoknak. 
 
-#![](http://i.imgur.com/QKs3xAK.jpg)
+![](http://i.imgur.com/QKs3xAK.jpg)
 
 Kialakítható egy hatalmas luxusvilla, de fel is osztható a belső tér 2-3 nagyobb, vagy akár 4-5 kisebb lakásra is. A nagy üvegfelületeknek köszönhetően minden lakást tágassá varázsol a Balaton. Izgalmas színei, fényei és a hegyes-dombos északi part eleven díszletek egy igényes, természetközeli élethez.
 
-#![](http://i.imgur.com/jaSsT3Q.jpg)
+![](http://i.imgur.com/jaSsT3Q.jpg)
 
-#![](http://i.imgur.com/DD3wutO.jpg)
+![](http://i.imgur.com/DD3wutO.jpg)
 
 A boglári kikötő hajóforgalma jelentős, ám Balatonboglár nem csak színvonalas üdülőhely („Gömbkilátó”, bobpálya, kalandpark, stb.), az élet itt szezonon kívül is komfortos.  Egészségház (háziorvosi-, szakorvosi-, állatorvosi rendelők), gyógyszertárak, mentőállomás, óvoda, iskola, bevásárlási lehetőség (Tesco, Lidl, Aldi, Spar, CBA), benzinkutak, bankok, sportcsarnok is szolgálja a mindennapokat, sőt a környéken meleg vizes fürdők is elérhetők (Zalakaros, Csisztapuszta, Hévíz).
 
 A villa egyben, vagy igény szerint lakásonként, apartmanonként is eladó!
 Az ára a tulajdonossal történő megegyezés szerint alakul.
 
-#![](http://i.imgur.com/uFBjRIT.jpg)
+![](http://i.imgur.com/uFBjRIT.jpg)
 
 Köszönjük, hogy megtekintette ajánlatunkat. Bízunk abban, hogy a különleges lehetőségekkel bíró ingatlan felkeltette az érdeklődését!
 
