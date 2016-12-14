@@ -81,7 +81,7 @@ A magasföldszinten nappali, hall, teakonyha, gardrób, toalett, háztartási he
 
 Egyszerűen szép, elegáns, tömörfa lépcső vezet a galériára, ahonnan két oldalra nyílik két hálószoba, gardróbokkal, fürdőszobákkal, összesen: 88,15 m²-en. Itt az erkély 7,8 m²-es.
 
-http://i.imgur.com/hkaOmlz.jpg
+![](http://i.imgur.com/hka0mlz.jpg)
 
 ![](http://i.imgur.com/SpSZ4kv.jpg)
 
