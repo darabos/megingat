@@ -41,6 +41,7 @@ Az ára a tulajdonossal történő megegyezés szerint alakul.
 Köszönjük, hogy megtekintette ajánlatunkat. Bízunk abban, hogy a különleges lehetőségekkel bíró ingatlan felkeltette az érdeklődését!
 
 Kérem, keressen minket az elérhetőségeink valamelyikén a részletesebb, pontosabb információkért!
+
 Jó döntést kívánunk! :)
 
 # További képek:
