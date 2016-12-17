@@ -18,9 +18,9 @@ Eladó a Dunántúl szívében egy közel 16 ha-os, különleges természeti ado
 
 ![](http://i.imgur.com/gIYG2l7.jpg)
 
-# Fejlesztési terület 50 ha erdővel, tó partján 
+# Tóparti fejlesztési terület erdő mellett eladó
 
-A Balaton-felvidéken, közlekedés szempontjából is szerencsés helyen, a Balatonhoz, neves termálfürdőkhöz közel, Ausztriától 70 km-re terül el egy mesés, 57 ha-os ingatlan együttes, amelyből 50 ha erdő, 7 ha pedig “szabadidőpark és üdülőfalu” kialakítására friss engedéllyel rendelkező terület.
+A Balaton-felvidéken, közlekedés szempontjából is szerencsés helyen, a Balatonhoz, neves termálfürdőkhöz közel, Ausztriától 70 km-re terül el a 7 ha-os ingatlan, amely “szabadidőpark és üdülőfalu” kialakítására jogosító friss engedéllyel rendelkezik.
 
 [Részletek](/elado/fejlesztesi-terulet){:.btn.btn-megingat.pull-right}
 
@@ -136,3 +136,14 @@ Az Istenhegyen épült neobarokk villát 2016-ban teljesen felújították. Az 1
 [Részletek](/elado/istenhegyi){:.btn.btn-megingat.pull-right}
 
 </div>
+<div class="egyik clearfix" markdown="block">
+
+![](http://i.imgur.com/jAxeORh.jpg)
+
+# A vadregényes birtokon forrás, patak, vízesés és malomrom…  
+
+Az eladó mesés kis birtok Európa 2010-es kulturális fővárosától kb. 20 km-re úgy bújik meg egy zsákfalucska szélén, hogy avatatlan szemeknek láthatatlan marad. Tiszta vizű patak ölel egy, a természet által visszahódított, közel ¾ ha-os területet. Az érintetlen csendet a vízesés hangja színesíti.
+[Részletek](/elado/kisfalu){:.btn.btn-megingat.pull-right}
+
+</div>
+
