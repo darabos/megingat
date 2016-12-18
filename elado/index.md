@@ -18,9 +18,9 @@ Eladó a Dunántúl szívében egy közel 16 ha-os, különleges természeti ado
 
 ![](http://i.imgur.com/gIYG2l7.jpg)
 
-# Fejlesztési terület 50 ha erdővel, tó partján 
+# Tóparti fejlesztési terület erdő mellett eladó
 
-A Balaton-felvidéken, közlekedés szempontjából is szerencsés helyen, a Balatonhoz, neves termálfürdőkhöz közel, Ausztriától 70 km-re terül el egy mesés, 57 ha-os ingatlan együttes, amelyből 50 ha erdő, 7 ha pedig “szabadidőpark és üdülőfalu” kialakítására friss engedéllyel rendelkező terület.
+A Balaton-felvidéken, közlekedés szempontjából is szerencsés helyen, a Balatonhoz, neves termálfürdőkhöz közel, Ausztriától 70 km-re terül el a 7 ha-os ingatlan, amely “szabadidőpark és üdülőfalu” kialakítására jogosító friss engedéllyel rendelkezik.
 
 [Részletek](/elado/fejlesztesi-terulet){:.btn.btn-megingat.pull-right}
 
