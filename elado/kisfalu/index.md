@@ -81,11 +81,7 @@ Kérem keressen a részletekért! Érdemes! :)
 
 ![](http://i.imgur.com/CXeF2Th.jpg)
 
-![](http://i.imgur.com/jNDwSny.jpg)
-
 ![](http://i.imgur.com/Q9x2zIV.jpg)
-
-![](http://i.imgur.com/ayERivu.jpg)
 
 ![](http://i.imgur.com/jWeY8UB.jpg)
 
@@ -102,8 +98,6 @@ Kérem keressen a részletekért! Érdemes! :)
 ![](http://i.imgur.com/MhDVZHC.jpg)
 
 ![](http://i.imgur.com/pvhfVHg.jpg)
-
-![](http://i.imgur.com/LPjHAu0.jpg)
 
 ![](http://i.imgur.com/RXYayuu.jpg)
 
