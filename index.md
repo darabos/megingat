@@ -73,3 +73,27 @@ Izgalmas építészeti megoldásokra inspirál, ám hagyományos épület megép
 Magyarország talán legkülönlegesebb épülete Ybl Miklós tervei alapján 1874 és 1879 között a Királyi Palota vízellátási rendszerének gépházaként épült.
 
 [Részletek](elado/budapest-varkert)
+
+
+# ![](http://i.imgur.com/Hl4MK3T.jpg) Eladó vízparti ingatlan a Balaton egyik legszebb panorámájával
+
+Az eladó ingatlan tulajdonosa szereti a szépet. Háza Balatonbogláron közvetlenül a parton áll, így innen biztosan az egyik legszebb panorámát láthatjuk. Gyönyörű a Balaton, amikor békés és akkor is, ha vad. Amikor simogatón ringat, vagy épp tarajos hullámok kevernek új színeket a tónak...
+
+[Részletek](elado/boglar)
+
+
+# ![](http://i.imgur.com/ooCEWTg.jpg) Rezidenciának alkalmas neobarokk villa eladó Budapesten
+
+Az Istenhegyen épült neobarokk villát 2016-ban teljesen felújították. Az 1900-as években épült rezidenciális jellegű épület felújításának mértéke és minősége magas szintű. Az építészeti értékek és a kor stílusjegyeinek megőrzése, valamint a mai kor igényeinek megfelelő átalakítása az ingatlan presztízsértékét jelentősen növeli. 
+
+[Részletek](elado/istenhegyi) 
+
+
+# ![](http://i.imgur.com/jAxeORh.jpg) A vadregényes birtokon forrás, patak, vízesés és malomrom…
+
+Az eladó mesés kis birtok Európa 2010-es kulturális fővárosától kb. 20 km-re úgy bújik meg egy zsákfalucska szélén, hogy avatatlan szemeknek láthatatlan marad. Tiszta vizű patak ölel egy, a természet által visszahódított, közel ¾ ha-os területet. Az érintetlen csendet a vízesés hangja színesíti.
+
+[Részletek](elado/kisfalu) 
+
+
+
