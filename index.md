@@ -18,13 +18,6 @@ A Balaton-felvidéken, közlekedés szempontjából is szerencsés helyen, a Bal
 [Részletek](elado/fejlesztesi-terulet)
 
 
-# ![](http://i.imgur.com/CZ8Wz2E.jpg) Halgazdaság a varázslatos Bakonyban
-
-A kínálatban szereplő halgazdaságot az 1910-es években a természettisztelő Esterházy család nem véletlenül telepítette e varázslatos helyre :) A birtok egy része jelenleg is helyi védettségű természetvédelmi terület, amelyet csodálatos, védett bakonyi erdőség ölel körül.
-
-[Részletek](elado/halgazdasag)
-
-
 # ![](http://i.imgur.com/cHwgdIm.jpg) Önfenntartó tanya a Bakonyban
 
 Izgalmas, különleges, összesen 5,8 ha-os ingatlant ölel a Bakonyban eredő bő vizű Séd patak két ága, Balatonfüredtől mindössze 30 km-re!
