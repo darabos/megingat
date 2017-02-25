@@ -18,6 +18,13 @@ Indeed, a fresh building permit has recently been obtained for the complex!
 [Details](/for-sale/development-site)
 
 
+# ![](http://i.imgur.com/CZ8Wz2E.jpg) Fish farm for sale in the magical Bakony mountains
+
+The famous Esterházy family established this estate in 1910.
+
+[Details](/for-sale/fish-farm)
+
+
 # ![](http://i.imgur.com/cHwgdIm.jpg) Self-sustaining homestead for sale near the Bakony mountains
 
 Exciting, unique, 5.8 ha (approximately 15 acres) property located between two branches of the permanent
