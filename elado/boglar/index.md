@@ -28,7 +28,7 @@ Az épület tervezésénél, kivitelezésénél elsődleges szempont a kiváló 
 Az eredeti elképzelés szerint az épületből kialakítható egy hatalmas luxusvilla, de a belső tér fel is osztható több exkluzív lakásra is. A nagy üvegfelületeknek köszönhetően minden lakást tágassá varázsol a Balaton. Izgalmas színei, fényei és a hegyes-dombos északi part eleven díszletek egy igényes, természetközeli élethez.
 **Jelenleg az épület egy 167 m2-es lakását kínáljuk eladásra, de egyedi igények megbeszélésére is lehetőség nyílik.**
 
-![](https://www.youtube.com/watch?v=fZWEQZw3i5M&feature=youtu.be)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZWEQZw3i5M" frameborder="0" allowfullscreen></iframe>
 
 ![](http://i.imgur.com/jaSsT3Q.jpg)
 
