@@ -7,15 +7,6 @@ title: Megingat Ingatlanközvetítés
 
 <div class="egyik" markdown="block">
 
-![Ildikó](http://i.imgur.com/5XYTxhD.jpg)
-
-## Kovács Ildikó vagyok.
-
-Kommunikáció szakon folytattam a tanulmányaimat. Mindig érdekelt az emberekkel való kapcsolattartás, a pszichológia. 2005-ben egy vezető ingatlanforgalmazó cégnél helyezkedtem el, majd ezt követően egyénileg folytattam a tevékenységemet. Az évek során magyar és külföldi partnerekkel együttműködve gyűjtöttem kapcsolatokat, tapasztalatokat, melyek a mai napig segítik munkámat. Vallom: "Válassz olyan foglalkozást, amit szeretsz, és soha többé nem kell dolgoznod!" (Confucius)
-
-</div>
-<div class="egyik" markdown="block">
-
 ![Zsóka](zsoka.jpg)
 
 ## Darabosné Zsóka vagyok.
@@ -24,7 +15,7 @@ Pedagógiai, egészségügyi, szociálpedagógusi és coach végzettségeimmel f
 
 </div>
 
-Két ember, két út, két élet... és egy varázslatos eladó ingatlannak köszönhetően ma munkatársak és barátok vagyunk... 
+Egy varázslatos eladó ingatlannak köszönhetően több kollégával alakult ki hatékony munkakapcsolat, sőt barátság... 
 A **Megingat Ingatlanközvetítő** működésének ötletét a külön utakon szerzett, mégis hasonló tapasztalataink hívták életre.
 
 Miként egy csipetnyi illatos fűszerrel megbolondított csokoládé, vagy egy meghitt olvasósarok a kicsi könyvesboltban, valahogy így szeretnénk az Ön különleges igényeinek megfelelni egy színes és színvonalas szolgáltatással. Ahhoz kívánjuk hozzásegíteni, amit megálmodott, vagy amiről eddig talán álmodni sem mert. 
@@ -36,11 +27,11 @@ Amennyiben különleges, **eladó** ingatlanja értékesítéséhez Ön is igén
 
 Köszönjük bizalmát és várjuk a hívását!
 
-Ildikó és Zsóka
+Zsóka és munkatársai
 
 **Kedves Kolléga!**
 
 Ha a kínálatodban szereplő, különleges lehetőségekkel rendelkező ingatlan eladásának akarsz nagyobb esélyt adni, vagy megtalálni szeretnéd a rég keresett, egyedi tulajdonságokkal bíró birtokot igényes ügyfelednek, keress minket! 
 
-Ildikó és Zsóka
+Zsóka és munkatársai
 
