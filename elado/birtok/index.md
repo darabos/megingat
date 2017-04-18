@@ -5,12 +5,12 @@ title: Eladó családi birtok tavakkal
 # Irányára: 650000 €
 ---
 
-# ![Kívülről](http://i.imgur.com/OFNAOMq.jpg) Eladó családi birtok tavakkal - jelentős kedvezménnyel!!!
+# ![Kívülről](http://i.imgur.com/OFNAOMq.jpg) Eladó családi birtok tavakkal - jelentős árcsökkenés!!!
 
 {% include fold.html %}
 
-**Eladó 650 000 €-ért a Dunántúl szívében egy különleges természeti adottságokkal rendelkező 6,5 ha-os birtok!** 
-**A teljes eladó terület közel 16 ha-on terül el, ennek ára 800 000 €.** 
+**Eladó 550 000 €-ért a Dunántúl szívében egy különleges természeti adottságokkal rendelkező 6,5 ha-os birtok!** 
+**A teljes eladó terület közel 16 ha-on terül el, ennek ára 700 000 €.** 
 **Most a terület egyben, vagy természetes egységeire bontva is megvásárolható!**
 
 A nagyjából négyzet alakú területen hat, összesen 10 ha-nyi tiszta vizű, 3-4 m mélységű, festői szépségű tó, s a telek mellett a Bakonyból érkező bő vizű patak hiteti el velünk a békét és nyugalmat.
@@ -80,7 +80,7 @@ Az ingatlant adottságai alkalmassá teszik akár üzleti célú felhasználásr
 
 Budapesttől és a schwechati reptértől 120 km-re bújik meg. 
 
-**A főépület a legnagyobb és egy kisebb tóval, valamint hosszú patakparttal hatszázötvenezer (650000) €-ért megvásárolható, a teljes terület irányára pedig nyolcszázezer (800000) €, vagy ennek megfelelő HUF.**
+**A főépület a legnagyobb és egy kisebb tóval, valamint hosszú patakparttal 650000 € helyett: ötszázötvenezer (550000) €-ért megvásárolható, a teljes terület irányára pedig 800000 € helyett: hétszázezer (700000) €, vagy ennek megfelelő HUF.**
 
 További információkat kérni, vagy a megtekintéshez időpontot egyeztetni az oldalunkon ismertetett elérhetőségeken lehet.
 
