@@ -2,7 +2,7 @@
 layout: elado
 title: Eladó vízparti ingatlan a Balaton egyik legszebb panorámájával
 
-# Ára megállapodás szerint.
+# Irányára 105 000 000 HUF.
 ---
 
 # ![](http://i.imgur.com/Hl4MK3T.jpg) Eladó vízparti ingatlan a Balaton egyik legszebb panorámájával
@@ -25,7 +25,10 @@ Az épület tervezésénél, kivitelezésénél elsődleges szempont a kiváló 
 
 ![](http://i.imgur.com/QKs3xAK.jpg)
 
-Kialakítható egy hatalmas luxusvilla, de fel is osztható a belső tér 2-3 nagyobb, vagy akár 4-5 kisebb lakásra is. A nagy üvegfelületeknek köszönhetően minden lakást tágassá varázsol a Balaton. Izgalmas színei, fényei és a hegyes-dombos északi part eleven díszletek egy igényes, természetközeli élethez.
+Az eredeti elképzelés szerint az épületből kialakítható egy hatalmas luxusvilla, de a belső tér fel is osztható több exkluzív lakásra is. A nagy üvegfelületeknek köszönhetően minden lakást tágassá varázsol a Balaton. Izgalmas színei, fényei és a hegyes-dombos északi part eleven díszletek egy igényes, természetközeli élethez.
+**Jelenleg az épület egy 167 m2-es lakását kínáljuk eladásra, de egyedi igények megbeszélésére is lehetőség nyílik.**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZWEQZw3i5M" frameborder="0" allowfullscreen></iframe>
 
 ![](http://i.imgur.com/jaSsT3Q.jpg)
 
@@ -33,8 +36,7 @@ Kialakítható egy hatalmas luxusvilla, de fel is osztható a belső tér 2-3 na
 
 A boglári kikötő hajóforgalma jelentős, ám Balatonboglár nem csak színvonalas üdülőhely („Gömbkilátó”, bobpálya, kalandpark, stb.), az élet itt szezonon kívül is komfortos.  Egészségház (háziorvosi-, szakorvosi-, állatorvosi rendelők), gyógyszertárak, mentőállomás, óvoda, iskola, bevásárlási lehetőség (Tesco, Lidl, Aldi, Spar, CBA), benzinkutak, bankok, sportcsarnok is szolgálja a mindennapokat, sőt a környéken meleg vizes fürdők is elérhetők (Zalakaros, Csisztapuszta, Hévíz).
 
-A villa egyben, vagy igény szerint lakásonként, apartmanonként is eladó!
-Az ára a tulajdonossal történő megegyezés szerint alakul.
+**A páratlan panorámával lenyűgöző lakás irányára: 105 000 000 HUF.**
 
 ![](http://i.imgur.com/uFBjRIT.jpg)
 
@@ -43,6 +45,28 @@ Köszönjük, hogy megtekintette ajánlatunkat. Bízunk abban, hogy a különleg
 Kérem, keressen minket az elérhetőségeink valamelyikén a részletesebb, pontosabb információkért!
 
 Jó döntést kívánunk! :)
+
+# Látványterv:
+
+![](http://i.imgur.com/iBztTp0.jpg)
+
+![](http://i.imgur.com/vwiBV4R.jpg)
+
+![](http://i.imgur.com/tBbxe2U.jpg)
+
+![](http://i.imgur.com/yOzYcPA.jpg)
+
+![](http://i.imgur.com/tBfuCEc.jpg)
+
+![](http://i.imgur.com/jQuLrsR.jpg)
+
+![](http://i.imgur.com/Dw3TWmE.jpg)
+
+![](http://i.imgur.com/v5H6QxH.jpg)
+
+![](http://i.imgur.com/nPCjbtJ.jpg)
+
+![](http://i.imgur.com/GGrN0Ua.jpg)
 
 # További képek:
 
