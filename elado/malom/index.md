@@ -7,7 +7,7 @@ title: Eladó malom
 
 {% include fold.html %}
 
-## Irányára: 500000 €
+## Irányára: 95000000 HUF
 
 Izgalmas, különleges, összesen 5,8 ha-os ingatlant ölel a Bakonyban eredő bő vizű Séd patak két ága, Balatonfüredtől mindössze 30 km-re!
 
