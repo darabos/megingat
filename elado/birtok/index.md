@@ -58,7 +58,7 @@ Az épület fenntartása gazdaságos módon történik. A 70 m mély fúrt kút 
 ![Kívülről](http://i.imgur.com/ipImzmf.jpg)
 
 A kereszt alakú lakóház alagsorában található a kazánház a két kazánnal, pince, nyári konyha és csónaktároló. A földszinten amerikai konyha, 50 m2-es nappali szoba, 3 hálószoba, 1 dolgozó szoba, 1 vendégszoba, személyzeti szoba, 3 fürdőszoba, télikert, közlekedő, kétállásos fűtött garázs és hatalmas teraszok vannak. A lakóház része egy külön bejáratú, önálló, teraszos, egyszobás apartman is. 
-**A főépület a legnagyobb és egy kisebb tóval, valamint hosszú patakparttal 650000 €-ért megvásárolható.** Ezzel az új tulajdonos előjogot szerez a maradék, így már szomszédos terület megvásárlására, amelyhez annak egy éven belüli megvétele esetén 1,6 €/m2-es, igen kedvező áron juthat hozzá!
+**A főépület a legnagyobb és egy kisebb tóval, valamint hosszú patakparttal 480000 €-ért megvásárolható.** Ezzel az új tulajdonos előjogot szerez a maradék, így már szomszédos terület megvásárlására, amelyhez annak egy éven belüli megvétele esetén 1,6 €/m2-es, igen kedvező áron juthat hozzá!
 
 ![Kívülről](http://i.imgur.com/UvqNx4O.jpg)
 
