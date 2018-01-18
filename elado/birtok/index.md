@@ -1,6 +1,6 @@
 ---
 layout: elado
-title: Eladó családi birtok tavakkal
+title: Eladó családi birtok tavakkal - LEFOGLALÓZVA!
 
 # Irányára: 480000 €
 ---
