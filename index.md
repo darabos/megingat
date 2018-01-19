@@ -4,7 +4,7 @@ title: Megingat Ingatlanközvetítés
 ---
 
 
-# ![](http://i.imgur.com/iwsZG17.jpg) Családi birtok tavakkal - jelentős árcsökkenés!!!
+# ![](http://i.imgur.com/iwsZG17.jpg) Családi birtok tavakkal - jelentős árcsökkenés!!!  **LEFOGLALÓZVA!**
 
 Eladó a Dunántúl szívében egy közel 16 ha-os, különleges természeti adottságokkal rendelkező birtok.
 
