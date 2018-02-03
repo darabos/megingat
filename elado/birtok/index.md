@@ -5,7 +5,7 @@ title: Eladó családi birtok tavakkal - ELKELT!
 # Irányára: 480000 €
 ---
 
-# ![Kívülről](http://i.imgur.com/OFNAOMq.jpg) Eladó családi birtok tavakkal - féláron!!! - ELKELT!
+# ![Kívülről](http://i.imgur.com/OFNAOMq.jpg) Eladó családi birtok tavakkal - ELKELT!
 
 {% include fold.html %}
 
