@@ -47,13 +47,6 @@ Az eladó európai színvonalú kikötő 160 kikötőhelye 16 m-es hajók és ka
 [Részletek](elado/yacht-kikoto)
 
 
-# ![](http://i.imgur.com/8MmaJiO.jpg) Exkluzív villa eladó Leányfalun
-
-Az ingatlan elegáns, luxusigényeket is kielégítő több generációs családi ház. Új tulajdonosa igényei szerint fejleszthető exkluzív vendégházzá, alkotóházzá vagy felsőkategóriás vendéglátóhellyé. 
-
-[Részletek](elado/leanyfalu)
-
-
 # ![](http://i.imgur.com/J4m9gPe.jpg) Vadregényes vízi-világ eladó Pannonhalmán
 
 Az eladó birtokot a Világörökség részét képező Pannonhalmi Bencés Apátság impozáns épület-együttese őrzi.
