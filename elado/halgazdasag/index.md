@@ -3,7 +3,7 @@ layout: elado
 title: Erdők ölén eladó halgazdaság a varázslatos Bakonyban
 ---
 
-# ![Kívülről](http://i.imgur.com/CZ8Wz2E.jpg) Erdők ölén eladó halgazdaság a varázslatos Bakonyban
+#![Kívülről](http://i.imgur.com/CZ8Wz2E.jpg) Erdők ölén eladó halgazdaság a varázslatos Bakonyban
 
 {% include fold.html %}
 
@@ -31,13 +31,15 @@ A tavak körbe járhatóak, rendszeresen tisztítottak, leüríthetők. (A képe
 
 A jelenleg tenyésztett halfajták: pontyok, amurok, keszegek, busák, csukák, süllők és harcsák. A tavak természetesen rendelkeznek az üzemeltetéshez szükséges vízjogi engedéllyel.
 
-A terület közművesített. A legnagyobb tó partján álló felújítandó épületek, az összkomfortos, 53 m2-es halász-lakóház, a 300 m2–es kőből épült, részben alápincézett csarnoképület, a garázs és a 4 állásos istálló, része az árajánlatnak. A területen a HÉSZ maximum 200 m2-es lakóházak építését engedélyezi hektáronként. Területrendezéssel, meder átalakítással jó minőségű szárazföld nyerhető. 
+A terület közművesített. A legnagyobb tó (5 ha) partján álló felújítandó épületek, az összkomfortos, 53 m2-es halász-lakóház, a 300 m2–es kőből épült, részben alápincézett csarnoképület, a garázs és a 4 állásos istálló, része az árajánlatnak. A területen a HÉSZ maximum 200 m2-es lakóházak építését engedélyezi hektáronként. Területrendezéshez -pl.: meder átalakítás, szárazföld nyerés- a tulajdonos megbeszélés szerint munkagépeivel segítséget nyújt. 
+
+## Irányára: 107 000 000 HUF.
 
 A birtok három vadásztársaság területének találkozásánál, Budapesttől 110 km-re fekszik. Az odavezető út ¾ része autópálya, a fennmaradó pedig jó minőségű, télen is takarított közút, amelyen gyorsan elérhető a kitűnő nagyvadas terület. A birtok adottságaiból következik, hogy a hasznosíthatósága is széleskörű. A halászat, vadászat és a lovas sport komoly turisztikai vonzerővel bír, így a területen a hazai és külföldi vendégek igényes kiszolgálása is jövedelmező lehet.
 
 A teljes ingatlan igény, per és tehermentes. 
 
-## Irányára: 135 000 000 HUF.
+## A kisebb tavak elkeltek! A legnagyobb tó és partvidéke a felújítandó épületekkel 107 000 000 HUF.
 
 Köszönjük, hogy megtekintette ajánlatunkat. Bízunk abban, hogy a táj hangulata és lehetőségei felébresztették kíváncsiságát!
 Várjuk megtisztelő érdeklődését az elérhetőségeink valamelyikén.
@@ -58,10 +60,10 @@ Kérem keressen a részletekért! :)
 
 ![Kívülről](http://i.imgur.com/RA4Beiz.jpg)
 
-![Kívülről](http://i.imgur.com/R7Zi8Nr.jpg)
+![Kívülről](http://i.imgur.com/xlGyO9N.jpg)
 
 ![Kívülről](http://i.imgur.com/gw4cy18.jpg)
 
 ![Kívülről](http://i.imgur.com/1IfQJv3.jpg)
 
-# ![Kívülről](http://i.imgur.com/xlGyO9N.jpg)
+![Kívülről](http://i.imgur.com/R7Zi8Nr.jpg)
