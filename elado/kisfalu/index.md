@@ -2,7 +2,7 @@
 layout: elado
 title: A vadregényes birtokon forrás, patak, vízesés és malomrom...
 
-# Irányára: 25 000 000 HUF
+# Irányára: 35 000 000 HUF
 ---
 
 # ![](http://i.imgur.com/jAxeORh.jpg) A vadregényes birtokon forrás, patak, vízesés és malomrom...
@@ -49,7 +49,7 @@ Budapesttől kb. 200 km-re, az M6-os autópályán kevesebb, mint két órányir
 
 ![](http://i.imgur.com/yDp1qx6.jpg)
 
-**Az ingatlan irányára 25 millió Ft.**
+**Az ingatlan irányára 35 millió Ft.**
 
 A muzeális értékű, működőképes malomgépezet és annak beépítése, üzembehelyezése egy erre a feladatra szakosodott manufaktúra segítségével -megállapodás szerinti áron- igazi kuriózumot varázsolhat Önnek a romantikus kis birtokon…
 
