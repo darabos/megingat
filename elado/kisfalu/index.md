@@ -2,7 +2,7 @@
 layout: elado
 title: A vadregényes birtokon forrás, patak, vízesés és malomrom...
 
-# Irányára: 25 000 000 HUF
+# Irányára: 35 000 000 HUF
 ---
 
 # ![](http://i.imgur.com/jAxeORh.jpg) A vadregényes birtokon forrás, patak, vízesés és malomrom...
