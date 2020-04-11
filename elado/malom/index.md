@@ -5,7 +5,7 @@ title: Eladó malom
 
 #![Kívülről](http://i.imgur.com/cHwgdIm.jpg) Eladó önfenntartó tanya a Bakonyban!
 
-## Irányára: 135000000 HUF
+## Irányára: 150000000 HUF
 
 Izgalmas, különleges, összesen 5,8 ha-os ingatlant ölel a Bakonyban eredő bő vizű Séd patak két ága, Balatonfüredtől mindössze 30 km-re!
 
@@ -31,7 +31,7 @@ Az eladó terület közvetlen szomszédságában további termőföld területek
 
 [Herend](http://hu.wikipedia.org/wiki/Herend) Veszprémtől 15 km, Balatonfüredtől 30 km, Budapesttől 120 km távolságra van.
 
-A sokféle lehetőséget nyújtó 5,8 ha-os terület ára 135 000 000 HUF.
+A sokféle lehetőséget nyújtó 5,8 ha-os terület ára 150 000 000 HUF, vagy 420 000 €
 
 Érdeklődjön a részletekről! Érdemes :)
 
