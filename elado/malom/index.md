@@ -7,7 +7,7 @@ title: Eladó malom
 
 {% include fold.html %}
 
-## Irányára: 110000000 HUF
+## Irányára: 150000000 HUF
 
 Izgalmas, különleges, összesen 5,8 ha-os ingatlant ölel a Bakonyban eredő bő vizű Séd patak két ága, Balatonfüredtől mindössze 30 km-re!
 
@@ -33,7 +33,7 @@ A terület két oldalán a természetes határ a Séd két ága, így engedélye
 
 [Herend](http://hu.wikipedia.org/wiki/Herend) Veszprémtől 15 km, Balatonfüredtől 30 km, Budapesttől 120 km távolságra van.
 
-A sokféle lehetőséget nyújtó 5,8 ha-os ingatlan **irányára 360 000 €.**
+A sokféle lehetőséget nyújtó 5,8 ha-os terület ára 150 000 000 HUF, vagy 420 000 €
 
 Érdeklődjön a részletekről! Érdemes :)
 
