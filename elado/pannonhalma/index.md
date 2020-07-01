@@ -1,8 +1,6 @@
 ---
 layout: elado
 title: Vadregényes vízi-világ eladó Pannonhalmán 
-
-# Irányára: 3500000 €
 ---
 
 # ![Kívülről](http://i.imgur.com/J4m9gPe.jpg) Vadregényes vízi-világ eladó Pannonhalmán
@@ -46,12 +44,14 @@ Az egyik nagy tó teljes partja, közel 10 ha-os terület, beépíthető üdül�
 
 ![Kívülről](http://i.imgur.com/z9XAbPi.jpg)
 
-A teljes terület korlátozás nélkül megvásárolható, nem esik a földtörvény hatálya alá. Akár bővíthető a tulajdonos további, közvetlenül szomszédos  ingatlanjaival is.
+A teljes terület korlátozás nélkül megvásárolható, **nem esik a földtörvény hatálya alá.** Akár bővíthető a tulajdonos további, közvetlenül szomszédos, nagy kterjedésű  ingatlanjaival is.
 A sportolásra is alkalmas, tiszta, mélyvizű tavak csalogató madárvilággal rendelkeznek.
 
 ![Kívülről](http://i.imgur.com/82xwMWm.jpg)
 
 ![Kívülről](http://i.imgur.com/L59MRbw.jpg)
+
+![Kívülről](https://i.imgur.com/iN1ldLS.jpg)
 
 Az eladó ingatlanhoz tartozó összes ingóság, a színvonalas munkagépek, járművek az ár részét képezik.
 
@@ -63,7 +63,7 @@ Az eladó ingatlanhoz tartozó összes ingóság, a színvonalas munkagépek, j�
 
 Az ingatlan az autópálya lehajtójától nem egészen 20 km-re található, így Bécstől és Budapesttől is kb. egy óra alatt elérhető.
 
-**Az irányára: 3 500 000 €.**
+**Az eladási ára a tulajdonossal történt egyeztetés szerint alakul.**
 
 Kérem, keressen a részletekért! 
 
