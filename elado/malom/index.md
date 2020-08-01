@@ -7,23 +7,22 @@ title: Eladó malom
 
 {% include fold.html %}
 
-## Irányára: 150000000 HUF
+## Irányára: 179000000 HUF
 
-Izgalmas, különleges, összesen 5,8 ha-os ingatlant ölel a Bakonyban eredő bő vizű Séd patak két ága, Balatonfüredtől mindössze 30 km-re!
+Izgalmas, különleges, összesen kb. 8 ha-os ingatlant ölel a Bakonyban eredő bő vizű Séd patak két ága, Balatonfüredtől mindössze 30 km-re!
 
-A Szentgáli Református Egyház megbízásából 1854-ben épült vízimalmot új tulajdonosai 2009-ben kezdték felújítani Herend külterületén. Hagyománytisztelő ízléssel a mai kor igényei szerint is kényelmes, igényes otthont teremtettek a történelmünkre emlékező falak között. 
+Az 1854-ben épült vízimalmot új tulajdonosai 2009-ben kezdték felújítani. Hagyománytisztelő ízléssel a mai kor igényei szerint is kényelmes, igényes otthont teremtettek a történelmünkre emlékező falak között. 
 
-A 300 m2-es, hat szobás, kétszintes épületben egy nagy lakást és vendégek számára egy kényelmes, kétszobás apartmant alakítottak ki. A tetőtér beépítése még nem fejeződött be.
+A 300 m2-es, hat szobás, kétszintes épületben egy nagy lakást és vendégek számára egy kényelmes, kétszobás apartmant alakítottak ki. A tetőtér beépítése, a +70 m2-es lakás kialakítása még nem fejeződött be. Mindhárom lakrész önálló bejárattal rendelkezik.
 
 ![Kívülről](http://i.imgur.com/JjwSV0l.jpg)
 
-A rövidesen aszfaltos úton megközelíthető, gyönyörű és egészséges környezetben álló otthon kiemelkedő előnye, hogy -bár 300 m-re elérhető, ill. elérhető lesz a vezetékes víz, csatornahálózat, áram- a fenntartása nem csak környezetbarát, minden **szolgáltatótól független**, de teljesen ingyenes is! A malom kerekét a 3 m-ről lezúduló patakvíz hajtja. Az elektromos energia egy része innen származik, a tetőn pedig napkollektorok és napelemek termelik az energiát. (A tulajdonos ezt most bővítette 3,5 KW-tal!) A bevizsgált ivóvizet a saját kút adja, a fűtéshez a saját 0,8 ha-os erdő biztosítja a tüzelőt. Az otthon melegét a központi fűtés mellett a cserépkályhában és kandallóban pattogó tűz hangulata is fokozza…
+A tanya majdnem teljesen megközelíthető aszfaltos úton, (rövidke, zúzott köves szakasz visz a kapuig). A gyönyörű és egészséges környezetben álló otthon kiemelkedő előnye, hogy bár a telken elérhető a vezetékes víz, csatornahálózat és az elektromos áram (3x20 A), a fenntartása környezetbarát megoldásokkal is működik. A malom kerekét a 3 m-ről lezúduló patakvíz hajthatja, az elektromos energia egy része innen is származhat, a tetőn pedig napkollektorok és napelemek termelik az energiát. A saját forrás által táplált kút bevizsgált ivóvizet ad, az otthon melegét a központi fűtés mellett a cserépkályhában és kandallóban pattogó tűz hangulata is emeli…
 
 ![Kívülről](http://i.imgur.com/amgPlmg.jpg)
 
-A közel 4,5 ha-os jó minőségű szántóból most 1,2 ha-on a gazdáikat sajttal ajándékozó kecskék legelnek. 6100 m2 kivett területen áll a lakóház, udvar, gazdasági épület, mellettük a jól termő zöldséges kert és két kicsi, összesen 250 m2-nyi tavacska, amelyek tiszta vizében pisztrángok élnek. A kerék hajtására és a tavak létesítésére jelenleg érvényes vízjogi engedélyt csak 2028-ban kell hosszabbítani. 
-A terület két oldalán a természetes határ a Séd két ága, így engedélyeztetés után könnyedén kialakítható a mostani legelő területén egy kb. 1 ha-nyi gravitációsan tölthető halastó, sőt akár több tó is.
-**Az eladó terület közvetlen szomszédságában további termőföld területek is vásárolhatók.**
+A jó minőségű szántóból akár több ha legelőként is használható, a terület állattartásra is kiválóan alkalmas. 6100 m2 kivett területen áll a lakóház, udvar, gazdasági épület, mellettük a jól termő zöldséges kert és két kicsi, összesen 250 m2-nyi tavacska, amelyek tiszta vizében pisztrángok élnek. A kerék hajtására és a tavak létesítésére jelenleg érvényes vízjogi engedélyt csak 2028-ban kell hosszabbítani. 
+**A terület két oldalán a természetes határ a Séd két ága, így igény esetén, engedélyeztetés után könnyedén kialakítható a mostani legelő területén kb. 1 ha-nyi, gravitációsan tölthető halastó, sőt akár több tó is.**
 
 ![Kívülről](http://i.imgur.com/Nae804W.jpg)
 
@@ -33,11 +32,11 @@ A terület két oldalán a természetes határ a Séd két ága, így engedélye
 
 [Herend](http://hu.wikipedia.org/wiki/Herend) Veszprémtől 15 km, Balatonfüredtől 30 km, Budapesttől 120 km távolságra van.
 
-A sokféle lehetőséget nyújtó 5,8 ha-os terület ára 150 000 000 HUF, vagy 420 000 €
+**A jelenleg is fejlődő, a leírásban nem is érintett módon tovább is fejleszthető, sokféle lehetőséget nyújtó 8 ha-os terület irányára 179 000 000 HUF, vagy 518 000 €.**
 
-Érdeklődjön a részletekről! Érdemes :)
+Érdeklődjön a további részletekről!!! Érdemes!
 
-Jó döntést kívánunk!
+Jó döntést kívánunk! :)
 
 # További képek
 
