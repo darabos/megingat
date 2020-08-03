@@ -107,7 +107,7 @@ vízellátási rendszerének gépházaként épült.
 
 ![](http://i.imgur.com/Hl4MK3T.jpg)
 
-# Eladó vízparti ingatlan a Balaton egyik legszebb panorámájával
+# Eladó vízparti ingatlan a Balaton egyik legszebb panorámájával - ELKELT!
 
 Az eladó ingatlan tulajdonosa szereti a szépet. Háza Balatonbogláron közvetlenül a parton áll, így innen biztosan az egyik legszebb panorámát láthatjuk. Gyönyörű a Balaton, amikor békés és akkor is, ha vad. Amikor simogatón ringat, vagy épp tarajos hullámok kevernek új színeket a tónak...
 

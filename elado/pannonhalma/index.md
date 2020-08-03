@@ -17,7 +17,7 @@ A birtokot a Világörökség részét képező Pannonhalmi Bencés Apátság im
 
 ![Kívülről](http://i.imgur.com/dPp828z.jpg)
 
-A hét, vízjogi engedéllyel rendelkező tó vízfelszíne össesen 45 ha. A legnagyobb tó 26 ha-os.
+A hét, vízjogi engedéllyel rendelkező tó vízfelszíne összesen 45 ha. A legnagyobb tó 26 ha-os.
 
 ![Kívülről](http://i.imgur.com/5W8OAoX.jpg)
 
@@ -29,8 +29,8 @@ A tulajdonos jelenleg jól jövedelmező halgazdaságként hasznosítja a Pándz
 
 ![Kívülről](http://i.imgur.com/xZxKaTB.jpg)
 
-A terület összközműves, a szennyvíz elvezetése csatorna hálózatra van csatlakoztatva, saját átemelővel. Az elektromos áram földkábelen érkezik a tulajdonos családiházaihoz, a halászházhoz, a reflektorokhoz és a tavak levegőztetőihez is.
-A teljes területen tíz bővizű kút található, amelyek közül háromnak a vize bevizsgált, jó minőségű ivóvíz. 
+A terület összközműves, a szennyvíz elvezetése csatorna-hálózatra van csatlakoztatva, saját átemelővel. Az elektromos áram földkábelen érkezik a tulajdonos családiházaihoz, a halászházhoz, a reflektorokhoz és a tavak levegőztetőihez is.
+A teljes területen tíz bővizű kút található, amelyek közül háromnak a vize már bevizsgált, jó minőségű ivóvíz. 
 
 ![Kívülről](http://i.imgur.com/eS3DkuC.jpg)
 
@@ -38,14 +38,14 @@ A teljes területen tíz bővizű kút található, amelyek közül háromnak a 
 
 ![Kívülről](http://i.imgur.com/u8pO4z1.jpg)
 
-Az egyik nagy tó teljes partja, közel 10 ha-os terület, beépíthető üdülőövezet. A tervek, engedélyek egy panzió, egy étterem, 9 üzleteshelyiséges üzletközpont, egy közvetlen útcsatlakozással rendelkező camping, 50 apartmanház megépítésére az új tulajdonos rendelkezésére állnak.
+Az egyik nagy tó teljes partja, közel 10 ha-os terület, beépíthető üdülőövezet. A tervek, engedélyek egy panzió, egy étterem, 9 üzlethelyiséges üzletközpont, egy közvetlen útcsatlakozással rendelkező camping, 50 apartmanház megépítésére az új tulajdonos számára is rendelkezésre állnak.
 
 ![Kívülről](http://i.imgur.com/Z9Mvnzz.jpg)
 
 ![Kívülről](http://i.imgur.com/z9XAbPi.jpg)
 
-A teljes terület korlátozás nélkül megvásárolható, **nem esik a földtörvény hatálya alá.** Akár bővíthető a tulajdonos további, közvetlenül szomszédos, nagy kterjedésű  ingatlanjaival is.
-A sportolásra is alkalmas, tiszta, mélyvizű tavak csalogató madárvilággal rendelkeznek.
+A teljes terület korlátozás nélkül megvásárolható, **nem esik a földtörvény hatálya alá.** Akár bővíthető a tulajdonos további, közvetlenül szomszédos, nagy kiterjedésű  ingatlanjaival is.
+A sportolásra is alkalmas, tiszta, mély vizű tavak csalogató madárvilággal rendelkeznek.
 
 ![Kívülről](http://i.imgur.com/82xwMWm.jpg)
 
@@ -53,7 +53,7 @@ A sportolásra is alkalmas, tiszta, mélyvizű tavak csalogató madárvilággal 
 
 ![Kívülről](https://i.imgur.com/iN1ldLS.jpg)
 
-Az eladó ingatlanhoz tartozó összes ingóság, a színvonalas munkagépek, járművek az ár részét képezik.
+Az eladó ingatlanhoz tartozó összes ingóság, a színvonalas munkagépek és járművek is az ár részét képezik.
 
 ![Kívülről](http://i.imgur.com/Yo8OmHX.jpg)
 
