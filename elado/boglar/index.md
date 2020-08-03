@@ -5,7 +5,7 @@ title: Eladó vízparti ingatlan a Balaton egyik legszebb panorámájával - ELK
 # Irányára 105 000 000 HUF.
 ---
 
-# ![](http://i.imgur.com/Hl4MK3T.jpg) Eladó vízparti ingatlan a Balaton egyik legszebb panorámájával
+# ![](http://i.imgur.com/Hl4MK3T.jpg) Eladó vízparti ingatlan a Balaton egyik legszebb panorámájával - ELKELT! (ÉPÜL A KÖVETKEZŐ!)
 
 {% include fold.html %}
 
@@ -42,7 +42,7 @@ A boglári kikötő hajóforgalma jelentős, ám Balatonboglár nem csak színvo
 
 Köszönjük, hogy megtekintette ajánlatunkat. Bízunk abban, hogy a különleges lehetőségekkel bíró ingatlan felkeltette az érdeklődését!
 
-Kérem, keressen minket az elérhetőségeink valamelyikén a részletesebb, pontosabb információkért!
+Kérem, keressen minket az elérhetőségeink valamelyikén a közeljövőben épülő hasonló ingatlanról szóló részletesebb, pontosabb információkért!
 
 Jó döntést kívánunk! :)
 
