@@ -1,6 +1,6 @@
 ---
 layout: elado
-title: Eladó vízparti ingatlan a Balaton egyik legszebb panorámájával
+title: Eladó vízparti ingatlan a Balaton egyik legszebb panorámájával - ELKELT!
 
 # Irányára 105 000 000 HUF.
 ---
