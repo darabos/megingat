@@ -68,4 +68,4 @@ Kérem keressen a részletekért! :)
 
 ![Kívülről](http://i.imgur.com/1IfQJv3.jpg)
 
-![Kívülről](http://i.imgur.com/R7Zi8Nr.jpg)
+# ![Kívülről](http://i.imgur.com/R7Zi8Nr.jpg)
