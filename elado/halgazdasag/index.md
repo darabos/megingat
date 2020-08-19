@@ -1,7 +1,7 @@
 ---
 layout: elado
 title: Erdők ölén eladó halgazdaság a varázslatos Bakonyban - NAGY RÉSZE ELKELT! EGY TÓ ELADÓ!
-
+---
 
 # ![Kívülről](http://i.imgur.com/CZ8Wz2E.jpg) Erdők ölén eladó halgazdaság a varázslatos Bakonyban - Nagy része ELKELT! Már csak egy nagy tó eladó!
 
