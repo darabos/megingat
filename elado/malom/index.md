@@ -30,7 +30,7 @@ A jó minőségű szántóból akár több ha legelőként is használható, a t
 
 ![Kívülről](http://i.imgur.com/iVekA8C.jpg)
 
-[Herend](http://hu.wikipedia.org/wiki/Herend) Veszprémtől 15 km, Balatonfüredtől 30 km, Budapesttől 120 km távolságra van.
+A tanya Veszprémtől 15 km, Balatonfüredtől 30 km, Budapesttől 120 km távolságra van.
 
 **A jelenleg is fejlődő, a leírásban nem is érintett módon tovább is fejleszthető, sokféle lehetőséget nyújtó 8 ha-os terület irányára 179 000 000 HUF, vagy 518 000 €.**
 
