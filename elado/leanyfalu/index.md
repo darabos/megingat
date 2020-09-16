@@ -2,20 +2,20 @@
 layout: elado
 title: Exkluzív villa eladó Leányfalun
 
-# Irányára: 350.000.000 HUF
+# Irányára: 330.000.000 HUF
 ---
 
 # ![Kívülről](http://i.imgur.com/8MmaJiO.jpg) Exkluzív villa eladó Leányfalun
 
 {% include fold.html %}
 
-Az ingatlan elegáns, luxusigényeket is kielégítő több generációs családi ház. Új tulajdonosa igényei szerint fejleszthető exkluzív vendégházzá, alkotóházzá vagy felsőkategóriás vendéglátóhellyé. 
+Az ingatlan elegáns, luxusigényeket is kielégítő többgenerációs családi ház. Új tulajdonosa igényei szerint fejlesztheti exkluzív vendégházzá, alkotóházzá vagy felsőkategóriás vendéglátóhellyé. 
 
 Leendő lakóinak kényelmét négy külön en-suite lakosztály, elkülönülő tetőtéri lakrész, nagyméretű nappali kandallóval, 20 fős, festett kazettás mennyezetű étkező-borozó barátságos cserépkályhával és a 120 m2-es Dunára néző tetőtéri terasz biztosítja. Testedzésre lehetőséget nyújt a fedett uszoda, szauna, konditerem és teniszpálya.  Az épületegyüttes a főúttól diszkréten távol, a tekintélyes méretű telek felső végén, a Dunától 100 méterre, egy teljesen árvízbiztos dombon foglal helyet.
 
 ![](http://i.imgur.com/UmMpxf5.jpg)
 
-A házat a magyar szecessziós építészet egyik kiemelkedő építésze, Pogány Móric tervezte dr. Lamotte Károlynak, Budapest volt alpolgármesterének, a Pesti Magyar Kereskedelmi Bank vezérigazgatójának, a Magyar Országgyűlés Felsőháza tagjának és feleségének, gróf Forgács Eszternek. A villa - ismereteink szerint - nyaralónak épült és feltételezhetően 1939-ben készült el. A háború során Lamotték budavári házát 1945 januárjában a bombázások teljesen romba döntötték. Ezt követően a család Leányfalura költözött, ahol életük végéig éltek. Az épület később a Mafilm alkotóháza lett, majd a rendszerváltás után László András tulajdonába, később pedig árverésre került. László András az 1990-es évek elején jelentős felújítást, illetve átalakítást végzett az ingatlanon, ekkor épült az uszoda a főépület mellé. László András halálát követően közel 20 évig üresen állt a ház, ám a kétezres évek elején állagmegőrző felújítása történt. Új tulajdonosai 2013-14-ben végezték az ingatlan újabb, szakszerű felújítását (tetőszerkezet, homlokzat, emeleti terasz, gépészet, tetőtér beépítése), így a villa jelenleg az eddigi legszínvonalasabb állapotában kínálható eladásra.
+A házat a magyar szecessziós építészet egyik kiemelkedő építésze, Pogány Móric tervezte dr. Lamotte Károlynak, Budapest volt alpolgármesterének, a Pesti Magyar Kereskedelmi Bank vezérigazgatójának, a Magyar Országgyűlés Felsőháza tagjának és feleségének, gróf Forgács Eszternek. A villa - ismereteink szerint - nyaralónak épült, és feltételezhetően 1939-ben készült el. A háború során Lamotték budavári házát 1945 januárjában a bombázások teljesen romba döntötték. Ezt követően a család Leányfalura költözött, ahol életük végéig éltek. Az épület később a Mafilm alkotóháza lett, majd a rendszerváltás után László András tulajdonába, később pedig árverésre került. László András az 1990-es évek elején jelentős felújítást, illetve átalakítást végzett az ingatlanon, ekkor épült az uszoda a főépület mellé. László András halálát követően közel 20 évig üresen állt a ház, ám a kétezres évek elején állagmegőrző felújítása történt. Új tulajdonosai 2013-14-ben, majd 2019-ben is végezték az ingatlan újabb, szakszerű felújítását (tetőszerkezet, homlokzat, emeleti terasz, gépészet, tetőtér beépítése), így a villa jelenleg az eddigi legszínvonalasabb állapotában kínálható eladásra.
 
 ![](http://i.imgur.com/vuBA1tI.jpg)
 
@@ -32,7 +32,7 @@ A nappaliban zöld márványborítású nyitott kandalló, az étkező-borozóba
 
 ![](http://i.imgur.com/SfbOHv4.jpg)
 
-A **földszinten** a mosdóhelyiséges előszobából nyílik a mozaikparkettás fogadó helyiség, melyből a nappali, a felső szintek, illetve rejtett ajtón keresztül a volt “cselédbejáró” és a konyha hátsó bejárata felé mehetünk tovább. A nappaliból nyílik az étkező-borozó, melynek mérete az ott elhelyezett étkezőasztalnál akár 20 fő részére teszi lehetővé az egyidejű étkezést. Külön figyelmet érdemel az étkező védett, korabeli fakazettás, festett ábrákkal és faragásokkal díszített mennyezete és a festett mozaik-berakású üvegablaka.
+A **földszinten** a mosdóhelyiséges előszobából nyílik a mozaikparkettás fogadóhelyiség, amelyből a nappali, a felső szintek, illetve rejtett ajtón keresztül a volt “cselédbejáró” és a konyha hátsó bejárata felé mehetünk tovább. A nappaliból nyílik az étkező-borozó, melynek mérete az ott elhelyezett étkezőasztalnál akár 20 fő részére teszi lehetővé az egyidejű étkezést. Külön figyelmet érdemel az étkező védett, korabeli fakazettás, festett ábrákkal és faragásokkal díszített mennyezete és a festett mozaik-berakású üvegablaka.
 
 ![](http://i.imgur.com/ovEUMst.jpg)
 
@@ -42,12 +42,12 @@ Az étkező-borozóhoz és a nagy nappalihoz kapcsolódik a beltéri uszoda.  Ha
 
 ![](http://i.imgur.com/hoDXJYB.jpg)
 
-Az uszodából nyílik a szauna és fitnesz helyiség. Az étkezőből igényes famunkával készült bárpulton keresztül nyílik a kor igényeit teljesen kiszolgáló elegáns konyha és a hozzá tartozó hűvös kamra. A földszinten még egy további személyzeti mosdó és közlekedők kaptak helyett. A felső szintekre tölgyfából készült szőnyegborítású lépcső vezet.
+Az uszodából nyílik a szauna és a fitneszhelyiség. Az étkezőből igényes famunkával készült bárpulton keresztül nyílik a kor igényeit teljesen kiszolgáló elegáns konyha és a hozzá tartozó hűvös kamra. A földszinten még egy további személyzeti mosdó és közlekedők kaptak helyett. A felső szintekre tölgyfából készült szőnyegborítású lépcső vezet.
 
 ![](http://i.imgur.com/UY2LdrJ.jpg)
 
 Az **első emeleten** az exkluzív, sötét mahagóni faborítású előtérből négy teljesen különálló lakosztály nyílik.
-A **Lamotte-lakosztályba** lépve könyvtár-dolgozó fogad, amely ugyancsak sötét mahagóni polcos falaival rendkívül ízléses. Innen nyílik a medenceépület tetején található 120 m2-es, panorámás terasz is. A lakosztály másik helyisége a hálószoba, ahol fűtőtest magasságában folytatódik a mahagóni fa falborítás, amihez a tapéta harmonikusan illeszkedik. A hálószobához gardrób és fürdőszoba csatlakozik. A lakosztály jellegét a mahagóni beépített bútorok és falburkolatok teszik egyedivé. A terasz borítása teljesen új, igényes fagyálló lapokkal készült. A mellvédet kőfigurák díszítik.
+A **Lamotte-lakosztályba** lépve könyvtár-dolgozó fogad, amely az ugyancsak sötét mahagóni polcos falaival rendkívül ízléses. Innen nyílik a medenceépület tetején található 120 m2-es, panorámás terasz is. A lakosztály másik helyisége a hálószoba, ahol fűtőtest magasságában folytatódik a mahagóni fa falborítás, amihez a tapéta harmonikusan illeszkedik. A hálószobához gardrób és fürdőszoba csatlakozik. A lakosztály jellegét a mahagóni beépített bútorok és falburkolatok teszik egyedivé. A terasz borítása teljesen új, igényes fagyálló lapokkal készült. A mellvédet kőfigurák díszítik.
 
 ![](http://i.imgur.com/GYtw7Wb.jpg)
 
@@ -55,13 +55,13 @@ A **Lamotte-lakosztályba** lépve könyvtár-dolgozó fogad, amely ugyancsak s�
 
 ![](http://i.imgur.com/7jae6BE.jpg)
 
-A **Forgách-lakosztály** egy nagyméretű világos szobából, gardróbból, tároló-helyiségből és egy hatalmas fürdőszobából áll. A szoba jellegét a fehérre festett keményfa beépített bútorok, festett fa falburkolatok, a sok ablak, a fényes loggia és a hatalmas platánfa lombjának fényjátéka határozza meg.
+A **Forgách-lakosztály** egy nagyméretű világos szobából, gardróbból, tárolóhelyiségből és egy hatalmas fürdőszobából áll. A szoba jellegét a fehérre festett keményfa beépített bútorok, festett fa falburkolatok, a sok ablak, a fényes loggia és a hatalmas platánfa lombjának fényjátéka határozza meg.
 
 ![](http://i.imgur.com/YwbbN8x.jpg)
 
 ![](http://i.imgur.com/xttllkC.jpg)
 
-Az emeleten található még további két, egymással megegyező elrendezésű erkélyes lakosztály, melyek egy-egy nagy szobából és fürdőszobából állnak.
+Az emeleten található még további két, egymással megegyező elrendezésű erkélyes lakosztály, amelyek egy-egy nagy szobából és fürdőszobából állnak.
 
 ![](http://i.imgur.com/jRYbVQJ.jpg)
 
@@ -86,11 +86,11 @@ A tetőtér igény esetén könnyedén átalakítható galériává, fényesség
 
 ![](http://i.imgur.com/p3teDkl.jpg)
 
-A **pince szinten** található egy borospincének ideális, állandóan hűvös tároló, a szauna, amihez természetesen fürdő is kapcsolódik, a fitness helyiség, valamint a medencegépészet és a kazánház, amely a mérete alapján akár fatárolásra is alkalmas.
+A **pince szinten** található egy borospincének ideális, állandóan hűvös tároló, a szauna, amihez természetesen fürdő is kapcsolódik, a fitneszhelyiség, valamint a medencegépészet és a kazánház, amely a mérete alapján akár fatárolásra is alkalmas.
 A gazdasági épület a főépület északi oldalához kapcsolódik. Itt kapott helyet a kétállásos, fűthető garázs. Szintén itt található egy-két fő személyzet részére a kisebb  személyzeti lakás, amely előtér-konyhából, fürdőszobából, nappali és hálószobából, valamint egy raktárhelyiségből áll.
 Amennyiben személyes megtekintése után is érdekli Önt az ingatlan, a helyiséglista és a műszaki rajzok természetesen a rendelkezésére állnak.
 
-**Az ingatlan irányára 350000000 HUF.**
+**Az ingatlan irányára 330000000 HUF.**
 
 Kérem, egyeztessen időpontot a megtekintéshez! Érdemes :)
 
