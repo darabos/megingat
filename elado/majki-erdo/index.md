@@ -49,7 +49,7 @@ Várjuk a hívását! :)
 
 ![](http://i.imgur.com/ywscK1I.jpg)
 
-**Az erdő irányára 30 millió HUF.**
+**Az erdő ára a tulajdonossal történő megbeszélés szerint alakul.**
 
 # További képek:
 
