@@ -11,7 +11,7 @@ title: A vadregényes birtokon forrás, patak, vízesés és malomrom...
 
 Az eladó mesés kis birtok Európa 2010-es kulturális fővárosától kb. 20 km-re úgy bújik meg egy zsákfalucska szélén, hogy avatatlan szemeknek láthatatlan marad.
 
-A település utcájáról lekanyarodva, 200 m hosszú magánút végén tiszta vizű patak kb. 140 m hosszan ölel egy, a természet által visszahódított, közel ¾ ha-os területet. Az érintetlen csendet a vízesés hangja színesíti. 
+A település utcájáról lekanyarodva, 200 m hosszú magánút végén tiszta vizű patak kb. 140 m hosszan ölel egy, a természet által visszahódított, közel fél ha-os területet. Az érintetlen csendet a vízesés hangja színesíti. 
 
 ![](http://i.imgur.com/7M5Q1MW.jpg)
 
