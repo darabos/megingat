@@ -143,7 +143,7 @@ Az Istenhegyen épült neobarokk villát 2016-ban teljesen felújították. Az 1
 
 # A vadregényes birtokon forrás, patak, vízesés és malomrom…  
 
-Az eladó mesés kis birtok Európa 2010-es kulturális fővárosától kb. 20 km-re úgy bújik meg egy zsákfalucska szélén, hogy avatatlan szemeknek láthatatlan marad. Tiszta vizű patak ölel egy, a természet által visszahódított, közel ¾ ha-os területet. Az érintetlen csendet a vízesés hangja színesíti.
+Az eladó mesés kis birtok Európa 2010-es kulturális fővárosától kb. 20 km-re úgy bújik meg egy zsákfalucska szélén, hogy avatatlan szemeknek láthatatlan marad. Tiszta vizű patak ölel egy, a természet által visszahódított, közel fél ha-os területet. Az érintetlen csendet a vízesés hangja színesíti.
 [Részletek](/elado/kisfalu){:.btn.btn-megingat.pull-right}
 
 </div>
