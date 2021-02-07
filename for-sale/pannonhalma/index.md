@@ -49,7 +49,8 @@ access, and a 50-unit apartment complex are all available to the new owner.
 ![](http://i.imgur.com/z9XAbPi.jpg)
 
 The property sold with full ownership rights and not subject to the usual Hungarian property-law
-restrictions. It can be expanded further with available adjacent properties. The clear deep water lakes
+restrictions. It is non-agricultural land, can also be purchased by a foreign person.
+It can be expanded further with available adjacent properties, forest. The clear deep water lakes
 are suitable for water sports as well as attracting bird life.
 
 ![](http://i.imgur.com/82xwMWm.jpg)
@@ -66,7 +67,7 @@ All the inventory of high-quality machinery and many vehicles are also included 
 
 The area is 20 km from the highway exit: both Vienna and Budapest are about one hour driving.
 
-**Asking price: € 3.5 million.**
+**Asking price:from the owner.**
 
 Please contact for details!
 
