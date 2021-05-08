@@ -147,4 +147,15 @@ Az eladó mesés kis birtok Európa 2010-es kulturális fővárosától kb. 20 k
 [Részletek](/elado/kisfalu){:.btn.btn-megingat.pull-right}
 
 </div>
+<div class="egyik clearfix" markdown="block">
+
+![](https://i.imgur.com/BB4XdlQ.png)
+
+# Elegáns villa eladó Kőszegen
+
+Kőszeg gazdag múltja révén sokszor jelentős szerepet töltött be Magyarország és Ausztria történelmében is. 
+A villa a határon álló város egyik ikonikus épülete. Elhelyezkedése, színvonala sokféle lehetőséget nyújt.
+Testi, lelki, mentális egészséget építő szolgáltatásra éppúgy alkalmas, mint csodás, tágas exkluzív otthonnak.
+
+[Részletek](/elado/koszeg){:.btn.btn-megingat.pull-right}
 
