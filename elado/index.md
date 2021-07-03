@@ -143,7 +143,8 @@ Az Istenhegyen épült neobarokk villát 2016-ban teljesen felújították. Az 1
 
 # A vadregényes birtokon forrás, patak, vízesés és malomrom…  
 
-Az eladó mesés kis birtok Európa 2010-es kulturális fővárosától kb. 20 km-re úgy bújik meg egy zsákfalucska szélén, hogy avatatlan szemeknek láthatatlan marad. Tiszta vizű patak ölel egy, a természet által visszahódított, közel fél ha-os területet. Az érintetlen csendet a vízesés hangja színesíti.
+A mesés kis birtok Európa 2010-es kulturális fővárosától kb. 20 km-re úgy bújik meg egy zsákfalucska szélén, hogy avatatlan szemeknek láthatatlan marad. 
+Tiszta vizű patak ölel egy, a természet által visszahódított, közel fél ha-os területet. Az érintetlen csendet a vízesés hangja színesíti.
 [Részletek](/elado/kisfalu){:.btn.btn-megingat.pull-right}
 
 </div>
@@ -158,4 +159,18 @@ A villa a határon álló város egyik ikonikus épülete. Elhelyezkedése, szí
 Testi, lelki, mentális egészséget építő szolgáltatásra éppúgy alkalmas, mint csodás, tágas exkluzív otthonnak.
 
 [Részletek](/elado/koszeg){:.btn.btn-megingat.pull-right}
+  
+  </div>
+<div class="egyik clearfix" markdown="block">
+
+![](https://i.imgur.com/FNB5Kqs.jpg)
+
+# Eladó birtok az Őrségben
+
+Eladó egy régmúlt idők békéjét és tisztaságát idéző birtok az Őrségi Nemzeti Parkban.
+A területre jellemző szórványtelepülések egyike a magyar–osztrák–szlovén hármashatár közelében helyezkedik el. 
+A szinte érintetlen folyóvölgyek, a Hársas-tó, az őrségi erdők, az Alpok közelsége sajátos klímával segíti itt az élővilágot.
+  
+[Részletek](/elado/orseg){:.btn.btn-megingat.pull-right}
+
 
