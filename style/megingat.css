@@ -132,6 +132,10 @@
   margin-right: 15%;
 }
 
+.content.prose > p {
+  text-align: justify;
+}
+
 .content .parallax {
   margin: 0 !important;
   overflow: hidden;
