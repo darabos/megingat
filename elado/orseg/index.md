@@ -35,7 +35,7 @@ A négy évszak minden szépségével gazdagítja Vendvidék lakóinak testét, 
 
 ![](https://i.imgur.com/Lw5bZ7A.jpg)
 
-Orchideák, pillangók, lápos terület izgalmas világa jelenti itt a környezetet.
+Kosborok, orchideák, pillangók, lápos terület izgalmas világa jelenti itt a környezetet.
 
 ![](https://i.imgur.com/h2sDpE9.jpg)
 
@@ -102,8 +102,6 @@ Az ott élők számára ajándék ez nap mint nap.
 ![](https://i.imgur.com/PsQN8fj.jpg)
 
 ![](https://i.imgur.com/8LBYjwy.jpg)
-
-![](https://i.imgur.com/ZuGJ2Ec.jpg)
 
 ![](https://i.imgur.com/AVwaz5F.jpg)
 
