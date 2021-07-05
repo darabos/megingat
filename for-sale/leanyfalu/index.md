@@ -5,7 +5,7 @@ title: Luxurious villa for sale in Leányfalu
 # Irányára: 350.000.000 HUF, vagy ennek megfelelő € (1113444)
 ---
 
-# ![](http://i.imgur.com/8MmaJiO.jpg) Luxurious villa for sale in Leányfalu
+# ![](https://i.imgur.com/8MmaJiO.jpg) Luxurious villa for sale in Leányfalu
 
 {% include fold.html %}
 
@@ -22,7 +22,7 @@ court provide opportunities for physical training.
 The buildings are discreetly away from the main road, at the upper end of the sizeable plot, only 100
 meters from the Danube River, but on top of a completely flood-proof hill.
 
-![](http://i.imgur.com/UmMpxf5.jpg)
+![](https://i.imgur.com/UmMpxf5.jpg)
 
 The House was designed by Moric Pogany, an outstanding architect of the Hungarian Art Nouveau
 architecture for dr. Karoly Lamotte, former deputy mayor of Budapest, the Pest Hungarian Trade
@@ -39,7 +39,7 @@ construction for preservation was carried out. In 2013-14 the new owners of the 
 a more thorough professional renovation (roof, facade, floor terrace, engineering, finishing of the
 attic), so the villa may be offered for sale in the best state ever.
 
-![](http://i.imgur.com/vuBA1tI.jpg)
+![](https://i.imgur.com/vuBA1tI.jpg)
 
 The property can be accessed from the main road through a remote control gate. The two
 separately registered lots are nearly 0.55 hectare. Landscaped with ancient trees, the park-like
@@ -52,7 +52,7 @@ We can approach the building complex, containing the main building and
 annex, (total area 775 sq meter) situated on the uppermost part of the lot on a natural stone
 path.
 
-![](http://i.imgur.com/O9TRoi2.jpg)
+![](https://i.imgur.com/O9TRoi2.jpg)
 
 The four-story main building contains a floor area of 693 sqm. On top of the poured concrete
 foundation the brick perimeter walls are 38 cm thick. A 5-6 cm thick exterior graphite thermal insulation fully
@@ -65,9 +65,9 @@ engineering systems with solar collectors, and a convertible gas boiler. Also, t
 heating assures the comfort of the residents: the living room has an open fireplace in green
 marble, the dining room a tile stove, and the attic apartment an iron stove.
 
-![](http://i.imgur.com/I9vJjJN.jpg)
+![](https://i.imgur.com/I9vJjJN.jpg)
 
-![](http://i.imgur.com/SfbOHv4.jpg)
+![](https://i.imgur.com/SfbOHv4.jpg)
 
 **Ground floor.** Entrance hall with half bath opens to the wood-inlaid-floor receiving room.
 From here we can go to the living room, directly to the upper levels, or through a hidden door
@@ -77,16 +77,16 @@ table accommodating up to 20 people simultaneously. The dining room ceiling dese
 attention: the protected wood paneled, painted and carved ceiling is original as well as the stained
 glass windows below.
 
-![](http://i.imgur.com/ovEUMst.jpg)
+![](https://i.imgur.com/ovEUMst.jpg)
 
-![](http://i.imgur.com/7CN6abi.jpg)
+![](https://i.imgur.com/7CN6abi.jpg)
 
 An indoor swimming pool can be accessed from the dining room or from the large living room.
 Natural light floods in through the huge windows; air conditioning equipment provides optimum
 humidity.
 The pool size is 35 m2 large, 1.35 m deep, the water surface tensioned.
 
-![](http://i.imgur.com/hoDXJYB.jpg)
+![](https://i.imgur.com/hoDXJYB.jpg)
 
 There is also a sauna and fitness room off the swimming pool hall.
 The elegant, modern kitchen, (with cool pantry), can be reached from the dining room through the
@@ -94,7 +94,7 @@ all wood counter of the high class serving bar. On the ground floor there is an 
 bath, in addition to several hallways. The stairways to the upper levels all oak, covered with thick
 carpet.
 
-![](http://i.imgur.com/UY2LdrJ.jpg)
+![](https://i.imgur.com/UY2LdrJ.jpg)
 
 **Second floor.** Four completely separate apartments open from an exclusive, dark mahogany wood-
 paneled central hall.
@@ -107,34 +107,34 @@ and wall paneling make the apartment unique.
 The new ceramic tile floor covering of the patio is freeze-proof. The balustrade is decorated with
 stone statuettes.
 
-![](http://i.imgur.com/GYtw7Wb.jpg)
+![](https://i.imgur.com/GYtw7Wb.jpg)
 
-![](http://i.imgur.com/DPZ0or8.jpg)
+![](https://i.imgur.com/DPZ0or8.jpg)
 
-![](http://i.imgur.com/7jae6BE.jpg)
+![](https://i.imgur.com/7jae6BE.jpg)
 
 The **Forgách-suite** includes a large, bright room, closet, storage room and a huge bathroom.
 The room features built-in white painted hardwood furniture, painted wood paneling and many
 windows. A huge sycamore tree casts playful shadows on the bright loggia.
 
-![](http://i.imgur.com/YwbbN8x.jpg)
+![](https://i.imgur.com/YwbbN8x.jpg)
 
-![](http://i.imgur.com/xttllkC.jpg)
+![](https://i.imgur.com/xttllkC.jpg)
 
 On the second floor we can find two more identical apartments each with a large room,
 bathroom and balcony.
 
-![](http://i.imgur.com/jRYbVQJ.jpg)
+![](https://i.imgur.com/jRYbVQJ.jpg)
 
-![](http://i.imgur.com/y6U8Cn1.jpg)
+![](https://i.imgur.com/y6U8Cn1.jpg)
 
-![](http://i.imgur.com/U07VpeJ.jpg)
+![](https://i.imgur.com/U07VpeJ.jpg)
 
-![](http://i.imgur.com/AcMcNH8.jpg)
+![](https://i.imgur.com/AcMcNH8.jpg)
 
-![](http://i.imgur.com/x1jO5dP.jpg)
+![](https://i.imgur.com/x1jO5dP.jpg)
 
-![](http://i.imgur.com/yVXycKm.jpg)
+![](https://i.imgur.com/yVXycKm.jpg)
 
 The whole **attic area** is a completely separate apartment, bright, youthful, loft-style space.
 In the more than 60 m2 central living room complex there is a full-featured kitchen, dining
@@ -143,13 +143,13 @@ One bedroom has a large bathroom, the other a broom closet. In case of different
 demand the whole attic space is easily convertible to an artist's studio, due to its brightness
 and ample space.
 
-![](http://i.imgur.com/pZJghyz.jpg)
+![](https://i.imgur.com/pZJghyz.jpg)
 
-![](http://i.imgur.com/nfarYNY.jpg)
+![](https://i.imgur.com/nfarYNY.jpg)
 
-![](http://i.imgur.com/EiKa8HS.jpg)
+![](https://i.imgur.com/EiKa8HS.jpg)
 
-![](http://i.imgur.com/p3teDkl.jpg)
+![](https://i.imgur.com/p3teDkl.jpg)
 
 In the **basement** there is an always-cool storage room (ideal for a wine cellar), a sauna with its
 own bathroom, and a fitness room. The large boiler room also includes the the swimming-pool
@@ -165,14 +165,14 @@ Please make an appointment to visit the property.
 
 # More photos
 
-![](http://i.imgur.com/R0lOqtg.jpg)
+![](https://i.imgur.com/R0lOqtg.jpg)
 
-![](http://i.imgur.com/R8NBP4j.jpg)
+![](https://i.imgur.com/R8NBP4j.jpg)
 
-![](http://i.imgur.com/7RA0g69.jpg)
+![](https://i.imgur.com/7RA0g69.jpg)
 
-![](http://i.imgur.com/DRCnttm.jpg)
+![](https://i.imgur.com/DRCnttm.jpg)
 
-![](http://i.imgur.com/bXvlyhP.jpg)
+![](https://i.imgur.com/bXvlyhP.jpg)
 
-# ![](http://i.imgur.com/ckFFnxG.jpg)
+# ![](https://i.imgur.com/ckFFnxG.jpg)

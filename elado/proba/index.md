@@ -3,7 +3,7 @@ layout: elado
 title: Eladó családi birtok tavakkal
 ---
 
-# ![Kívülről](http://i.imgur.com/iwsZG17.jpg) Eladó családi birtok tavakkal
+# ![Kívülről](https://i.imgur.com/iwsZG17.jpg) Eladó családi birtok tavakkal
 
 {% include fold.html %}
 
@@ -13,13 +13,13 @@ A nagyjából négyzet alakú területen hat, összesen 10 ha-nyi tiszta vizű, 
 
 # Képek
  
-![Kívülről](http://i.imgur.com/iwsZG17.jpg)
+![Kívülről](https://i.imgur.com/iwsZG17.jpg)
 
-![Kívülről](http://i.imgur.com/iwsZG17.jpg)
+![Kívülről](https://i.imgur.com/iwsZG17.jpg)
 
 Szöveg... Aztán nagy kép:
 
-# ![Kívülről](http://i.imgur.com/iwsZG17.jpg) Felirat (nem kötelező)
+# ![Kívülről](https://i.imgur.com/iwsZG17.jpg) Felirat (nem kötelező)
 
 ## Kisebb címsor
 
@@ -31,4 +31,4 @@ Felsorolás:
 
 És még egy kép:
 
-![Kívülről](http://i.imgur.com/iwsZG17.jpg)
+![Kívülről](https://i.imgur.com/iwsZG17.jpg)

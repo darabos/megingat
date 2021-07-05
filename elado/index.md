@@ -5,7 +5,7 @@ title: Megingat Ingatlanközvetítés
 
 <div class="egyik clearfix" markdown="block">
 
-![](http://i.imgur.com/8MmaJiO.jpg)
+![](https://i.imgur.com/8MmaJiO.jpg)
 
 # Exkluzív villa eladó Leányfalun
 
@@ -17,7 +17,7 @@ Az ingatlan elegáns, luxusigényeket is kielégítő többgenerációs családi
 </div>
 <div class="egyik clearfix" markdown="block">
 
-![](http://i.imgur.com/iwsZG17.jpg)
+![](https://i.imgur.com/iwsZG17.jpg)
 
 # Családi birtok tavakkal - ELKELT!
 
@@ -28,7 +28,7 @@ Eladó a Dunántúl szívében egy közel 16 ha-os, különleges természeti ado
 </div>
 <div class="egyik clearfix" markdown="block">
 
-![](http://i.imgur.com/gIYG2l7.jpg)
+![](https://i.imgur.com/gIYG2l7.jpg)
 
 # Tóparti fejlesztési terület erdő mellett eladó
 
@@ -39,7 +39,7 @@ A Balaton-felvidéken, közlekedés szempontjából is szerencsés helyen, a Bal
 </div>
 <div class="egyik clearfix" markdown="block">
 
-![](http://i.imgur.com/CZ8Wz2E.jpg)
+![](https://i.imgur.com/CZ8Wz2E.jpg)
 
 # Halgazdaság a varázslatos Bakonyban
 
@@ -50,7 +50,7 @@ A kínálatban szereplő halgazdaságot az 1910-es években a természettisztel�
 </div>
 <div class="egyik clearfix" markdown="block">
 
-![](http://i.imgur.com/cHwgdIm.jpg)
+![](https://i.imgur.com/cHwgdIm.jpg)
 
 # Önfenntartó tanya a Bakonyban
 
@@ -61,7 +61,7 @@ Izgalmas, különleges, kb. 8 ha-os ingatlant ölel a Bakonyban eredő bő vizű
 </div>
 <div class="egyik clearfix" markdown="block">
 
-![](http://i.imgur.com/EBvtfTD.jpg)
+![](https://i.imgur.com/EBvtfTD.jpg)
 
 # Különleges hangulatú, tóparti erdő eladó
 
@@ -72,7 +72,7 @@ Eladó Majk tópartjának egy jelentős és egyben legszebb szakasza, a keleti p
 </div>
 <div class="egyik clearfix" markdown="block">
 
-![](http://i.imgur.com/4232j52.jpg)
+![](https://i.imgur.com/4232j52.jpg)
 
 # Új tulajdonosra vár a színvonalas, népszerű, balatoni yacht kikötő! - ELKELT!
 
@@ -83,7 +83,7 @@ Az eladó európai színvonalú kikötő 160 kikötőhelye 16 m-es hajók és ka
 </div>
 <div class="egyik clearfix" markdown="block">
 
-![](http://i.imgur.com/J4m9gPe.jpg)
+![](https://i.imgur.com/J4m9gPe.jpg)
 
 # Vadregényes vízi-világ eladó Pannonhalmán
 
@@ -94,7 +94,7 @@ Az eladó birtokot a Világörökség részét képező Pannonhalmi Bencés Apá
 </div>
 <div class="egyik clearfix" markdown="block">
 
-![](http://i.imgur.com/xKx5OxB.jpg)
+![](https://i.imgur.com/xKx5OxB.jpg)
 
 # Törökbálinton eladó különleges földrajzi elhelyezkedésű terület
 
@@ -105,7 +105,7 @@ Izgalmas építészeti megoldásokra inspirál, ám hagyományos épület megép
 </div>
 <div class="egyik clearfix" markdown="block">
 
-![](http://i.imgur.com/ejPMmsq.jpg)
+![](https://i.imgur.com/ejPMmsq.jpg)
 
 # Budapesten a Világörökség része, a Várkert Palota eladó - ELKELT!
 
@@ -117,7 +117,7 @@ vízellátási rendszerének gépházaként épült.
 </div>
 <div class="egyik clearfix" markdown="block">
 
-![](http://i.imgur.com/Hl4MK3T.jpg)
+![](https://i.imgur.com/Hl4MK3T.jpg)
 
 # Eladó vízparti ingatlan a Balaton egyik legszebb panorámájával - ELKELT!
 
@@ -128,7 +128,7 @@ Az eladó ingatlan tulajdonosa szereti a szépet. Háza Balatonbogláron közvet
 </div>
 <div class="egyik clearfix" markdown="block">
 
-![](http://i.imgur.com/ooCEWTg.jpg)
+![](https://i.imgur.com/ooCEWTg.jpg)
 
 # Rezidenciának alkalmas neobarokk villa eladó Budapesten
 
@@ -139,7 +139,7 @@ Az Istenhegyen épült neobarokk villát 2016-ban teljesen felújították. Az 1
 </div>
 <div class="egyik clearfix" markdown="block">
 
-![](http://i.imgur.com/jAxeORh.jpg)
+![](https://i.imgur.com/jAxeORh.jpg)
 
 # A vadregényes birtokon forrás, patak, vízesés és malomrom…  
 

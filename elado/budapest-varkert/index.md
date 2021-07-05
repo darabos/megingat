@@ -5,7 +5,7 @@ title: Budapesten a Világörökség része, a Várkert Palota ELKELT!!!
 # Irányára: 13000000 €
 ---
 
-# ![](http://i.imgur.com/zhzPvJV.jpg) Budapesten a Világörökség része, a Várkert Palota **ELKELT!!!**
+# ![](https://i.imgur.com/zhzPvJV.jpg) Budapesten a Világörökség része, a Várkert Palota **ELKELT!!!**
 
 {% include fold.html %}
 
@@ -13,39 +13,39 @@ Magyarország talán legkülönlegesebb épülete Ybl Miklós tervei alapján 18
 
 http://epiteszforum.hu/files/VK_muszaki_leiras.pdf/
 
-![](http://i.imgur.com/ad3lA3Q.jpg)
+![](https://i.imgur.com/ad3lA3Q.jpg)
 
-![](http://i.imgur.com/ejPMmsq.jpg)
+![](https://i.imgur.com/ejPMmsq.jpg)
 
-![](http://i.imgur.com/VoRqZfc.jpg)
+![](https://i.imgur.com/VoRqZfc.jpg)
 
-![](http://i.imgur.com/7c6NB2Q.jpg)
+![](https://i.imgur.com/7c6NB2Q.jpg)
 
 A Duna nyugati partján, a Lánchíd és Erzsébet-híd között álló 140 éves, kiemelt műemlék épület az 1992-ben történt felújításakor visszanyerte eredeti szépségét, ma büszkén tudhatjuk a Világörökség részének!
 
 https://hu.wikipedia.org/wiki/Várkert-kioszk/
 
-![](http://i.imgur.com/7CMIsJR.jpg)
+![](https://i.imgur.com/7CMIsJR.jpg)
 
 Éveken át az Állami Budapest Táncegyüttesnek adott otthont, majd az ország legnívósabb kaszinójának. A kaszinó-koncesszió lejártával jelenleg exkluzív rendezvények kedvelt helyszíne, ami teljesen érthető,  hiszen a rendezett környezetben mára nem csak a rendkívüli épületet, de a történelmi szomszédságát is felújították,  a kilátás pedig lenyűgöző a Parlamentre, a Vigadóra, a Dunára és hídjaira.
 
-![](http://i.imgur.com/4qouSJH.jpg)
+![](https://i.imgur.com/4qouSJH.jpg)
 
-![](http://i.imgur.com/yRFc17Y.jpg)
+![](https://i.imgur.com/yRFc17Y.jpg)
 
-![](http://i.imgur.com/vTnei1e.jpg)
+![](https://i.imgur.com/vTnei1e.jpg)
 
 A telek területe bár csak 800 m2, parkjával és szökőkútjával, valamint háttérben a Dunával és a kitárulkozó panorámával elegendő kerete a nettó 1262 m2 föld feletti területtel rendelkező palotának. Korszerű, gáz alapú [fan-coil](http://fan-coil.mtt.hu/) rendszerrel a tágas terek hűtése és fűtése is gazdaságos.
 
-![](http://i.imgur.com/d6x6ZPN.jpg)
+![](https://i.imgur.com/d6x6ZPN.jpg)
 
-![](http://i.imgur.com/3QIV180.jpg)
+![](https://i.imgur.com/3QIV180.jpg)
 
-![](http://i.imgur.com/wQKlYRW.jpg)
+![](https://i.imgur.com/wQKlYRW.jpg)
 
-![](http://i.imgur.com/UTgG4zJ.jpg)
+![](https://i.imgur.com/UTgG4zJ.jpg)
 
-![](http://i.imgur.com/CCkDz5n.jpg)
+![](https://i.imgur.com/CCkDz5n.jpg)
 
 A különleges ingatlant birtokló cégnek sem  hitele, sem egyéb tartozása nincs. Egyetlen ingatlanával együtt a cég is eladó.
 
@@ -55,18 +55,18 @@ A különleges ingatlant birtokló cégnek sem  hitele, sem egyéb tartozása ni
 
 # További képek:
 
-![](http://i.imgur.com/1YhhjcA.jpg)
+![](https://i.imgur.com/1YhhjcA.jpg)
 
-![](http://i.imgur.com/R5x2zgc.jpg)
+![](https://i.imgur.com/R5x2zgc.jpg)
 
-![](http://i.imgur.com/MUKCyX5.jpg)
+![](https://i.imgur.com/MUKCyX5.jpg)
 
-![](http://i.imgur.com/wsV4Rhl.jpg)
+![](https://i.imgur.com/wsV4Rhl.jpg)
 
-![](http://i.imgur.com/QcqbxNt.jpg)
+![](https://i.imgur.com/QcqbxNt.jpg)
 
-![](http://i.imgur.com/xe6uyoT.jpg)
+![](https://i.imgur.com/xe6uyoT.jpg)
 
-![](http://i.imgur.com/cqmjfY6.jpg)
+![](https://i.imgur.com/cqmjfY6.jpg)
 
-# ![](http://i.imgur.com/tjIXf71.jpg)
+# ![](https://i.imgur.com/tjIXf71.jpg)

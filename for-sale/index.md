@@ -5,7 +5,7 @@ title: Megingat Real Estate
 
 <div class="egyik clearfix" markdown="block">
 
-![](http://i.imgur.com/OFNAOMq.jpg)
+![](https://i.imgur.com/OFNAOMq.jpg)
 
 # Family estate with lakes for sale
 
@@ -16,7 +16,7 @@ A family estate on 16 hectare (40 acre) of land is for sale from € 650,000 in 
 </div>
 <div class="egyik clearfix" markdown="block">
 
-![](http://i.imgur.com/gIYG2l7.jpg)
+![](https://i.imgur.com/gIYG2l7.jpg)
 
 # Private forest and development site for sale
 
@@ -28,7 +28,7 @@ Indeed, a fresh building permit has recently been obtained for the complex!
 </div>
 <div class="egyik clearfix" markdown="block">
 
-![](http://i.imgur.com/CZ8Wz2E.jpg)
+![](https://i.imgur.com/CZ8Wz2E.jpg)
 
 # Fish farm for sale in the magical Bakony mountains
 
@@ -39,7 +39,7 @@ The famous Esterházy family established this estate in 1910.
 </div>
 <div class="egyik clearfix" markdown="block">
 
-![](http://i.imgur.com/cHwgdIm.jpg)
+![](https://i.imgur.com/cHwgdIm.jpg)
 
 # Self-sustaining homestead for sale near the Bakony mountains
 
@@ -52,7 +52,7 @@ Balatonfured—consequently from the "Hungarian sea" of Lake Balaton.
 </div>
 <div class="egyik clearfix" markdown="block">
 
-![](http://i.imgur.com/EBvtfTD.jpg)
+![](https://i.imgur.com/EBvtfTD.jpg)
 
 # Special atmosphere lakeside forest
 
@@ -64,7 +64,7 @@ The nearly 5 hectares of forest on the beach includes a narrow track in the wate
 </div>
 <div class="egyik clearfix" markdown="block">
 
-![](http://i.imgur.com/8MmaJiO.jpg)
+![](https://i.imgur.com/8MmaJiO.jpg)
 
 # Luxurious villa for sale in Leányfalu
 
@@ -76,7 +76,7 @@ According to the new owner's needs, it could be developed into an exclusive gues
 </div>
 <div class="egyik clearfix" markdown="block">
 
-![](http://i.imgur.com/J4m9gPe.jpg)
+![](https://i.imgur.com/J4m9gPe.jpg)
 
 # At historic Pannonhalma, a nearly 80 ha romantic property is for sale
 

@@ -3,7 +3,7 @@ layout: english-elado
 title: Mill for sale
 ---
 
-# ![](http://i.imgur.com/HSakLid.jpg) Self-sustaining homestead for sale near the Bakony mountains!
+# ![](https://i.imgur.com/HSakLid.jpg) Self-sustaining homestead for sale near the Bakony mountains!
 
 {% include fold.html %}
 
@@ -26,7 +26,7 @@ In the 300m2 (almost 3000 sqft) two-tory building there are two apartments: a
 four-room and a two-room for guests.
 The finishing of the attic is in a starting phase.
 
-![](http://i.imgur.com/JjwSV0l.jpg)
+![](https://i.imgur.com/JjwSV0l.jpg)
 
 The beautiful and healthy home is not only environmentally friendly, low
 maintenance but also independent of service providers—in other words, it's
@@ -37,7 +37,7 @@ Clean drinking water comes from a deep well, fire wood for heating is from the
 0.8 ha private forest. Besides central heating, there is a wood burning tile
 stove and an open fireplace as well.
 
-![](http://i.imgur.com/amgPlmg.jpg)
+![](https://i.imgur.com/amgPlmg.jpg)
 
 The nearly 4.5 ha good quality arable field presently used as pasture for goats.
 The main house, yard, farm building, vegetable garden and two small ponds
@@ -45,11 +45,11 @@ occupy a 6,100 m2 area. The current water permit for the mill and a possible
 future fishpond on the present pasture area is valid until 2028. The adjacent
 area to the property is also for sale.
 
-![](http://i.imgur.com/Nae804W.jpg)
+![](https://i.imgur.com/Nae804W.jpg)
 
-![](http://i.imgur.com/96RdIM1.jpg)
+![](https://i.imgur.com/96RdIM1.jpg)
 
-![](http://i.imgur.com/iVekA8C.jpg)
+![](https://i.imgur.com/iVekA8C.jpg)
 
 The 5.8 ha property is in [Herend](http://hu.wikipedia.org/wiki/Herend), 15 km from Veszprém, 30 km from
 Balatonfüred and 120 km from Budapest.
@@ -58,22 +58,22 @@ Balatonfüred and 120 km from Budapest.
 
 # More photos
 
-![](http://i.imgur.com/cHwgdIm.jpg)
+![](https://i.imgur.com/cHwgdIm.jpg)
 
-![](http://i.imgur.com/YhI4eTS.jpg)
+![](https://i.imgur.com/YhI4eTS.jpg)
 
-![](http://i.imgur.com/NBloOsX.jpg)
+![](https://i.imgur.com/NBloOsX.jpg)
 
-![](http://i.imgur.com/pwnwLmS.jpg)
+![](https://i.imgur.com/pwnwLmS.jpg)
 
-![](http://i.imgur.com/bIz4DC5.jpg)
+![](https://i.imgur.com/bIz4DC5.jpg)
 
-![](http://i.imgur.com/7nJY3Vg.jpg)
+![](https://i.imgur.com/7nJY3Vg.jpg)
 
-![](http://i.imgur.com/8PldK8Q.jpg)
+![](https://i.imgur.com/8PldK8Q.jpg)
 
-![](http://i.imgur.com/PGn81UA.jpg)
+![](https://i.imgur.com/PGn81UA.jpg)
 
-![](http://i.imgur.com/GBVGLUi.jpg)
+![](https://i.imgur.com/GBVGLUi.jpg)
 
-# ![](http://i.imgur.com/lvGf4Vr.jpg)
+# ![](https://i.imgur.com/lvGf4Vr.jpg)
