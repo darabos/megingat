@@ -23,7 +23,7 @@ A térség a múlt rendszerben évtizedeken keresztül elzárt volt, ez segítet
 
 ![](https://i.imgur.com/WH3427K.jpg)
 
-![](https://i.imgur.com/evf4ug6.jpg)
+![](https://i.imgur.com/jdZIgwq.jpg)
 
 A négy évszak minden szépségével gazdagítja Vendvidék lakóinak testét, lelkét. 
 
