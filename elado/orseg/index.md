@@ -77,7 +77,7 @@ A vegyszermentes gazdálkodás és a szubalpin klíma hatására egyedülállóa
 A helyi sajátos időjárásnak, a tisztaságnak, térnek, békének köszönhető az eladó birtokról és környékéről készült képeken látható színek kavalkádja.
 Az ott élők számára ajándék ez nap mint nap.
 
-**Az eladó birtok ára 350 000 €.**
+**Az eladó birtok ára 500 000 €.**
 
 # További képek:
 
