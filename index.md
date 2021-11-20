@@ -18,7 +18,7 @@ A Balaton-felvidéken, közlekedés szempontjából is szerencsés helyen, a Bal
 [Részletek](elado/fejlesztesi-terulet)
 
 
-# ![](https://i.imgur.com/CZ8Wz2E.jpg) Halgazdaság a varázslatos Bakonyban
+# ![](https://i.imgur.com/CZ8Wz2E.jpg) Halgazdaság a varázslatos Bakonyban - LEFOGLALVA!
 
 A kínálatban szereplő halgazdaságot az 1910-es években a természettisztelő Esterházy család nem véletlenül telepítette e varázslatos helyre :) A birtok egy része jelenleg is helyi védettségű természetvédelmi terület, amelyet csodálatos, védett bakonyi erdőség ölel körül.
 
@@ -32,7 +32,7 @@ Izgalmas, különleges, összesen közel 8 ha-os ingatlant ölel a Bakonyban ere
 [Részletek](elado/malom)
 
 
-# ![](https://i.imgur.com/EBvtfTD.jpg) Különleges hangulatú, tóparti erdő eladó
+# ![](https://i.imgur.com/EBvtfTD.jpg) Különleges hangulatú, tóparti erdő - MÁR NEM ELADÓ!
 
 Eladó Majk tópartjának egy jelentős és egyben legszebb szakasza, a keleti parti erdőség. A közel 5 ha-os erdő hivatalos határa a parton túl, a vízbe nyúlik.
 
