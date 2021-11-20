@@ -1,9 +1,9 @@
 ---
 layout: elado
-title: Erdők ölén eladó halgazdaság a varázslatos Bakonyban - NAGY RÉSZE ELKELT! EGY TÓ ELADÓ!
+title: Erdők ölén eladó halgazdaság a varázslatos Bakonyban - LEFOGLALVA!
 ---
 
-# ![Kívülről](https://i.imgur.com/CZ8Wz2E.jpg) Erdők ölén eladó halgazdaság a varázslatos Bakonyban - Nagy része ELKELT! Már csak egy nagy tó eladó!
+# ![Kívülről](https://i.imgur.com/CZ8Wz2E.jpg) Erdők ölén eladó halgazdaság a varázslatos Bakonyban - LEFOGLALVA!
 
 {% include fold.html %}
 
@@ -39,14 +39,14 @@ A birtok három vadásztársaság területének találkozásánál, Budapesttől
 
 A teljes ingatlan igény, per és tehermentes. 
 
-## A kisebb tavak elkeltek! 
+## A kisebb tavak elkeltek, az utolsó, nagy tó is lefoglalva! 
 
 ## A legnagyobb tó és partvidéke a felújítandó épületekkel 107 000 000 HUF volt. Új ára a tulajdonossal történő megbeszélés szerint alakul.
 
 Köszönjük, hogy megtekintette ajánlatunkat. Bízunk abban, hogy a táj hangulata és lehetőségei felébresztették kíváncsiságát!
 Várjuk megtisztelő érdeklődését az elérhetőségeink valamelyikén.
 
-Kérem keressen a részletekért! :)
+Kérem keressen az igényével, megpróbáljuk megtalálni Önnek a fentihez hasonló, legmegfelelőbb ingatlant! :)
 
 # További képek:
 
