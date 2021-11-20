@@ -1,13 +1,13 @@
 ---
 layout: elado
-title: Tóparti erdő eladó
+title: Tóparti erdő - MÁR NEM ELADÓ!
 ---
 
-# ![](https://i.imgur.com/EBvtfTD.jpg) Különleges hangulatú, tóparti erdő eladó
+# ![](https://i.imgur.com/EBvtfTD.jpg) Különleges hangulatú, tóparti erdő - MÁR NEM ELADÓ!
 
 {% include fold.html %}
 
-Eladó Majk tópartjának egy jelentős és egyben legszebb szakasza, a keleti parti erdőség.
+Eladó (volt) Majk tópartjának egy jelentős és egyben legszebb szakasza, a keleti parti erdőség.
 A közel 5 ha-os erdő hivatalos határa a parton túl, a vízbe nyúlik.
 
 ![](https://i.imgur.com/Wk32RbG.jpg)
@@ -39,7 +39,7 @@ A “Vendéglő a négy remetéhez” teraszáról az eladó erdőre mesés kil�
 
 Majk erdői, a csillogó víztükör, a hely szellemisége minden évszakban elvarázsolja az idelátogatókat.
 Nézze meg Ön is! 
-Várjuk a hívását! :)
+Várjuk a hívását! Talán tudunk segíteni abban, hogy hasonló ingatlant találjunk az Ön számára!:)
 
 ![](https://i.imgur.com/Wk32RbG.jpg)
 
