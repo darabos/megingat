@@ -43,6 +43,10 @@ Kosborok, orchideák, pillangók, lápos terület izgalmas világa jelenti itt a
 
 A két helyrajzi számon, összesen egy hektárnál is nagyobb terület több mint felén gyertyán, erdei fenyő és tölgy él. 3 és fél ezer m2 rét, és a 190 m2-es lakóház számára kivett másfél ezer m2 terület mesés otthont nyújt a lakóinak.
 
+![](https://i.imgur.com/8X2PUw9.jpg)
+
+![](https://i.imgur.com/UB1ivKP.jpg)
+
 ![](https://i.imgur.com/dkTAr03.jpg)
 
 ![](https://i.imgur.com/wzLAAhQ.jpg)
@@ -52,6 +56,12 @@ A két helyrajzi számon, összesen egy hektárnál is nagyobb terület több mi
 ![](https://i.imgur.com/SPdKWRH.jpg)
 
 Az épület felújítása során 2002-ben vezetékes víz, 2004-ben elektromos áram bevezetésére került sor, igényes eljárással. Az “L” alakú 150 éves épület vízszigetelése is megtörtént, valamint az 50 cm vastag, kisméretű téglákból épült falakat is szigetelték. Az osztott, boltíves mennyezet és a cserépkályhák, a konyha éke, az épített, sokoldalú, fatüzelésű tűzhely mind sajátos, békés hangulatot teremtenek az otthonban. A tetőtér beépíthető, valamint tájba illő a két autó számára alkalmas garázs.
+Az új fatároló több, mint 50 m3 fa tárolására alkalmas.
+
+![](https://i.imgur.com/VJi5pxQ.jpg)
+
+![](https://i.imgur.com/7IciRLi.jpg)
+
 A ház mellett hetven tő levendula, s számos csodás rózsabokor ontja illatát.
 
 ![](https://i.imgur.com/jGa9WnQ.jpg)
@@ -77,9 +87,11 @@ A vegyszermentes gazdálkodás és a szubalpin klíma hatására egyedülállóa
 A helyi sajátos időjárásnak, a tisztaságnak, térnek, békének köszönhető az eladó birtokról és környékéről készült képeken látható színek kavalkádja.
 Az ott élők számára ajándék ez nap mint nap.
 
-**Az eladó birtok ára 500 000 €.**
+**Az eladó birtok ára csak 220 000 €.**
 
 # További képek:
+
+
 
 ![](https://i.imgur.com/WQ6tYvo.jpg)
 
