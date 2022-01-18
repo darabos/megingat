@@ -7,9 +7,9 @@ title: Eladó malom
 
 {% include fold.html %}
 
-## Irányára: 700000 €
+## Irányára: 770000 €
 
-Izgalmas, különleges, összesen kb. 8 ha-os ingatlant ölel a Bakonyban eredő bő vizű Séd patak két ága, Balatonfüredtől mindössze 30 km-re!
+Izgalmas, különleges, 6,1 ha-os, a vásárlást követő kb. egy éven belül 8 ha-osra bővíthető ingatlant ölel a Bakonyban eredő bő vizű Séd patak két ága, Balatonfüredtől mindössze 30 km-re!
 
 Az 1854-ben épült vízimalmot új tulajdonosai 2009-ben kezdték felújítani. Hagyománytisztelő ízléssel a mai kor igényei szerint is kényelmes, igényes otthont teremtettek a történelmünkre emlékező falak között. 
 
@@ -44,7 +44,7 @@ A jó minőségű szántóból akár több ha legelőként is használható, a t
 
 A tanya Veszprémtől 15 km, Balatonfüredtől 30 km, Budapesttől 120 km távolságra van.
 
-**A jelenleg is fejlődő, a leírásban nem is érintett módon tovább is fejleszthető, sokféle lehetőséget nyújtó több, mint 8 ha-os terület irányára a legújabb fejlesztések után 700000 €.**
+**A jelenleg is fejlődő, a leírásban nem is érintett módon tovább is fejleszthető, sokféle lehetőséget nyújtó több, mint 6,1 ha-os terület irányára a legújabb fejlesztések után 770000 €.**
 
 Érdeklődjön a további részletekről!!! Érdemes!
 
