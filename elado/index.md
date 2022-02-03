@@ -159,3 +159,13 @@ Testi, lelki, mentális egészséget építő szolgáltatásra éppúgy alkalmas
 
 [Részletek](/elado/koszeg){:.btn.btn-megingat.pull-right}
 
+</div>
+<div class="egyik clearfix" markdown="block">
+
+![](https://i.imgur.com/FNB5Kqs.jpg) 
+  
+# Eladó birtok az Őrségi Nemzeti Parkban
+
+Eladó egy régmúlt idők békéjét és tisztaságát idéző mesés birtok az Őrségi Nemzeti Park fokozottan védett területén.
+  
+[Részletek](/elado/orseg){:.btn.btn-megingat.pull-right}
