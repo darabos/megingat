@@ -96,4 +96,15 @@ Az eladó mesés kis birtok Európa 2010-es kulturális fővárosától kb. 20 k
 [Részletek](elado/kisfalu) 
 
 
+# ![Kívülről](https://i.imgur.com/G6plGov.png) Elegáns villa eladó Kőszegen
 
+1927-ben épült a hatalmas, elegáns családi ház, ami az osztrák határ mentén áll. Jelenlegi tulajdonosainak köszönhető, hogy ma magas színvonalon felújítva kínálja lehetőségeit. Felső kategóriás egészségügyi szolgáltatást, alkotóházat és/vagy otthont egyaránt ki lehet itt alakítani.
+
+[Részletek](elado/koszeg) 
+
+
+# ![](https://i.imgur.com/FNB5Kqs.jpg) Eladó birtok az Őrségi Nemzeti Parkban
+
+Eladó egy régmúlt idők békéjét és tisztaságát idéző mesés birtok az Őrségi Nemzeti Park fokozottan védett területén.
+
+[Részletek](elado/orseg) 
