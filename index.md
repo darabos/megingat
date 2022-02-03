@@ -83,6 +83,7 @@ Az eladó ingatlan tulajdonosa szereti a szépet. Háza Balatonbogláron közvet
 
 
 # ![](https://i.imgur.com/ooCEWTg.jpg) Rezidenciának alkalmas neobarokk villa eladó Budapesten
+{: .black }
 
 Az Istenhegyen épült neobarokk villát 2016-ban teljesen felújították. Az 1900-as években épült rezidenciális jellegű épület felújításának mértéke és minősége magas szintű. Az építészeti értékek és a kor stílusjegyeinek megőrzése, valamint a mai kor igényeinek megfelelő átalakítása az ingatlan presztízsértékét jelentősen növeli. 
 
@@ -97,6 +98,7 @@ Az eladó mesés kis birtok Európa 2010-es kulturális fővárosától kb. 20 k
 
 
 # ![Kívülről](https://i.imgur.com/G6plGov.png) Elegáns villa eladó Kőszegen
+{: .black }
 
 1927-ben épült a hatalmas, elegáns családi ház, ami az osztrák határ mentén áll. Jelenlegi tulajdonosainak köszönhető, hogy ma magas színvonalon felújítva kínálja lehetőségeit. Felső kategóriás egészségügyi szolgáltatást, alkotóházat és/vagy otthont egyaránt ki lehet itt alakítani.
 

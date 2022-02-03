@@ -21,6 +21,9 @@
 .content .carousel h1 {
   color: white;
 }
+.content .carousel h1.black {
+  color: black;
+}
 .content .marketing .col {
   margin-top: 60px;
   margin-bottom: 60px;
@@ -284,4 +287,18 @@
 
 .goog-te-gadget {
   float: right;
+}
+
+.carousel-caption {
+  text-shadow: 0 1px 4px rgb(0 0 0);
+}
+.carousel-caption.black {
+  color: black;
+  text-shadow:
+    0 0px 15px rgb(255 255 255),
+    0 0px 15px rgb(255 255 255),
+    0 0px 15px rgb(255 255 255),
+    0 0px 15px rgb(255 255 255),
+    0 0px 15px rgb(255 255 255),
+    0 0px 15px rgb(255 255 255);
 }

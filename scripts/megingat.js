@@ -25,6 +25,7 @@ $(function() {
       var container = $('<div class="container"></div>');
       item.append(container);
       var caption = $('<div class="carousel-caption"></div>');
+      if (h1.hasClass('black')) { caption.addClass('black'); }
       container.append(caption);
       caption.append(h1);
       caption.append(p);
@@ -49,7 +50,7 @@ $(function() {
     });
     carousel.append(left);
     carousel.append(right);
-    carousel.carousel();
+    carousel.carousel({interval: 20000});
   });
 
   // Fold.
