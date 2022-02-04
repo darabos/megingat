@@ -7,7 +7,7 @@ title: Eladó birtok az Őrségben
 
 {% include fold.html %}
 
-Eladó egy régmúlt idők békéjét és tisztaságát idéző birtok az Őrségi Nemzeti Park fokozottan védett területén.
+Eladó egy régmúlt idők békéjét és tisztaságát idéző birtok az Őrségi Nemzeti Park védett területén.
 
 ![](https://i.imgur.com/tq6gtsK.jpg)
 
@@ -55,7 +55,7 @@ A két helyrajzi számon, összesen egy hektárnál is nagyobb terület több mi
 
 ![](https://i.imgur.com/SPdKWRH.jpg)
 
-Az épület felújítása során 2002-ben vezetékes víz, 2004-ben elektromos áram bevezetésére került sor, igényes eljárással. Az “L” alakú 150 éves épület vízszigetelése is megtörtént, valamint az 50 cm vastag, kisméretű téglákból épült falakat is szigetelték. Az osztott, boltíves mennyezet és a cserépkályhák, a konyha éke, az épített, sokoldalú, fatüzelésű tűzhely mind sajátos, békés hangulatot teremtenek az otthonban. A tetőtér beépíthető, valamint tájba illő a két autó számára alkalmas garázs.
+Az épület felújítása során 2002-ben vezetékes víz, 2004-ben elektromos áram bevezetésére került sor. Az “L” alakú 150 éves épület vízszigetelése is megtörtént, valamint az 50 cm vastag, kisméretű téglákból épült falakat is szigetelték. Az osztott, boltíves mennyezet és a cserépkályhák, a konyha éke, az épített, sokoldalú, fatüzelésű tűzhely mind sajátos, békés hangulatot teremtenek az otthonban. A tetőtér beépíthető, valamint tájba illő a két autó számára alkalmas garázs.
 Az új fatároló több, mint 50 m3 fa tárolására alkalmas.
 
 ![](https://i.imgur.com/VJi5pxQ.jpg)
