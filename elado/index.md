@@ -166,6 +166,6 @@ Testi, lelki, mentális egészséget építő szolgáltatásra éppúgy alkalmas
   
 # Eladó birtok az Őrségi Nemzeti Parkban
 
-Eladó egy régmúlt idők békéjét és tisztaságát idéző mesés birtok az Őrségi Nemzeti Park fokozottan védett területén.
+Eladó egy régmúlt idők békéjét és tisztaságát idéző mesés birtok az Őrségi Nemzeti Park védett területén.
   
 [Részletek](/elado/orseg){:.btn.btn-megingat.pull-right}
