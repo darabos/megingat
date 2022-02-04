@@ -107,6 +107,9 @@ Az eladó mesés kis birtok Európa 2010-es kulturális fővárosától kb. 20 k
 
 # ![](https://i.imgur.com/FNB5Kqs.jpg) Eladó birtok az Őrségi Nemzeti Parkban
 
-Eladó egy régmúlt idők békéjét és tisztaságát idéző mesés birtok az Őrségi Nemzeti Park fokozottan védett területén.
+Eladó egy régmúlt idők békéjét és tisztaságát idéző mesés birtok az Őrségi Nemzeti Park védett területén.
 
-[Részletek](elado/orseg) 
+[Részletek](elado/orseg)
+
+
+
