@@ -61,6 +61,18 @@ Izgalmas, különleges, több, mint 6 ha-os ingatlant ölel a Bakonyban eredő b
 </div>
 <div class="egyik clearfix" markdown="block">
 
+![](https://i.imgur.com/69xhgiz.jpg)
+
+# A Velencei-tótól 6 percre erdő öleli az eladó, különleges adottságokkal rendelkező birtokot!
+
+Budapesttől fél órányira, Székesfehérvártól 20 percre, a Velencei-tótól 6 percre erdő öleli az eladó, különleges adottságokkal rendelkező birtokot.
+
+[Részletek](/elado/nadap){:.btn.btn-megingat.pull-right}
+
+</div>
+
+<div class="egyik clearfix" markdown="block">
+
 ![](https://i.imgur.com/EBvtfTDl.jpg)
 
 # Különleges hangulatú, tóparti erdő eladó
