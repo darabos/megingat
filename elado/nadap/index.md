@@ -80,7 +80,7 @@ A 3 utcakapcsolatos, közműves épületben jelenleg összesen 4 lakás van kial
 
 ![Kívülről](https://i.imgur.com/IhXuChh.jpg)
 
-Az egyik ház 88 m2 alapterületű, tégla építésű, új koszorúval, új tetőszerkezettel és új cseréppel. Ez az ingatlan hozzáépítéssel még 45 m2-rel bővíthető.
+Az egyik ház 88 m2 alapterületű, tégla építésű, új koszorúval, új tetőszerkezettel és új cseréppel. Ez az ingatlan hozzáépítéssel még bővíthető is 45 m-rel a kert felé.
 
 ![Kívülről](https://i.imgur.com/hX36fJi.jpg)
 
@@ -109,9 +109,11 @@ Nadapon a közműves építési telkek ára jelenleg: 18-29 ezer Ft/m2.
 
 A belterületi közműves épületeké: 472 ezer- 1,3 millió Ft/m2.
 
-A tehermentes birtok ára a további, nem publikus kiváltságai miatt jogosan a felső kategóriába tartozik.
+A tehermentes birtok ára a további, nem publikus kiváltságai miatt jogosan a felső kategóriába tartozik. 
 
-## Az információk birtokában tegyen reális árajánlatot!
+## IRÁNYÁRA: 280 000 000 HUF.
+
+Az információk birtokában tegyen reális árajánlatot!
 
 Az ár ezt követően megegyezés kérdése. Mezőgazdasági területet, egyéb ingatlant a megegyezés szerint az eladók beszámíthatnak.
 
