@@ -59,7 +59,7 @@ még a szőlőgazdálkodás idejéből mentettek meg szőlőtöveket, amiket tö
 ![Kívülről](https://i.imgur.com/QkEVgyJ.jpg)
 
 a barackos 50 különböző időben érő őszi- és sárgabarackfája bőséges termést ad egész évben,
-málna, ribizli, josta, és szedersorok biztosítják a vitamin utánpótlást,
+málna, ribizli, josta és szedersorok biztosítják a vitamin utánpótlást,
 
 ![Kívülről](https://i.imgur.com/ErToSBj.jpg)
 
