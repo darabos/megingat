@@ -7,7 +7,7 @@ title: Eladó malom
 
 {% include fold.html %}
 
-## Irányára: 770000 €
+## Irányára: 800000 €
 
 Izgalmas, különleges, 6,1 ha-os, a vásárlást követő kb. egy éven belül 8 ha-osra bővíthető ingatlant ölel a Bakonyban eredő bő vizű Séd patak két ága, Balatonfüredtől mindössze 30 km-re!
 
@@ -27,7 +27,7 @@ A 300 m2-es, hat szobás, kétszintes épületben egy nagy lakást és vendégek
 
 ![Kívülről](https://i.imgur.com/6rZjLTe.jpg)
 
-A tanya majdnem teljesen megközelíthető aszfaltos úton, (rövidke, zúzott köves szakasz visz a kapuig). A gyönyörű és egészséges környezetben álló otthon kiemelkedő előnye, hogy bár a telken elérhető a vezetékes víz, csatornahálózat és az elektromos áram (3x20 A), a fenntartása környezetbarát megoldásokkal is működik. A malom kerekét a 3 m-ről lezúduló patakvíz hajthatja, az elektromos energia egy része innen is származhat, a tetőn pedig napkollektorok és napelemek termelik az energiát. A saját forrás által táplált kút bevizsgált ivóvizet ad, az otthon melegét a központi fűtés mellett a cserépkályhában és kandallóban pattogó tűz hangulata is emeli…
+A tanya majdnem teljesen megközelíthető aszfaltos úton, (rövidke, zúzott köves szakasz visz a kapuig). A gyönyörű és egészséges környezetben álló otthon kiemelkedő előnye, hogy bár a telken elérhető a vezetékes víz, csatornahálózat és az elektromos áram (3x20 A), a fenntartása környezetbarát megoldásokkal is működik. A malom kerekét a 3 m-ről lezúduló patakvíz hajthatja, az elektromos energia egy része innen is származhat, a tetőn pedig napkollektorok és napelemek termelik az energiát. A napelemes rendszer, az ad-vesz elektromos fogyasztásmérő, a fűtésre optimalizált klíma biztosítja a függetlenség és kényelem megnyugtató érzését. A saját forrás által táplált kút bevizsgált ivóvizet ad, az otthon melegét a központi fűtés mellett a cserépkályhában és kandallóban pattogó tűz hangulata is emeli…
 
 ![Kívülről](https://i.imgur.com/7E4lwFm.jpg)
 
@@ -44,7 +44,7 @@ A jó minőségű szántóból akár több ha legelőként is használható, a t
 
 A tanya Veszprémtől 15 km, Balatonfüredtől 30 km, Budapesttől 120 km távolságra van.
 
-**A jelenleg is fejlődő, a leírásban nem is érintett módon tovább is fejleszthető, sokféle lehetőséget nyújtó több, mint 6,1 ha-os terület irányára a legújabb fejlesztések után 770000 €.**
+**A jelenleg is fejlődő, a leírásban nem is érintett módon tovább is fejleszthető, sokféle lehetőséget nyújtó több, mint 6,1 ha-os terület irányára a legújabb és folyamatos fejlesztések után 800000 €.**
 
 Érdeklődjön a további részletekről!!! Érdemes!
 
