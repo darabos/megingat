@@ -25,13 +25,6 @@ A kínálatban szereplő halgazdaságot az 1910-es években a természettisztel�
 [Részletek](elado/halgazdasag)
 
 
-# ![](https://i.imgur.com/cHwgdIm.jpg) Önfenntartó tanya a Bakonyban
-
-Izgalmas, különleges, összesen közel 8 ha-os ingatlant ölel a Bakonyban eredő bő vizű Séd patak két ága, Balatonfüredtől mindössze 30 km-re!
-
-[Részletek](elado/malom)
-
-
 # ![](https://i.imgur.com/69xhgiz.jpg) A Velencei-tó közelében erdő öleli az eladó, különleges adottságokkal rendelkező birtokot!
 
 Budapesttől fél órányira, a Velencei-tótól 6 percre erdő öleli az eladó, különleges adottságokkal rendelkező birtokot.
