@@ -54,13 +54,6 @@ Az ingatlan elegáns, luxusigényeket is kielégítő több generációs család
 [Részletek](elado/leanyfalu)
 
 
-# ![](https://i.imgur.com/J4m9gPe.jpg) Vadregényes vízi-világ eladó Pannonhalmán
-
-Az eladó birtokot a Világörökség részét képező Pannonhalmi Bencés Apátság impozáns épület-együttese őrzi.
-
-[Részletek](elado/pannonhalma)
-
-
 # ![](https://i.imgur.com/xKx5OxB.jpg) Törökbálinton eladó különleges földrajzi elhelyezkedésű terület
 
 Izgalmas építészeti megoldásokra inspirál, ám hagyományos épület megépítéséhez is lehetőséget biztosít az eladó nagy telek Törökbálinton.

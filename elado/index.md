@@ -84,17 +84,6 @@ Az eladó európai színvonalú kikötő 160 kikötőhelye 16 m-es hajók és ka
 </div>
 <div class="egyik clearfix" markdown="block">
 
-![](https://i.imgur.com/J4m9gPel.jpg)
-
-# Vadregényes vízi-világ eladó Pannonhalmán
-
-Az eladó birtokot a Világörökség részét képező Pannonhalmi Bencés Apátság impozáns épület-együttese őrzi.
-
-[Részletek](/elado/pannonhalma){:.btn.btn-megingat.pull-right}
-
-</div>
-<div class="egyik clearfix" markdown="block">
-
 ![](https://i.imgur.com/xKx5OxBl.jpg)
 
 # Törökbálinton eladó különleges földrajzi elhelyezkedésű terület

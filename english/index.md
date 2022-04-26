@@ -39,10 +39,3 @@ The property is an elegant, luxurious, inter-generational family house.
 According to the new owner's needs, it could be developed into an exclusive guest house, an artist's retreat, or a high-end restaurant.
 
 [Details](/for-sale/leanyfalu)
-
-
-# ![](https://i.imgur.com/J4m9gPe.jpg) At historic Pannonhalma, a nearly 80 ha romantic property is for sale
-
-The property is not far from the impressive building ensemble of the World Heritage Pannonhalma Benedictine Abbey.
-
-[Details](/for-sale/pannonhalma)
