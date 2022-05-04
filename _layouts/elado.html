@@ -3,6 +3,9 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% if page.canindex == 'no' %}
+    <meta name="robots" content="noindex">
+    {% endif %}
     <title>{{ page.title }}</title>
     <link rel="icon" href="/images/favicon.png">
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
