@@ -1,6 +1,7 @@
 ---
 layout: elado
 title: Vadregényes vízi-világ eladó Pannonhalmán 
+canindex: no
 ---
 
 # ![Kívülről](https://i.imgur.com/J4m9gPe.jpg) Vadregényes vízi-világ eladó Pannonhalmán

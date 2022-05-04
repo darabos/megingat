@@ -1,6 +1,7 @@
 ---
 layout: english-elado
 title: Pannonhalma romantic property for sale
+canindex: no
 
 # Irányára: 3500000 €
 ---
