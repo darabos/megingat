@@ -1,15 +1,15 @@
 ---
 layout: elado
-title: A Velencei-tótól 6 percre erdő öleli az eladó, különleges adottságokkal rendelkező birtokot! 
+title: A Velencei-tótól 6 percre erdő öleli a telekáron eladó, különleges adottságokkal rendelkező birtokot! 
 ---
 
-# ![Kívülről](https://i.imgur.com/69xhgiz.jpg) A Velencei-tótól 6 percre erdő öleli az eladó, különleges adottságokkal rendelkező birtokot!
+# ![Kívülről](https://i.imgur.com/69xhgiz.jpg) A Velencei-tótól 6 percre erdő öleli a telekáron eladó, különleges adottságokkal rendelkező birtokot!
 
 {% include fold.html %}
 
-Autóval Budapesttől fél órányira, a Velencei-tótól 6 percre erdő öleli az eladó, különleges adottságokkal rendelkező birtokot.
+Autóval Budapesttől fél órányira, a Velencei-tótól 6 percre erdő öleli a telekáron eladó, különleges adottságokkal rendelkező birtokot.
 
-Takaros kis sváb falu központjában a tulajdonosok három, egyenként 4000 m2-es telek összenyitásával tanya méretű, 1,2 hektáros önellátó gazdaságot alakítottak ki.
+Takaros kis sváb falu központjában a tulajdonosok három, egyenként 4000 m2-es telek összenyitásával tanya méretű, 1,2 hektáros önellátó gazdaságot, bőven termő gyümölcsöst alakítottak ki.
 
 ![Kívülről](https://i.imgur.com/tmLciKi.jpg)
 
@@ -101,21 +101,22 @@ S bár gazdálkodásra ideális, valamint több, mint egy hektár, mezőgazdász
 
 ![Kívülről](https://i.imgur.com/lJKwBep.jpg)
 
-A hatalmas kertből az erdő szélén 1000 m2-es építési telekként akár 6 db. is értékesíthető, amivel jelentős összeg visszanyerhető az ingatlan árából. (A 6000 m2 építési telek ára ma 168 M. HUF) A kert előrelátó tervezésének köszönhetően a telepített fák, bokrok, kert és tórendszer egysége ebben az esetben sem sérül!
+A hatalmas kertből az erdő szélén 1000 m2-es építési telekként akár 6 db. is értékesíthető, amivel jelentős összeg visszanyerhető az ingatlan árából. (A 6000 m2 építési telek ára ma minimum 180 M. HUF) A kert előrelátó tervezésének köszönhetően a telepített fák, bokrok, kert és tórendszer egysége ebben az esetben sem sérül!
 
 ![Kívülről](https://i.imgur.com/F8My5Mu.jpg)
 
-Nadapon a közműves építési telkek ára jelenleg: 18-29 ezer Ft/m2.
+Nadapon egyre kevesebb az eladó, közműves építési telek. Ezek ára jelenleg: 33-35 ezer Ft/m2.
 
-A belterületi közműves épületeké: 472 ezer- 1,3 millió Ft/m2.
+A belterületi közműves épületeké: 500 ezer- 1,6 millió Ft/m2.
 
 A tehermentes birtok ára a további, nem publikus kiváltságai miatt jogosan a felső kategóriába tartozik. 
 
-## IRÁNYÁRA: 280 000 000 HUF.
+
+## IRÁNYÁRA: 360 000 000 HUF.
 
 Az információk birtokában tegyen reális árajánlatot!
 
-Az ár ezt követően megegyezés kérdése. Mezőgazdasági területet, egyéb ingatlant a megegyezés szerint az eladók beszámíthatnak.
+Az ár ezt követően megegyezés kérdése. Mezőgazdasági területet, egyéb ingatlant a megegyezés szerint az eladók beszámíthatnak. Esetleg észszerű megosztása is lehetséges.
 
 ## Kérem, keressen további részletekért! Érdemes! :)
 
