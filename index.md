@@ -47,13 +47,6 @@ Az eladó európai színvonalú kikötő 160 kikötőhelye 16 m-es hajók és ka
 [Részletek](elado/yacht-kikoto)
 
 
-# ![](https://i.imgur.com/8MmaJiO.jpg) Exkluzív villa eladó Leányfalun
-
-Az ingatlan elegáns, luxusigényeket is kielégítő több generációs családi ház. Új tulajdonosa igényei szerint fejleszthető exkluzív vendégházzá, alkotóházzá vagy felsőkategóriás vendéglátóhellyé. 
-
-[Részletek](elado/leanyfalu)
-
-
 # ![](https://i.imgur.com/xKx5OxB.jpg) Törökbálinton eladó különleges földrajzi elhelyezkedésű terület
 
 Izgalmas építészeti megoldásokra inspirál, ám hagyományos épület megépítéséhez is lehetőséget biztosít az eladó nagy telek Törökbálinton.
