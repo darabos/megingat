@@ -31,11 +31,3 @@ A significant and most beautiful stretch of the Eastern lake front of Majk villa
 The nearly 5 hectares of forest on the beach includes a narrow track in the water.
 
 [Details](/for-sale/majk-forest)
-
-
-# ![](https://i.imgur.com/8MmaJiO.jpg) Luxurious villa for sale in Leányfalu
-
-The property is an elegant, luxurious, inter-generational family house.
-According to the new owner's needs, it could be developed into an exclusive guest house, an artist's retreat, or a high-end restaurant.
-
-[Details](/for-sale/leanyfalu)

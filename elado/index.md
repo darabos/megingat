@@ -5,18 +5,6 @@ title: Megingat Ingatlanközvetítés
 
 <div class="egyik clearfix" markdown="block">
 
-![](https://i.imgur.com/8MmaJiOl.jpg)
-
-# Exkluzív villa újra eladó Leányfalun!
-
-Az ingatlan elegáns, luxusigényeket is kielégítő többgenerációs családi ház.
-Új tulajdonosa igényei szerint fejlesztheti exkluzív vendégházzá, alkotóházzá vagy felsőkategóriás vendéglátóhellyé.
-
-[Részletek](/elado/leanyfalu){:.btn.btn-megingat.pull-right}
-
-</div>
-<div class="egyik clearfix" markdown="block">
-
 ![](https://i.imgur.com/iwsZG17l.jpg)
 
 # Családi birtok tavakkal - ELKELT!
