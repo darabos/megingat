@@ -7,7 +7,7 @@ title: Eladó fejlesztési terület
 
 {% include fold.html %}
 
-## A 7 ha-os építési terület irányára: 110 millió Ft,     
+## A 7 ha-os építési terület ára megegyezés szerint alakul!     
 
 ![Kívülről](https://i.imgur.com/4Kk3IvM.jpg)
 
@@ -29,7 +29,7 @@ Az erdőn át érkezik a tavat is tápláló, a szomszédos természetvédelmi t
 
 ![Kívülről](https://i.imgur.com/M16yHXg.jpg)
 
-**A 7 ha-os építési terület irányára: 110 millió Ft.**  
+**A 7 ha-os építési terület ára megegyezés szerint alakul.**  
 
 ![Kívülről](https://i.imgur.com/tXcJuhj.jpg)
 
