@@ -2,7 +2,7 @@
 layout: english-elado
 title: Luxurious villa for sale in Leányfalu
 
-# Irányára: 350.000.000 HUF, vagy ennek megfelelő € (1113444)
+# Target price: HUF 390,000,000, or equivalent €
 ---
 
 # ![](https://i.imgur.com/8MmaJiO.jpg) Luxurious villa for sale in Leányfalu
@@ -159,7 +159,7 @@ the service building, which includes the two-car heated garage and a small servi
 
 Complete set of detailed architectural drawings is available at the time of visiting the site.
 
-**Asking price is € 970,000.**
+**Asking price is € 920,000.**
 
 Please make an appointment to visit the property.
 
