@@ -2,7 +2,7 @@
 layout: elado
 title: Elegáns villa eladó Kőszegen
 
-# Ára: 185.000.000 HUF
+# Ára: 220.000.000 HUF
 ---
 
 # ![Kívülről](https://i.imgur.com/G6plGov.png) Elegáns villa eladó Kőszegen
@@ -63,7 +63,7 @@ A villa a határon álló város egyik ikonikus épülete. Elhelyezkedése, szí
 
 **Testi, lelki, mentális egészséget építő szolgáltatásra éppúgy alkalmas, mint csodás, tágas exkluzív otthonnak.**
 
-**Az ára 185 000 000 HUF.**
+**Az irányára 220 000 000 HUF.**
 
 Kérem, keressen a részletekért! 
 
