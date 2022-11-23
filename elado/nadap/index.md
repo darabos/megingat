@@ -7,9 +7,15 @@ title: A Velencei-tótól 6 percre erdő öleli a telekáron eladó, különlege
 
 {% include fold.html %}
 
+Nadapon az utcafronttól erdőszélig nyúló, 4000 m2-es belterületi telken eladó a 11 éve épült, 259 m2-es, két szintes, két külön lakrészes otthon. 
+
+## Irányára 185 millió HUF.
+
+A ház barátságos hangulatát a fa födém, bio hajópadló és lambéria biztosítja. Bútorozott, azonnal költözhető. A hozzá tartozó fedett-nyitott melléképület/kocsibeálló 55 m2-es.
+
 Autóval Budapesttől fél órányira, a Velencei-tótól 6 percre erdő öleli a telekáron eladó, különleges adottságokkal rendelkező birtokot.
 
-Takaros kis sváb falu központjában a tulajdonosok három, egyenként 4000 m2-es telek összenyitásával tanya méretű, 1,2 hektáros önellátó gazdaságot, bőven termő gyümölcsöst alakítottak ki.
+A takaros kis sváb falu központjában kínált eladó ház két szomszédja szintén eladó. Tulajdonosai a három, egyenként 4000 m2-es telek összenyitásával tanya méretű, 1,2 hektáros önellátó gazdaságot alakítottak ki. 
 
 ![Kívülről](https://i.imgur.com/tmLciKi.jpg)
 
@@ -25,7 +31,7 @@ Gazdaságának jelenlegi felgyorsult fejlődését kiemelkedően szép és szere
 
 ![Kívülről](https://i.imgur.com/Zbxd0Vs.jpg)
 
-A Velencei-hegységbe kirándulók és a Velencei-tó szerelmesei is szívesen választják Nadapot szálláshelyként, sokan pedig leendő otthonukat is itt tervezik kialakítani.  
+A Velencei-hegységbe kirándulók és a gyógyuló Velencei-tó szerelmesei is szívesen választják Nadapot szálláshelyként, sokan pedig leendő otthonukat is itt tervezik kialakítani.  
 
 ![Kívülről](https://i.imgur.com/nT0MXNi.jpg)
 
@@ -80,11 +86,11 @@ A 3 utcakapcsolatos, közműves épületben jelenleg összesen 4 lakás van kial
 
 ![Kívülről](https://i.imgur.com/IhXuChh.jpg)
 
-Az egyik ház 88 m2 alapterületű, tégla építésű, új koszorúval, új tetőszerkezettel és új cseréppel. Ez az ingatlan hozzáépítéssel még bővíthető is 45 m-rel a kert felé.
+A fent kiemelten kínált eladó ház egyik szomszédja 88 m2 alapterületű, tégla építésű, új koszorúval, új tetőszerkezettel és új cseréppel. Ez az ingatlan hozzáépítéssel még bővíthető is 45 m-rel a kert felé.
 
 ![Kívülről](https://i.imgur.com/hX36fJi.jpg)
 
-A másik ház 10 éve épült, 259 m2-es, két szintes, két külön lakrészes. A ház otthonos, barátságos hangulatát a fa födém, bio hajópadló, lambéria biztosítja. A ház bútorozott, azonnal költözhető. A hozzá tartozó fedett-nyitott melléképület/kocsibeálló 55 m2-es.
+A címben kínált, eladó családi otthon 11 éve épült.
 
 ![Kívülről](https://i.imgur.com/WRtuGY7.jpg)
 
@@ -97,7 +103,7 @@ Együtt költöző családok számára, közös, önellátó gazdálkodáshoz, e
 
 ![Kívülről](https://i.imgur.com/kKz6T8f.jpg)
 
-S bár gazdálkodásra ideális, valamint több, mint egy hektár, mezőgazdász végzettség, vagy aranykalászos gazda vizsga nélkül is megvásárolható, mert belterület. 
+S bár gazdálkodásra ideális, összesen pedig több, mint egy hektár, mezőgazdász végzettség, vagy aranykalászos gazda vizsga nélkül is megvásárolható, mert belterület. 
 
 ![Kívülről](https://i.imgur.com/lJKwBep.jpg)
 
@@ -112,11 +118,14 @@ A belterületi közműves épületeké: 500 ezer- 1,6 millió Ft/m2.
 A tehermentes birtok ára a további, nem publikus kiváltságai miatt jogosan a felső kategóriába tartozik. 
 
 
-## IRÁNYÁRA: 360 000 000 HUF.
+## A 4000 m2-es területen álló 11 éves családi ház irányára 185 millió HUF.
 
-Az információk birtokában tegyen reális árajánlatot!
+## A teljes, 1,2 ha-os birtok irányára: 360 000 000 HUF.
 
-Az ár ezt követően megegyezés kérdése. Mezőgazdasági területet, egyéb ingatlant a megegyezés szerint az eladók beszámíthatnak. Esetleg észszerű megosztása is lehetséges.
+Az információk birtokában igénye esetén kérem, tegyen reális árajánlatot az eladó, 4000 m2-es telken álló házra! 
+Nagyobb terület, gazdagon termő gyümölcsös igénye esetén akár az 1,2 ha-os egyedülálló belterületi birtokra és azon álló mindhárom épületre.
+
+Az ár ezt követően megegyezés kérdése. Mezőgazdasági területet, egyéb ingatlant a megegyezés szerint az eladók beszámíthatnak. Esetleg a birtok észszerű megosztása is lehetséges.
 
 ## Kérem, keressen további részletekért! Érdemes! :)
 
