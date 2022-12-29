@@ -9,7 +9,7 @@ title: A Velencei-tótól 6 percre erdő öleli a telekáron eladó, különlege
 
 Nadapon az utcafronttól erdőszélig nyúló, 4000 m2-es belterületi telken eladó a 11 éve épült, 259 m2-es, két szintes, két külön lakrészes otthon. 
 
-## Irányára 185 millió HUF.
+## Irányára 179 millió HUF.
 
 A ház barátságos hangulatát a fa födém, bio hajópadló és lambéria biztosítja. Bútorozott, azonnal költözhető. A hozzá tartozó fedett-nyitott melléképület/kocsibeálló 55 m2-es.
 
@@ -118,7 +118,7 @@ A belterületi közműves épületeké: 500 ezer- 1,6 millió Ft/m2.
 A tehermentes birtok ára a további, nem publikus kiváltságai miatt jogosan a felső kategóriába tartozik. 
 
 
-## A 4000 m2-es területen álló 11 éves családi ház irányára 185 millió HUF.
+## A 4000 m2-es területen álló 11 éves családi ház irányára 179 millió HUF.
 
 ## A teljes, 1,2 ha-os birtok irányára: 360 000 000 HUF.
 
