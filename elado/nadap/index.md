@@ -120,7 +120,7 @@ A tehermentes birtok ára a további, nem publikus kiváltságai miatt jogosan a
 
 ## A 4000 m2-es területen álló 11 éves családi ház irányára 179 millió HUF.
 
-## A teljes, 1,2 ha-os birtok irányára: 360 000 000 HUF.
+## A teljes, 1,2 ha-os birtok irányára: 330 000 000 HUF.
 
 Az információk birtokában igénye esetén kérem, tegyen reális árajánlatot az eladó, 4000 m2-es telken álló házra! 
 Nagyobb terület, gazdagon termő gyümölcsös igénye esetén akár az 1,2 ha-os egyedülálló belterületi birtokra és azon álló mindhárom épületre.
