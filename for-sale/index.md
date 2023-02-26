@@ -39,6 +39,19 @@ The famous Esterházy family established this estate in 1910.
 </div>
 <div class="egyik clearfix" markdown="block">
 
+![](https://i.imgur.com/cHwgdIm.jpg)
+
+# Self-sustaining homestead for sale near the Bakony mountains
+
+Exciting, unique, 5.8 ha (approximately 15 acres) property located between two branches of the permanent
+Sed patak (Shaid stream). The property is only 30 km from the famous tourist and health center of 
+Balatonfured—consequently from the "Hungarian sea" of Lake Balaton.
+
+[Details](/for-sale/mill){:.btn.btn-megingat.pull-right}
+
+</div>
+<div class="egyik clearfix" markdown="block">
+
 ![](https://i.imgur.com/EBvtfTD.jpg)
 
 # Special atmosphere lakeside forest
