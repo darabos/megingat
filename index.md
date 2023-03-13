@@ -88,11 +88,3 @@ Az Istenhegyen épült neobarokk villát 2016-ban teljesen felújították. Az 1
 Az eladó mesés kis birtok Európa 2010-es kulturális fővárosától kb. 20 km-re úgy bújik meg egy zsákfalucska szélén, hogy avatatlan szemeknek láthatatlan marad. Tiszta vizű patak ölel egy, a természet által visszahódított, közel ¾ ha-os területet. Az érintetlen csendet a vízesés hangja színesíti.
 
 [Részletek](elado/kisfalu) 
-
-
-# ![Kívülről](https://i.imgur.com/G6plGov.png) Elegáns villa eladó Kőszegen
-{: .black }
-
-1927-ben épült a hatalmas, elegáns családi ház, ami az osztrák határ mentén áll. Jelenlegi tulajdonosainak köszönhető, hogy ma magas színvonalon felújítva kínálja lehetőségeit. Felső kategóriás egészségügyi szolgáltatást, alkotóházat és/vagy otthont egyaránt ki lehet itt alakítani.
-
-[Részletek](elado/koszeg) 
