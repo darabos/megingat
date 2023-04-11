@@ -15,13 +15,15 @@ Izgalmas, különleges, 6,1 ha-os, a vásárlást követő kb. egy éven belül 
 
 Az 1854-ben épült vízimalmot új tulajdonosai 2009-ben kezdték felújítani. Hagyománytisztelő ízléssel a mai kor igényei szerint is kényelmes, igényes otthont teremtettek a történelmünkre emlékező falak között. 
 
-A fotókon látható a már felújított épület korszerűsítése, és az épp kialakított tavacskák még a befejezésük előtt. 
+A fotókon látható a már felújított épület korszerűsítése, az épp kialakított tavacskák a befejezésük előtt és után. 
 
 ![Kívülről](https://i.imgur.com/y6O4BeK.jpg)
 
 ![Kívülről](https://i.imgur.com/JAcfpSa.jpg)
 
 ![Kívülről](https://i.imgur.com/eiYFpPE.jpg)
+
+![Kívülről](https://i.imgur.com/WXF6yub.jpg)
 
 A 300 m2-es, hat szobás, kétszintes épületben egy nagy lakást és vendégek számára egy kényelmes, kétszobás apartmant alakítottak ki. A tetőtér beépítése, a +70 m2-es lakás kialakítása még nem fejeződött be. Mindhárom lakrész önálló bejárattal rendelkezik.
 
@@ -82,5 +84,23 @@ Jó döntést kívánunk! :)
 ![Kívülről](https://i.imgur.com/lvGf4Vr.jpg)
 
 ![Kívülről](https://i.imgur.com/uLm5uNr.jpg)
+
+![Kívülről](https://i.imgur.com/Pt8XAD0.jpg)
+
+![Kívülről](https://i.imgur.com/jU6yM23.jpg)
+
+![Kívülről](https://i.imgur.com/EfiB1LL.jpg)
+
+![Kívülről](https://i.imgur.com/Fiop18z.jpg)
+
+![Kívülről](https://i.imgur.com/6r1ZOKL.jpg)
+
+![Kívülről](https://i.imgur.com/lQgpfgh.jpg)
+
+![Kívülről](https://i.imgur.com/M2ikrHC.jpg)
+
+![Kívülről](https://i.imgur.com/BwOM97E.jpg)
+
+![Kívülről](https://i.imgur.com/hAC5Lgf.jpg)
 
 # ![Kívülről](https://i.imgur.com/UHdPvMr.jpg)
