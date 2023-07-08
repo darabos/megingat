@@ -2,7 +2,28 @@
 layout: felsorolas
 title: Megingat Ingatlanközvetítés
 ---
+<div class="egyik clearfix" markdown="block">
 
+![](https://i.imgur.com/3HJF2mU.jpg)
+
+# Szentendrei otthon eladó a történelmi belvárosban
+
+Szentendre hangulatát még ma is jellemzi az érzés, amiért a művésztelep lassan 100 éve itt talált otthonra. Több, mint kétszáz képző- és iparművész, író, költő, színész és zeneművész él jelenleg is a városban. Itt eladó az extrákkal felszerelt, akadálymentes épület, ami akár több generáció számára is színvonalas otthont tud nyújtani.
+
+[Részletek](/elado/szentendre){:.btn.btn-megingat.pull-right}
+
+</div>
+<div class="egyik clearfix" markdown="block">
+
+![](https://i.imgur.com/QattM3x.jpg)
+
+# Balatonfüredi nyaraló nagy építési telekkel eladó
+
+Balatonfüreden, a Tagore sétánytól gyalogosan 10-15 percnyire eladó gondozott építési terület, 1990 m2-es belterületi ingatlan Füred arácsi domboldalán, a csopaki lejtőkre nyíló panorámával.
+
+[Részletek](/elado/balatonfured){:.btn.btn-megingat.pull-right}
+
+</div>
 <div class="egyik clearfix" markdown="block">
 
 ![](https://i.imgur.com/iwsZG17l.jpg)
@@ -42,7 +63,7 @@ A kínálatban szereplő halgazdaságot az 1910-es években a természettisztel�
 
 # Önfenntartó tanya a Bakonyban
 
-Izgalmas, különleges, több, mint 6 ha-os ingatlant ölel a Bakonyban eredő bő vizű Séd patak két ága, Balatonfüredtől mindössze 30 km-re!
+Izgalmas, különleges, közel 8 ha-os ingatlant ölel a Bakonyban eredő bő vizű Séd patak két ága, Balatonfüredtől mindössze 30 km-re!
 
 [Részletek](/elado/malom){:.btn.btn-megingat.pull-right}
 
