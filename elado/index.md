@@ -23,6 +23,7 @@ Balatonfüreden, a Tagore sétánytól gyalogosan 10-15 percnyire eladó gondozo
 
 [Részletek](/elado/balatonfured){:.btn.btn-megingat.pull-right}
 
+</div>
 <div class="egyik clearfix" markdown="block">
 
 ![](https://i.imgur.com/iwsZG17l.jpg)
