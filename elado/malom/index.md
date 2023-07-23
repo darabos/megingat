@@ -8,10 +8,10 @@ title: Eladó malom
 {% include fold.html %}
 
 ## Ára személyes megbeszélés szerint!
-**Tájékoztató irányára: 1 millió €/410 millió HUF.**
+**Tájékoztató irányára: 900 ezer €.**
 
 
-Izgalmas, különleges, 6,1 ha-os, a vásárlást követő kb. egy éven belül 8 ha-osra bővíthető ingatlant ölel a Bakonyban eredő bő vizű Séd patak két ága, Balatonfüredtől mindössze 30 km-re!
+Izgalmas, különleges, 5,8 ha-os, a vásárlást követő kb. egy éven belül 8 ha-osra bővíthető ingatlant ölel a Bakonyban eredő bő vizű Séd patak két ága, Balatonfüredtől mindössze 30 km-re!
 
 Az 1854-ben épült vízimalmot új tulajdonosai 2009-ben kezdték felújítani. Hagyománytisztelő ízléssel a mai kor igényei szerint is kényelmes, igényes otthont teremtettek a történelmünkre emlékező falak között. 
 
@@ -37,7 +37,7 @@ A tanya majdnem teljesen megközelíthető aszfaltos úton, (rövidke, zúzott k
 
 ![Kívülről](https://i.imgur.com/amgPlmg.jpg)
 
-A jó minőségű szántóból akár több ha legelőként is használható, a terület állattartásra is kiválóan alkalmas. 6100 m2 kivett területen áll a lakóház, udvar, gazdasági épület, mellettük a jól termő zöldséges kert és két kicsi, összesen 250 m2-nyi tavacska, amelyek tiszta vizében pisztrángok élnek. A kerék hajtására és a tavak létesítésére jelenleg érvényes vízjogi engedélyt csak 2028-ban kell hosszabbítani. 
+A jó minőségű szántóból akár több ha legelőként is használható, a terület állattartásra is kiválóan alkalmas. Az erdő 0,8 ha-os, 6100 m2 kivett területen áll a lakóház, udvar, gazdasági épület, mellettük a jól termő zöldséges kert és kettő, összesen 250 m2-nyi tavacska, amelyek friss vizében pisztrángok élnek, ill. az egyik mélyülő medrű, tiszta vízű fürdőtó. A kerék hajtására és a tavak létesítésére jelenleg érvényes vízjogi engedélyt csak 2028-ban kell hosszabbítani. 
 **A terület két oldalán a természetes határ a Séd két ága, így igény esetén, engedélyeztetés után könnyedén kialakítható a mostani legelő területén kb. 1 ha-nyi, gravitációsan tölthető halastó, sőt akár több tó is.**
 
 ![Kívülről](https://i.imgur.com/Nae804W.jpg)
@@ -48,8 +48,8 @@ A jó minőségű szántóból akár több ha legelőként is használható, a t
 
 A tanya Veszprémtől 15 km, Balatonfüredtől 30 km, Budapesttől 120 km távolságra van.
 
-**A jelenleg is fejlődő, a leírásban nem érintett módon tovább is fejleszthető, sokféle lehetőséget nyújtó több, mint 6,1 ha-os terület ára a legújabb és folyamatos fejlesztések, valamint a változó árak miatt a megtekintést követően személyes megbeszélés szerint alakul.
-Tájékoztató irányára: 1 millió €/410 millió HUF.**
+**A jelenleg is fejlődő, a leírásban nem érintett módon tovább is fejleszthető, sokféle lehetőséget nyújtó, jelenleg 5,8 ha-os terület ára a legújabb és folyamatos fejlesztések, valamint a változó árak miatt a megtekintést követően személyes megbeszélés szerint alakul.
+Tájékoztató irányára: 900 ezer €.**
 
 Érdeklődjön a további részletekről!!! Érdemes!
 
