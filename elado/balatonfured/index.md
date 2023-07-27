@@ -38,7 +38,7 @@ A kis birtok most csak nyaraló, de csodás lenne itt a hatalmas fák között o
 
 ![Kívülről](https://i.imgur.com/OtL3MNl.jpg)
 
-## Az ingatlan ára: 199 000 000 HUF.
+## Az ingatlan ára: 165 000 000 HUF.
 
 Kérjük érdeklődjön a részletekről!
 
