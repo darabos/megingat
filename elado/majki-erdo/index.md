@@ -1,7 +1,6 @@
 ---
 layout: elado
-title: Tóparti erdő - MÁR NEM ELADÓ!
----
+title: Tóparti erdő ---
 
 # ![](https://i.imgur.com/EBvtfTD.jpg) Különleges hangulatú, tóparti erdő - MÁR NEM ELADÓ!
 
@@ -49,7 +48,7 @@ Várjuk a hívását! Talán tudunk segíteni abban, hogy hasonló ingatlant tal
 
 ![](https://i.imgur.com/ywscK1I.jpg)
 
-**Az erdő ára a tulajdonossal történő megbeszélés szerint alakul.**
+**Az erdő irányára 85 millió HUF.**
 
 # További képek:
 
