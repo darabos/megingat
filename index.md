@@ -39,7 +39,7 @@ Budapesttől fél órányira, a Velencei-tótól 6 percre erdő öleli az eladó
 [Részletek](elado/nadap)
 
 
-# ![](https://i.imgur.com/EBvtfTD.jpg) Különleges hangulatú, tóparti erdő - MÁR NEM ELADÓ!
+# ![](https://i.imgur.com/EBvtfTD.jpg) Különleges hangulatú, tóparti erdő
 
 Eladó Majk tópartjának egy jelentős és egyben legszebb szakasza, a keleti parti erdőség. A közel 5 ha-os erdő hivatalos határa a parton túl, a vízbe nyúlik.
 
