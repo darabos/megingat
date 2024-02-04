@@ -7,11 +7,11 @@ title: Eladó malom
 
 {% include fold.html %}
 
-## Ára személyes megbeszélés szerint!
-**Tájékoztató irányára: 900 ezer €.**
+## Pontos ára személyes megbeszélés szerint!
+**Irányára: 390 millió HUF.**
 
 
-Izgalmas, különleges, 5,8 ha-os, a vásárlást követő kb. egy éven belül 8 ha-osra bővíthető ingatlant ölel a Bakonyban eredő bő vizű Séd patak két ága, Balatonfüredtől mindössze 30 km-re!
+Izgalmas, különleges, 5,8 ha-os, a vásárlást követő kb. egy éven belül 8 ha-osra, igény esetén tovább is bővíthető ingatlant ölel a Bakonyban eredő bő vizű Séd patak két ága, Balatonfüredtől mindössze 30 km-re!
 
 Az 1854-ben épült vízimalmot új tulajdonosai 2009-ben kezdték felújítani. Hagyománytisztelő ízléssel a mai kor igényei szerint is kényelmes, igényes otthont teremtettek a történelmünkre emlékező falak között. 
 
@@ -25,7 +25,13 @@ A fotókon látható a már felújított épület korszerűsítése, az épp kia
 
 ![Kívülről](https://i.imgur.com/WXF6yub.jpg)
 
-A 300 m2-es, hat szobás, kétszintes épületben egy nagy lakást és vendégek számára egy kényelmes, kétszobás apartmant alakítottak ki. A tetőtér beépítése, a +70 m2-es lakás kialakítása még nem fejeződött be. Mindhárom lakrész önálló bejárattal rendelkezik.
+A 300 m2-es, hat szobás, kétszintes épületben egy nagy lakást és vendégek számára egy kényelmes, kétszobás apartmant alakítottak ki. Mára a 75 m2-es tetőtér beépítése is befejeződött. A felújított épületben 5 fürdőszoba és 6 WC van. Mindhárom lakrész önálló bejárattal rendelkezik. 
+
+![Kívülről](https://i.imgur.com/AhuyWn4.jpg)
+
+![Kívülről](https://i.imgur.com/1mO1Qu9.jpg)
+
+![Kívülről](https://i.imgur.com/zipFLEZ.jpg)
 
 ![Kívülről](https://i.imgur.com/JjwSV0l.jpg)
 
@@ -49,13 +55,17 @@ A jó minőségű szántóból akár több ha legelőként is használható, a t
 A tanya Veszprémtől 15 km, Balatonfüredtől 30 km, Budapesttől 120 km távolságra van.
 
 **A jelenleg is fejlődő, a leírásban nem érintett módon tovább is fejleszthető, sokféle lehetőséget nyújtó, jelenleg 5,8 ha-os terület ára a legújabb és folyamatos fejlesztések, valamint a változó árak miatt a megtekintést követően személyes megbeszélés szerint alakul.
-Tájékoztató irányára: 900 ezer €.**
+Irányára: 390 millió HUF.**
 
 Érdeklődjön a további részletekről!!! Érdemes!
 
 Jó döntést kívánunk! :)
 
 # További képek
+
+![Kívülről](https://i.imgur.com/LqFrwjU.jpg)
+
+![Kívülről](https://i.imgur.com/ZYDQ38h.jpg)
 
 ![Kívülről](https://i.imgur.com/cHwgdIm.jpg)
 
