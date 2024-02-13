@@ -25,7 +25,7 @@ A fotókon látható a már felújított épület korszerűsítése, az épp kia
 
 ![Kívülről](https://i.imgur.com/WXF6yub.jpg)
 
-A 300 m2-es, hat szobás, kétszintes épületben egy nagy lakást és vendégek számára egy kényelmes, kétszobás apartmant alakítottak ki. Mára a 75 m2-es tetőtér beépítése is befejeződött. A felújított épületben 5 fürdőszoba és 6 WC van. Mindhárom lakrész önálló bejárattal rendelkezik. 
+A 300 m2-es, nyolc szobás, kétszintes épületben egy nagy lakást és vendégek számára egy kényelmes, kétszobás apartmant alakítottak ki. Mára a 75 m2-es tetőtér beépítése is befejeződött. A felújított épületben 5 fürdőszoba és 6 WC van. Mindhárom lakrész önálló külső bejárattal rendelkezik. 
 
 ![Kívülről](https://i.imgur.com/AhuyWn4.jpg)
 
@@ -37,7 +37,7 @@ A 300 m2-es, hat szobás, kétszintes épületben egy nagy lakást és vendégek
 
 ![Kívülről](https://i.imgur.com/6rZjLTe.jpg)
 
-A tanya majdnem teljesen megközelíthető aszfaltos úton, (rövidke, zúzott köves szakasz visz a kapuig). A gyönyörű és egészséges környezetben álló otthon kiemelkedő előnye, hogy bár a telken elérhető a vezetékes víz, csatornahálózat és az elektromos áram (3x20 A), a fenntartása környezetbarát megoldásokkal is működik. A malom kerekét a 3 m-ről lezúduló patakvíz hajthatja, az elektromos energia egy része innen is származhat, a tetőn pedig napkollektorok és napelemek termelik az energiát. A napelemes rendszer, az ad-vesz elektromos fogyasztásmérő, a fűtésre optimalizált klíma biztosítja a függetlenség és kényelem megnyugtató érzését. A saját forrás által táplált kút bevizsgált ivóvizet ad, az otthon melegét a központi fűtés mellett a cserépkályhában és kandallóban pattogó tűz hangulata is emeli…
+A tanya majdnem teljesen megközelíthető aszfaltos úton, (rövidke, zúzott köves szakasz visz a kapuig). A gyönyörű és egészséges környezetben álló otthon kiemelkedő előnye, hogy bár a telken elérhető a vezetékes víz, csatornahálózat és az elektromos áram (3x32 A), a fenntartása környezetbarát megoldásokkal is működik. A malom kerekét a 3 m-ről lezúduló patakvíz hajthatja, az elektromos energia egy része innen is származhat, a tetőn pedig napkollektorok és napelemek termelik az energiát. A napelemes rendszer, az ad-vesz elektromos fogyasztásmérő, a fűtésre optimalizált klíma biztosítja a függetlenség és kényelem megnyugtató érzését. A saját forrás által táplált kút bevizsgált ivóvizet ad, az otthon melegét a központi fűtés mellett a cserépkályhában és kandallóban pattogó tűz hangulata is emeli…
 
 ![Kívülről](https://i.imgur.com/7E4lwFm.jpg)
 
