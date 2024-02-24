@@ -7,11 +7,7 @@ title: Eladó malom
 
 {% include fold.html %}
 
-## Pontos ára személyes megbeszélés szerint!
-**Irányára: 390 millió HUF.**
-
-
-Izgalmas, különleges, 5,8 ha-os, a vásárlást követő kb. egy éven belül 8 ha-osra, igény esetén tovább is bővíthető ingatlant ölel a Bakonyban eredő bő vizű Séd patak két ága, Balatonfüredtől mindössze 30 km-re!
+Balatonfüredtől mindössze 30 km-re izgalmas, különleges, 6 ha-os, igény esetén tovább bővíthető ingatlant ölel a Bakonyban eredő bővizű Séd patak két ága!
 
 Az 1854-ben épült vízimalmot új tulajdonosai 2009-ben kezdték felújítani. Hagyománytisztelő ízléssel a mai kor igényei szerint is kényelmes, igényes otthont teremtettek a történelmünkre emlékező falak között. 
 
@@ -25,7 +21,7 @@ A fotókon látható a már felújított épület korszerűsítése, az épp kia
 
 ![Kívülről](https://i.imgur.com/WXF6yub.jpg)
 
-A 300 m2-es, nyolc szobás, kétszintes épületben egy nagy lakást és vendégek számára egy kényelmes, kétszobás apartmant alakítottak ki. Mára a 75 m2-es tetőtér beépítése is befejeződött. A felújított épületben 5 fürdőszoba és 6 WC van. Mindhárom lakrész önálló külső bejárattal rendelkezik. 
+A 300 m2-es, hat és fél szobás, kétszintes épületben egy nagy lakást, a vendégek számára egy kényelmes, kétszobás apartmant alakítottak ki, és a 80 m2-es tetőtér beépítése is befejeződött. A felújított épületben 5 fürdőszoba és 6 WC van. Mindhárom lakrész önálló külső bejárattal rendelkezik.
 
 ![Kívülről](https://i.imgur.com/AhuyWn4.jpg)
 
@@ -37,14 +33,19 @@ A 300 m2-es, nyolc szobás, kétszintes épületben egy nagy lakást és vendég
 
 ![Kívülről](https://i.imgur.com/6rZjLTe.jpg)
 
-A tanya majdnem teljesen megközelíthető aszfaltos úton, (rövidke, zúzott köves szakasz visz a kapuig). A gyönyörű és egészséges környezetben álló otthon kiemelkedő előnye, hogy bár a telken elérhető a vezetékes víz, csatornahálózat és az elektromos áram (3x32 A), a fenntartása környezetbarát megoldásokkal is működik. A malom kerekét a 3 m-ről lezúduló patakvíz hajthatja, az elektromos energia egy része innen is származhat, a tetőn pedig napkollektorok és napelemek termelik az energiát. A napelemes rendszer, az ad-vesz elektromos fogyasztásmérő, a fűtésre optimalizált klíma biztosítja a függetlenség és kényelem megnyugtató érzését. A saját forrás által táplált kút bevizsgált ivóvizet ad, az otthon melegét a központi fűtés mellett a cserépkályhában és kandallóban pattogó tűz hangulata is emeli…
+A tanya majdnem teljesen megközelíthető aszfaltos úton, arról rövidke, zúzott köves szakasz visz a kapuig. A gyönyörű és egészséges környezetben álló otthon kiemelkedő előnye, hogy bár a telken belül elérhető a vezetékes víz és az elektromos áram (3x32 A), a fenntartása környezetbarát megoldásokkal is működik. A malom kerekét a 3 m-ről lezúduló patakvíz hajtja. A tetőn 10 KW-nyi napelem termeli az energiát, ami igény szerint még bővíthető. (Az inverter 12,5 KW-os.) A háztartási gépekkel is jól felszerelt tágas épület teljes energiafogyasztását, melegvíz ellátását bőségesen fedezi a napelemes rendszer, a fűtésre optimalizált klíma biztosítja a függetlenség és kényelem megnyugtató érzését. 
+Az elektromos fogyasztásmérő alapján kiállított számla szerint mindez **0 HUF/év**!
+A szolgáltató számára csak a rendelkezésre állásáért kell fizetni. (1836 HUF/év)
+
+Alternatívaként az otthon melegét a vegyes (itt fa) tüzelésű kazánnal a központi fűtés is garantálja, valamint a cserépkályhában és kandallóban pattogó tűz hangulata is emeli…
 
 ![Kívülről](https://i.imgur.com/7E4lwFm.jpg)
 
 ![Kívülről](https://i.imgur.com/amgPlmg.jpg)
 
-A jó minőségű szántóból akár több ha legelőként is használható, a terület állattartásra is kiválóan alkalmas. Az erdő 0,8 ha-os, 6100 m2 kivett területen áll a lakóház, udvar, gazdasági épület, mellettük a jól termő zöldséges kert és kettő, összesen 250 m2-nyi tavacska, amelyek friss vizében pisztrángok élnek, ill. az egyik mélyülő medrű, tiszta vízű fürdőtó. A kerék hajtására és a tavak létesítésére jelenleg érvényes vízjogi engedélyt csak 2028-ban kell hosszabbítani. 
-**A terület két oldalán a természetes határ a Séd két ága, így igény esetén, engedélyeztetés után könnyedén kialakítható a mostani legelő területén kb. 1 ha-nyi, gravitációsan tölthető halastó, sőt akár több tó is.**
+A szántóföld igen jó minőségű, a terület állattartásra is kiválóan alkalmas. A 6 ha-os terület 2,5 ha-nyi része fejlesztési terület (lovas, sport, szabadidő), ennek 10 %-a beépíthető.
+Az erdő 0,8 ha-os, 6100 m2 kivett területen áll a lakóház, udvar, a 270 m2-es gazdasági épület, mellettük a jól termő zöldséges kert és kettő, összesen 250 m2-nyi, mélyülő medrű, tiszta vizű fürdőtó. 
+A terület két oldalán természetes határ a Séd két ága, így a földrajzi adottságok, a terepviszonyok nem akadályozzák a mostani legelő helyén kb. 1 ha-nyi, gravitációsan tölthető halastó kialakítását.
 
 ![Kívülről](https://i.imgur.com/Nae804W.jpg)
 
@@ -54,8 +55,7 @@ A jó minőségű szántóból akár több ha legelőként is használható, a t
 
 A tanya Veszprémtől 15 km, Balatonfüredtől 30 km, Budapesttől 120 km távolságra van.
 
-**A jelenleg is fejlődő, a leírásban nem érintett módon tovább is fejleszthető, sokféle lehetőséget nyújtó, jelenleg 5,8 ha-os terület ára a legújabb és folyamatos fejlesztések, valamint a változó árak miatt a megtekintést követően személyes megbeszélés szerint alakul.
-Irányára: 390 millió HUF.**
+**Irányára: 390 millió HUF.**
 
 Érdeklődjön a további részletekről!!! Érdemes!
 
