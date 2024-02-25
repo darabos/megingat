@@ -27,7 +27,7 @@ A kínálatban szereplő halgazdaságot az 1910-es években a természettisztel�
 
 # ![](https://i.imgur.com/cHwgdIm.jpg) Önfenntartó tanya a Bakonyban
 
-Izgalmas, különleges, összesen közel 8 ha-os ingatlant ölel a Bakonyban eredő bő vizű Séd patak két ága, Balatonfüredtől mindössze 30 km-re!
+Balatonfüredtől mindössze 30 km-re izgalmas, különleges, 6 ha-os, igény esetén tovább bővíthető ingatlant ölel a Bakonyban eredő bővizű Séd patak két ága!
 
 [Részletek](elado/malom)
 
