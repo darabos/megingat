@@ -83,13 +83,6 @@ Szentendre hangulatát még ma is jellemzi az érzés, amiért a művésztelep l
 [Részletek](/elado/szentendre)
 
 
-# ![](https://i.imgur.com/QattM3x.jpg) Balatonfüredi nyaraló nagy építési telekkel eladó 
-
-Balatonfüreden, a Tagore sétánytól gyalogosan 10-15 percnyire eladó gondozott építési terület, 1990 m2-es belterületi ingatlan Füred arácsi domboldalán, a csopaki lejtőkre nyíló panorámával.
-
-[Részletek](/elado/balatonfured)
-
-
 # ![](https://i.imgur.com/jAxeORh.jpg) A vadregényes birtokon forrás, patak, vízesés és malomrom…
 
 Az eladó mesés kis birtok Európa 2010-es kulturális fővárosától kb. 20 km-re úgy bújik meg egy zsákfalucska szélén, hogy avatatlan szemeknek láthatatlan marad. Tiszta vizű patak ölel egy, a természet által visszahódított, közel ¾ ha-os területet. Az érintetlen csendet a vízesés hangja színesíti.
