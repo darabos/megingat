@@ -1,13 +1,13 @@
 ---
 layout: elado
-title: Eladó birtok az Őrségben
+title: Már nem eladó a birtok az Őrségben!
 ---
 
-# ![](https://i.imgur.com/FNB5Kqs.jpg) Eladó birtok az Őrségi Nemzeti Parkban
+# ![](https://i.imgur.com/FNB5Kqs.jpg) Eladó volt a birtok az Őrségi Nemzeti Parkban
 
 {% include fold.html %}
 
-Eladó egy régmúlt idők békéjét és tisztaságát idéző birtok az Őrségi Nemzeti Park fokozottan védett területén.
+Eladó volt egy régmúlt idők békéjét és tisztaságát idéző birtok az Őrségi Nemzeti Park fokozottan védett területén.
 
 ![](https://i.imgur.com/tq6gtsK.jpg)
 
@@ -85,7 +85,7 @@ A vegyszermentes gazdálkodás és a szubalpin klíma hatására egyedülállóa
 A helyi sajátos időjárásnak, a tisztaságnak, térnek, békének köszönhető az eladó birtokról és környékéről készült képeken látható színek kavalkádja.
 Az ott élők számára ajándék ez nap mint nap.
 
-**Az eladó birtok irányára 350 000 €, amely személyes megtekintést követően alkuképes lehet.**  
+**Az eladó birtok irányára 350 000 € volt.**  
 
 
 # További képek:
