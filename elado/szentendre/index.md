@@ -20,7 +20,7 @@ Ha megteheti, most Önnek is lehetősége nyílik itt élni.
 
 ![Kívülről](https://i.imgur.com/JDtAXv1.jpg)
 
-Az 1996-ban épült, eladó polgári ház kortalanul klasszikus, kiváló minőségű burkolataival, építészeti megoldásaival kielégíti a jelen luxus igényeit, harmóniában a múlt eleganciájával, élve a domborzat kínálta izgalmas lehetőségekkel.
+Az 1996-ban épült,a közelmúltban felújított (szigetelt) eladó polgári ház kortalanul klasszikus, kiváló minőségű burkolataival, építészeti megoldásaival kielégíti a jelen luxus igényeit, harmóniában a múlt eleganciájával, élve a domborzat kínálta izgalmas lehetőségekkel.
 
 ![Kívülről](https://i.imgur.com/aNY48Li.jpg)
 
@@ -106,7 +106,7 @@ A telek területe 211 m2, ebből a kicsi udvar 88 m2-es.
 
 Az épület alapterülete 480 m2.
 
-## Az ingatlan ára: 399 000 000 HUF.
+## Az ingatlan ára: 525 000 000 HUF.
 
 Kérjük érdeklődjön a részletekről!
 
