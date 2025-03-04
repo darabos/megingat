@@ -8,7 +8,7 @@ canindex: no
 
 {% include fold.html %}
 
-Eladó Pannonhalmán egy 80 ha-os, vadregényes ingatlan. 
+Eladó Pannonhalmán egy közel 90 ha-os, vadregényes ingatlan. 
 
 A birtokot a Világörökség részét képező Pannonhalmi Bencés Apátság impozáns épület-együttese őrzi. A tulajdonos család szorgalmát, igényességét dicséri a hatalmas, mindenhol gondozott terület.
 
