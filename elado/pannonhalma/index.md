@@ -26,8 +26,6 @@ A tulajdonos jelenleg jól jövedelmező halgazdaságként hasznosítja a Pándz
 
 ![Kívülről](https://i.imgur.com/aIffkHL.jpg)
 
-![Kívülről](https://i.imgur.com/5UgiglR.jpg)
-
 ![Kívülről](https://i.imgur.com/xZxKaTB.jpg)
 
 A terület összközműves, a szennyvíz elvezetése csatorna-hálózatra van csatlakoztatva, saját átemelővel. Az elektromos áram földkábelen érkezik a tulajdonos családiházaihoz, a halászházhoz, a reflektorokhoz és a tavak levegőztetőihez is.
