@@ -3,11 +3,11 @@ layout: elado
 title: Tóparti erdő 
 ---
 
-# ![](https://i.imgur.com/EBvtfTD.jpg) Különleges hangulatú, tóparti erdő eladó!
+# ![](https://i.imgur.com/EBvtfTD.jpg) Különleges hangulatú, tóparti erdő – átmenetileg nem eladó!
 
 {% include fold.html %}
 
-Eladó Majk tópartjának egy jelentős és egyben legszebb szakasza, a keleti parti erdőség.
+Majk tópartjának egy jelentős és egyben legszebb szakasza, a keleti parti erdőség.
 A közel 5 ha-os erdő hivatalos határa a parton túl, a vízbe nyúlik.
 
 ![](https://i.imgur.com/Wk32RbG.jpg)
@@ -33,9 +33,6 @@ Faóriások őrzik a béke és tisztaság birodalmát.
 ![](https://i.imgur.com/mDkLNNi.jpg)
 
 Az erdő szomszédsága lakott, ezért vezetékes víz és áram elérhető a telek határán. A tó partján a felújított malomban, a terület egyetlen lakosaként egy fotóművész él.
-A “Vendéglő a négy remetéhez” teraszáról az eladó erdőre mesés kilátás nyílik.
-
-<http://www.negyremete.hu/>
 
 Majk erdői, a csillogó víztükör, a hely szellemisége minden évszakban elvarázsolja az idelátogatókat.
 Nézze meg Ön is! 
@@ -49,7 +46,7 @@ Várjuk a hívását!:)
 
 ![](https://i.imgur.com/ywscK1I.jpg)
 
-**A különleges erdő irányára 85 millió HUF.**
+**Tájékoztatásul: a különleges erdő irányára 85 millió HUF volt.**
 
 # További képek:
 
