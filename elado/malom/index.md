@@ -3,7 +3,7 @@ layout: elado
 title: Eladó malom
 ---
 
-# ![Kívülről](https://i.imgur.com/6rZjLTe.jpg) Eladó önfenntartó tanya a Bakonyban!
+# ![Kívülről](https://i.imgur.com/YQTNkZ4.jpg) Eladó önfenntartó tanya a Bakonyban!
 
 {% include fold.html %}
 
@@ -13,13 +13,17 @@ Az 1854-ben épült vízimalmot új tulajdonosai 2009-ben kezdték felújítani.
 
 A fotókon látható a már felújított épület korszerűsítése, az épp kialakított tavacskák a befejezésük előtt és után. 
 
-![Kívülről](https://i.imgur.com/y6O4BeK.jpg)
+![Kívülről](https://imgur.com/a/GLzUvbz)
 
 ![Kívülről](https://i.imgur.com/JAcfpSa.jpg)
 
-![Kívülről](https://i.imgur.com/eiYFpPE.jpg)
-
 ![Kívülről](https://i.imgur.com/WXF6yub.jpg)
+
+![Kívülről](https://i.imgur.com/rDni6LP.jpg)
+
+![Kívülről](https://i.imgur.com/zn4KsNk.jpg)
+
+![Kívülről](https://i.imgur.com/TSS5tTt.jpg)
 
 A 300 m2-es, hat és fél szobás, kétszintes épületben egy nagy lakást, a vendégek számára egy kényelmes, kétszobás apartmant alakítottak ki, és a 80 m2-es tetőtér beépítése is befejeződött. A felújított épületben 5 fürdőszoba és 6 WC van. 
 **Mindhárom lakrész önálló külső bejárattal rendelkezik.**
@@ -32,6 +36,8 @@ A 300 m2-es, hat és fél szobás, kétszintes épületben egy nagy lakást, a v
 
 ![Kívülről](https://i.imgur.com/JjwSV0l.jpg)
 
+![Kívülről](https://i.imgur.com/fiGsmIB.jpg)
+
 A tanya szinte teljesen megközelíthető aszfaltos úton, arról rövidke, zúzott köves szakasz visz a kapuig. A gyönyörű és egészséges környezetben álló otthon kiemelkedő előnye, hogy bár a telken belül elérhető a vezetékes víz és az elektromos áram (3x32 A), a fenntartása környezetbarát megoldásokkal is működik. A malom kerekét a 3 m-ről lezúduló patakvíz hajtja. A tetőn 10 KW-nyi napelem termeli az energiát, ami igény szerint még bővíthető. (Az inverter 12,5 KW-os.) A háztartási gépekkel is jól felszerelt tágas épület teljes energiafogyasztását, melegvíz ellátását bőségesen fedezi a napelemes rendszer, a fűtésre optimalizált klíma biztosítja a függetlenség és kényelem megnyugtató érzését. 
 Az elektromos fogyasztásmérő alapján kiállított számla szerint mindez **0 HUF/év**!
 A szolgáltató számára csak a rendelkezésre állásáért kell fizetni. (1836 HUF/év)
@@ -43,6 +49,8 @@ Alternatívaként az otthon melegét a vegyes (itt fa) tüzelésű kazánnal a k
 ![Kívülről](https://i.imgur.com/7E4lwFm.jpg)
 
 ![Kívülről](https://i.imgur.com/amgPlmg.jpg)
+
+![Kívülről](https://i.imgur.com/kboeLx0.jpg)
 
 A szántóföld igen jó minőségű, a terület állattartásra is kiválóan alkalmas. A 9,1 ha-os terület 2,5 ha-nyi része fejlesztési terület (lovas, sport, szabadidő), ennek 10 %-a beépíthető.
 Az erdő 0,8 ha-os, 6100 m2 kivett területen áll a lakóház, udvar, a 270 m2-es gazdasági épület, mellettük a jól termő zöldséges kert és kettő, összesen 250 m2-nyi, mélyülő medrű, tiszta vizű fürdőtó. 
@@ -71,6 +79,8 @@ A tanya Veszprémtől 15 km, Balatonfüredtől 30 km, Budapesttől 120 km távol
 Jó döntést kívánunk! :)
 
 # További képek
+
+![Kívülről](https://i.imgur.com/JAxK1qC.jpg)
 
 ![Kívülről](https://i.imgur.com/ZYDQ38h.jpg)
 
