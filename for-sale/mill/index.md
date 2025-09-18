@@ -7,7 +7,7 @@ title: Mill for sale
 
 {% include fold.html %}
 
-## Asking price: 500000 €
+## Asking price: 800000 €
 
 Exciting, unique, 5.8 ha (approximately 15 acres) property located between two
 branches of the permanent
@@ -54,7 +54,7 @@ area to the property is also for sale.
 The 5.8 ha property is in [Herend](http://hu.wikipedia.org/wiki/Herend), 15 km from Veszprém, 30 km from
 Balatonfüred and 120 km from Budapest.
 
-**Asking price: € 500,000.**
+**Asking price: € 800,000.**
 
 # More photos
 
