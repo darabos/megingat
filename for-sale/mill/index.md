@@ -58,22 +58,60 @@ Balatonfüred and 120 km from Budapest.
 
 # More photos
 
-![](https://i.imgur.com/cHwgdIm.jpg)
+![Kívülről](https://i.imgur.com/JAxK1qC.jpg)
 
-![](https://i.imgur.com/YhI4eTS.jpg)
+![Kívülről](https://i.imgur.com/ZYDQ38h.jpg)
 
-![](https://i.imgur.com/NBloOsX.jpg)
+![Kívülről](https://i.imgur.com/kNr6w1d.jpg)
 
-![](https://i.imgur.com/pwnwLmS.jpg)
+![Kívülről](https://i.imgur.com/cHwgdIm.jpg)
 
-![](https://i.imgur.com/bIz4DC5.jpg)
+![Kívülről](https://i.imgur.com/y00UVO2.jpg)
 
-![](https://i.imgur.com/7nJY3Vg.jpg)
+![Kívülről](https://i.imgur.com/YhI4eTS.jpg)
 
-![](https://i.imgur.com/8PldK8Q.jpg)
+![Kívülről](https://i.imgur.com/tc6fhUS.jpg)
 
-![](https://i.imgur.com/PGn81UA.jpg)
+![Kívülről](https://i.imgur.com/NBloOsX.jpg)
 
-![](https://i.imgur.com/GBVGLUi.jpg)
+![Kívülről](https://i.imgur.com/pwnwLmS.jpg)
+
+![Kívülről](https://i.imgur.com/bIz4DC5.jpg)
+
+![Kívülről](https://i.imgur.com/XPNh6sa.jpg)
+
+![Kívülről](https://i.imgur.com/7nJY3Vg.jpg)
+
+![Kívülről](https://i.imgur.com/8PldK8Q.jpg)
+
+![Kívülről](https://i.imgur.com/tvsTRFs.jpg)
+
+![Kívülről](https://i.imgur.com/NLnq2pu.jpg)
+
+![Kívülről](https://i.imgur.com/SN0SS9E.jpg)
+
+![Kívülről](https://i.imgur.com/GBVGLUi.jpg)
+
+![Kívülről](https://i.imgur.com/lvGf4Vr.jpg)
+
+![Kívülről](https://i.imgur.com/uLm5uNr.jpg)
+
+![Kívülről](https://i.imgur.com/Pt8XAD0.jpg)
+
+![Kívülről](https://i.imgur.com/jU6yM23.jpg)
+
+![Kívülről](https://i.imgur.com/EfiB1LL.jpg)
+
+![Kívülről](https://i.imgur.com/Fiop18z.jpg)
+
+![Kívülről](https://i.imgur.com/6r1ZOKL.jpg)
+
+![Kívülről](https://i.imgur.com/lQgpfgh.jpg)
+
+![Kívülről](https://i.imgur.com/M2ikrHC.jpg)
+
+![Kívülről](https://i.imgur.com/BwOM97E.jpg)
+
+![Kívülről](https://i.imgur.com/hAC5Lgf.jpg)
 
 # ![](https://i.imgur.com/lvGf4Vr.jpg)
