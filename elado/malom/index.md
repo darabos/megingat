@@ -72,7 +72,7 @@ A terület két oldalán természetes határ a Séd két ága, így a földrajzi
 
 A tanya Veszprémtől 15 km, Balatonfüredtől 30 km, Budapesttől 120 km távolságra van.
 
-**Az irányára: 360 millió HUF.**
+**Az irányára: 320 millió HUF.**
 
 Érdeklődjön a további részletekről!!! Érdemes!
 
