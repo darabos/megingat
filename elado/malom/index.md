@@ -13,8 +13,6 @@ Az 1854-ben épült vízimalmot új tulajdonosai 2009-ben kezdték felújítani.
 
 A fotókon látható a már felújított épület korszerűsítése, az épp kialakított tavacskák a befejezésük előtt és után. 
 
-![Kívülről](https://imgur.com/a/GLzUvbz)
-
 ![Kívülről](https://i.imgur.com/JAcfpSa.jpg)
 
 ![Kívülről](https://i.imgur.com/WXF6yub.jpg)
@@ -72,7 +70,7 @@ A terület két oldalán természetes határ a Séd két ága, így a földrajzi
 
 A tanya Veszprémtől 15 km, Balatonfüredtől 30 km, Budapesttől 120 km távolságra van.
 
-**Az irányára: 320 millió HUF.**
+**Az irányára: 350 millió HUF.**
 
 Érdeklődjön a további részletekről!!! Érdemes!
 
