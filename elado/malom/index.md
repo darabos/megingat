@@ -3,7 +3,7 @@ layout: elado
 title: Eladó malom
 ---
 
-# ![Kívülről](https://i.imgur.com/YQTNkZ4.jpg) Eladó önfenntartó tanya a Bakonyban!
+# ![Kívülről](https://i.imgur.com/YQTNkZ4.jpg) Önfenntartó tanya most árengedménnyel eladó a Bakonyban!
 
 {% include fold.html %}
 
@@ -70,7 +70,7 @@ A terület két oldalán természetes határ a Séd két ága, így a földrajzi
 
 A tanya Veszprémtől 15 km, Balatonfüredtől 30 km, Budapesttől 120 km távolságra van.
 
-**Az irányára: 350 millió HUF.**
+**Az irányára: 290 millió HUF.**
 
 Érdeklődjön a további részletekről!!! Érdemes!
 
