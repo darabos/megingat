@@ -25,8 +25,6 @@ A látható környezet dombvidéki tanyavilág, a hajdani majorságot idézi. A 
 
 ![Kívülről](https://i.imgur.com/R9k1XY5.jpg)
 
-<http://www.kecskevilag.hu/>
-
 <http://torokbalintinyitnikekovoda.hu/kezdolap.html>
 
 <https://www.youtube.com/watch?v=7L0hfRe8A0c>
@@ -44,7 +42,7 @@ Az ingatlan kínálta lehetőségek megvalósítását pályázatok is segíthet
 
 ![Kívülről](https://i.imgur.com/fTwWhef.jpg)
 
-## Irányára: 10000 HUF/m2. Az ár rugalmas.
+## Irányára: 12500 HUF/m2.
 
 Kérjük érdeklődjön a részletekről!
 
